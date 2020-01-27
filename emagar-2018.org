@@ -1,0 +1,2461 @@
+#+SEQ_TODO: TODO WAIT TEST URGENT! | DONE DROPPED
+
+* Gus
+** 44% round it, 40-50
+** female plot: also show larger scale after the fixed y-axis version
+** offer key point, take-home after the 4 point slide and before the descriptive maps/plots
+** Brinca a tu prueba mucho más rápido --- reduce descripción a 8 minutos, no 35
+** Drop the "we" are confident... "I" am confident
+
+
+
+* Parciales primavera 2018
+** ep3
+Tras la elección general italiana del domingo 4 de marzo, haga una predicción del gobierno que se formará a partir del modelo de Laver y Shepsle (1990) y justifíquela. Haga explícitas las premisas concretas que subyacen a su conclusión. No evaluaré la certeza de la predicción---de hecho, el modelo es concido por u incapacidad de pronosticar---sino la lógica del argumento y el cómo refleja el contexto político actual. 
+
+Trabajará en equipo. Cada equipo entregará un trabajo en formato de póster de investigación. La entrega está programada para el jueves 15 de marzo en clase. 
+
+Equipos (hay mercado secundario coasiano para intercambios):
+
+MARTINEZ CABELLO SARA, MENDOZA MORA DIEGO, GEREZ STEFFEY ALEXA
+
+ARIAS SANCHEZ DANIELA, RUIZ DE LA CONCHA OBREGON SERGIO, RODAS COUTIÑO LUIS GERARDO
+
+FIGUEROA VELASCO RUBEN, CASTRO MORALES ZYANYA, LUNA ALCANTARA DIANA
+
+SALAS SANCHEZ CARLOS 2, MEDINA FUENTES ALFREDO, LAU AVILES ANGIE
+
+CHAVARRIA DIAZ ROGER, LANDIN QUIROS CESAR 1, SANCHEZ AVILEZ CARLOS 1
+
+CHONG OVIEDO MANUEL, PULIDO MORALES CESAR 2, MARTINEZ PORRAS ZAIRA
+
+RAYGOZA SOLIS JORGE, JIMENEZ SANCHEZ DAVID , TELLO ARENAS ERIKA
+
+DEGETAU SANCHEZ-MEJORADA PAULINA, TUSSIE BERDICHEVSKY PAULA, ORTEGA PATRON CARLOS 3
+
+QUINTANAR TORRES SALVADOR, MOLINA JASSO MONICA 
+
+RUIZ RIVERA TERE, TELLEZ RODRIGUEZ ENRIQUE
+** pc3
+El objetivo es buscar evidencia de coordinación electoral (o su ausencia) en elecciones municipales del país. 
+
+Visite el repositorio siguiente: [[https://github.com/emagar/elecReturns/blob/master/data/aymu1985-present.coalAgg.csv]] y obtenga una copia de los datos. Se trata de los resultados de elecciones municipales desde 1985 (faltan las más recientes), encontrará la descripción del contenido en [[https://github.com/emagar/elecReturns/]]. 
+
+Excluya observaciones anteriores a 2000. Plantee un diseño de investigación que permita detectar evidencia de coordinación o descoordinación electoral. Sugiero que seleccione una muestra y no todos los municipios/años. Explore los datos para detectar patrones que ayuden a seleccionar un estado, o un grupo de estados, o un periodo.
+
+Describa su diseño de investigación, las hipótesis que pone a prueba y reporte sus hallazgos de forma clara y distinta, sin rollo. 
+
+La fecha de entrega será el jueves 22 de marzo en clase. 
+
+
+* org-agenda bindings
+** C-c [     add current file to list of agenda files
+** C-c ]     drop current file to list of agenda files
+** C-c a a   compile an agenda from files
+** http://orgmode.org/manual/Agenda-commands.html
+** f [With agenda compiled]      one unit fwd
+** b [With agenda compiled]      one unit backward
+** . [With agenda compiled]      go to today
+** j [With agenda compiled]      prompt for day to go to
+
+* GEL-DF
+** Peter H. Smith
+*** Peter Smith's presentation
+
+Welcome everyone to the fourth meeting of ALACIP's Grupo de Estudios Legislativos. We are delighted to host several dozen foreign visitors at the ITAM campus for a two-day academic event.
+
+Our discipline stands at a crossroads in uncetain times. 
+
+Back in 2008 the meltdown of global financial markets posed a major challenge to the field of economics. Their theoretical apparatus was (still is?) ill-equiped to anticipate and avoid the crisis. 
+
+Back then, political science seemed in a better position to weather the flock of black swans. 
+
+No more. Recent events have now put our discipline in dire straits, exposing vulnerabilities and forcing a debate on how to cope with a changing world.
+
+Can political economy explain the sudden backlash against the Washington Consensus?
+
+Did comparative politics offer room to expect electoral revolts in so many places or the polarization of the press?
+
+Could neo-institutionalism explain much given the dismal state of so many post-WW2 party systems in advanced democracies? 
+
+And, key, are these important events transitory or are we in the eve of durable change?
+
+Given that the field of legislative studies stands at the intersection of political economy, comparative politics, and neo-institutionalism, these are questions of vital importance for us here! As the Chinese curse has it, 'May you live interesting times'.
+
+With this backround (dismalI?) I am honored to introduce our keynote speaker this morning. 
+
+He barely needs a presentation, he is an authority in Latin American politics. 
+
+His career spans several decades. Most salient, perhaps, is his work on elite recruitment in post-revolutionary Mexico; his volumes on the structural tensions of Argentine democracy; his work on U.S.-Latin American relations, with emphasis in the consequences of the prohibition of many psicho-active substances; and several monographs of politics in the region. 
+
+He is also a pioneer in legislative studies, examining roll call votes at the dawn of Peronism. 
+
+And my recollection from years at UCSD is that he is a formidable speaker. 
+
+Simón Bolívar Professor of Latin American Studies and Distinguished Professor Emeritus at UCSD. 
+
+With such background, he will shed light on the sub-field of legislative studies, reminding us how it relates to the bigger picture of Latin American studies. And, with some luck, we might get some notions of how much of a threat these interesting times are for the sub-field and what can be done to adapt. 
+
+I please ask a round of applause for Peter Smith. 
+
+# Peter's bio from ucsd web page
+It's not clear how I ended up at UCSD.'
+
+My path to academia began many years ago, when, as a college undergraduate, I yearned to make the then-customary 'grand tour' of Europe (St. Mark's Square, the Left Bank, beer halls of Munich, etc.).' The problem was a lack of funds.' So I took a less expensive trip'a bus ride from New York to Mexico City.' Talk about plunging into a void'I knew no Spanish, no Mexican history, no Latin American politics, nothing.' I was captivated by the country and its people, of course, and my life has never been the same.
+
+Unfulfilled wanderlust shaped the course of my graduate career.' Still determined to travel'and make it to Europe!'I decided to write a dissertation about Argentina, as far away as you could get within the Western Hemisphere.' A fellowship allowed me to live a full year in Buenos Aires, a hugely cosmopolitan city.' Subsequent preparation of a book manuscript absolutely required'you guessed it'extensive research in London, and on this flimsy basis I finally made it to Europe.' Exciting!
+
+Over the years I have continued my travels and quests.' It is my conviction that, in this time of speedy and unpredictable change, it is essential'for policymakers, political scientists, and ordinary citizens'to try to understand the variety of normative and cultural frameworks that exist around the world.' This is best accomplished, or attempted, by meeting the people, reading the books, watching the films, etc.' It is a challenging and often daunting task.' It is also fun.
+
+Family members share this belief.' I have been blessed with two generations of children: two sons, now in their thirties, both embarked on productive (non-academic!) professional careers; and two wondrous daughters, now six and eight.' (The photo shows me and the older girl, Sasha, when she was three months old in 1995.)' My spouse, Jennifer Troutner, Ph.D., is a specialist on China and is co-editor of the book on women in Asia and Latin America [see entry under 'Research'].
+
+It's been a circuitous trip, this sojourn from an East Coast college to UCSD.' To borrow a phrase from Maya Angelou, Wouldn't Take Nothing for My Journey Now.
+
+
+
+*** Buscar
+- Labyrinths of Power 
+  ITAM 303.30972 s656LA
+- Democracy in Latin America: Political Change in Comparative Perspective 2005
+  Colmex 320.98 S6421d
+- Argentina and the failure of democracy: conflict among political elites, 1904-1955 --> roll calls argentina aquí???
+  Colmex 320.98206 S656a 
+- Promises of Empowerment: Women in Asia and Latin America 2004
+- NAFTA in the new millenium
+
+*** Tiene 78 años
+*** Temas:
+- estructuralismo e instituciones en Argentina
+- reclutamiento de élites en México
+- historia política de la región
+- relaciones EE.UU-LatAm
+- prohibición de sustancias psicoactivas
+- NAFTA
+- East Asia-LatAm 
+--> También: primeros estudios legislativos
+--> Shares a birthday with my son León Martín
+
+** Gastos GEL realizados por Eric (asterisco si ya me rembolsaron)
+*** Gastos Eric
+**** Sin factura (efectivo caja chica)
+-  8/8/2018 A Peter Smith en hotel             =  $1,000
+-  8/8/2018 100 vasos de café                  =    $140
+-  9/8/2018 200 vasos de café                  =    $260
+- 10/8/2018 Cantina Riviera del Sur, propinas  =  $7,500
+**** Con factura
+- 21/5/2018 Cantina Riviera del Sur, anticipo  = $15,000 *
+- 29/6/2018 Plumas grabadas Artefacto          =  $5,568 *
+-  3/7/2018 La Rifa chocolates                 =  $6,600 *
+-  6/8/2018 Café Punta del Cielo               =  $1,524 ?
+-  8/8/2018 La Docena cena c Peter Smith       =  $4.010
+- 10/8/2018 Cantina Riviera del Sur, remanente = $26,315
+                                              ------------
+-                                     total    = $67,917
+
+
+** Enviar datos a Valeria y Carmen
+
+** Mail Mike McDonald
+Hi Mike,
+I need your advise. I am co-organizing the bi-annual meeting of the Latin American Legislative Studies group in Mexico City next August. We're thinking of inviting Bruce Cain as keynote speaker---the research interests of most in the conference should overlap with Bruce's work. I met Bruce once only at a recent APSA. Since you know him well, is there any advice you can offer to increase the chance that he accepts?
+I hope the family and all is well in Gainesville.
+Best,
+-e
+ ** DROPPED Mail Bruce Cain Sent <2018-02-02 Fri>
+   CLOSED: [2018-02-26 Mon 17:41]
+Professor Bruce E. Cain
+Bill Lane Center for the American West
+Jerry Yang & Akiko Yamazaki
+Environment & Energy Building
+473 Via Ortega, First Floor
+Stanford University
+Stanford, CA 94305-4225
+
+Dear Prof. Cain:
+
+On behalf of the organizing committee of the 4th Latin American Legislative Studies group bi-annual meeting, to be held in Mexico City on August 9-10, 2018, I write to invite you to deliver the keynote speech.
+
+The Legislative Studies Group (http://alacip.org/?c=up&&cat=19) is the most active section of the Asociación Latinoamericana de Ciencia Política (http://alacip.org/), our umbrella organization. Since 2011, GEL has held conferences in Belo Horizonte, Rio de Janeiro, and Santiago de Chile. This year, Washington University in St. Louis and the Instituto Tecnológico Autónomo de México (ITAM) will be co-hosting the event in Mexico City. We expect an attendance of about 40-50 scholars from a dozen or more countries. Most paper presentations will be in English.
+
+While papers will cover the broader field of comparative legislative studies, the theme of the conference will be "Re-election, ambition, and representation". We are particularly interested in this theme because Mexico recently removed single-term limits for federal and state legislators, as well as most municipal officers.  Given your expertise on constituency service, redistricting, and voting in the US and UK, we believe your remarks will be most illuminating for attendees.
+
+GEL will cover your travel expenses and accommodation. In past conferences, scholars like Peverill Squire, Shane Martin and Carol Mershon enriched our discussions with their seminal keynote speeches. We would be very honored if you accept our invitation.
+
+Sincerely,
+
+The organizing committee:
+Brian F. Crisp (WashU)
+Adrián Lucardi (ITAM)
+Eric Magar (ITAM)
+Juan Pablo Micozzi (ITAM), and 
+Guillermo Rosas (WashU)
+** DONE Mail Peter Smith Sent <2018-02-26 Mon>
+   CLOSED: [2018-02-28 Wed 10:59]
+Dear Peter: 
+
+I hope this email finds you and your family healthy and happy. It has been 18 years since I left San Diego. How time flies! I still miss it. 
+
+Please find below an invitation to deliver the main address at a conference I co-organize in Mexico City this Summer.
+
+Yours,
+
+-Eric
+
+----
+
+Peter H. Smith
+Distinguished Professor Emeritus of Political Science
+Simon Bolivar Professor of Latin American Studies
+University of Califirnia, San Diego
+
+Dear Prof. Smith:
+
+On behalf of the organizing committee of the 4th Latin American Legislative Studies group bi-annual meeting, to be held in Mexico City on August 9-10, 2018, I write to invite you to deliver the keynote speech.
+
+The Legislative Studies Group (http://alacip.org/?c=up&&cat=19) is the most active section of the Asociación Latinoamericana de Ciencia Política (http://alacip.org/), our umbrella organization. Since 2011, GEL has held conferences in Belo Horizonte, Rio de Janeiro, and Santiago de Chile. This year, Washington University in St. Louis and the Instituto Tecnológico Autónomo de México (ITAM) will be co-hosting the event in Mexico City. We expect an attendance of about 40-50 scholars from a dozen or more countries. 
+
+While papers will cover the broader field of comparative legislative studies, the theme of the conference will be "Re-election, ambition, and representation". We are particularly interested in this theme because Mexico recently removed single-term limits for federal and state legislators, as well as most municipal officers. 
+
+You command an extraordinary knowledge of the field of Latin American politics. You also did the first incursion in the study of roll call voting in the Argentine Congress in the 1960s. Your remarks will, no doubt, be of much interest to attendees, offering perspective about the state of their subfield. 
+
+GEL will cover your travel expenses and accommodation. In past conferences, scholars like Peverill Squire, Shane Martin and Carol Mershon enriched our discussions with their seminal keynote speeches. We would be very honored if you accept our invitation.
+
+Sincerely,
+
+The organizing committee:
+Brian F. Crisp (WashU)
+Adrián Lucardi (ITAM)
+Eric Magar (ITAM)
+Juan Pablo Micozzi (ITAM), and 
+Guillermo Rosas (WashU)
+
+** Mail Crisp+Memo
+A couple of points that need discussion/decision.
+
+(1) Accommodation costs. 
+ $1,500 x 5
+ $1,800 x 25
+------------
+$52,500Mx = $2,800US (xrate 19)
+
+(2) Plane fares for grad students and selected (few) attendees.
+Will know numbers when submissions are in. Tentatively 6 grad students and guest speaker @ $650US = $3,900US.
+
+(3) ITAM will give 6 beds for grad students in-campus. Will offer ground transportation campus-hotel-etc. 
+
+** Dear Brian,
+Thank you for the generous funding. $15k should be enough, and ITAM will match that amount. 
+
+We are still finalizing details, but have been thinking of ways to ease the billing. 
+
+Could Wash-U take care of reimbursing flight fares for selected participants and covering the main dinner with all attendees? This way only one item would be spent directly in Mexico (the dinner, presumably payable with a credit card) and there would be no need to wire money to Mexico.
+
+ITAM will cover hotel fares for everyone, transportation, box lunches coffee, and ancillary material.
+
+** Dear Peter,
+Dear Peter:
+
+I have prepared a list of more or less recent papers on Latin American legislative politics. 
+
+I would begin with the review article by Crisp and Schibber (2014). It give a general picture of the state of the field. You can then cherry-pick for more detail. Let me know if you need something else.
+
+PDFs of all papers are attached. The books are not included.
+
+Please let me know if you prefer to buy a plane ticket to Mexico City and get a reimbursement, or that we make travel arrangements directly. 
+
+Best, -Eric
+
+Readings
+
+Alemán, Eduardo, Juan Pablo Micozzi and Margarita Ramírez. 2006. “The Hidden Elec-
+toral Connection? Analyzing Information Requests in the Chilean Congress.” Journal of
+Legislative Studies 48(3):125–55.
+
+Alemán, Eduardo and Sebastián M. Saiegh. 2014. “Political realignment and democratic
+breakdown in Argentina, 1916–1930.” Party Politics 20:849.
+
+Amorim Neto, Octávio, Gary W. Cox and Mathew D. McCubbins. 2003. “Agenda Power
+in Brazil’s Câmara dos Deputados, 1989–98.” World Politics 55:550–78.
+
+Calvo, Ernesto. 2014. Legislator success in fragmented congresses in Argentina: Plurality
+cartels, minority presidents, and lawmaking. New York: Cambridge University Press.
+
+Calvo, Ernesto and Iñaki Sagarzazu. 2011. “Legislator Success in Committee: Gatekeeping
+Authority and the Loss of Majority Control.” American Political Science Review 55(1):1–
+15.
+
+Carey, John M. 2007. “Competing Principals, Political Institutions, and Party Unity in
+Legislative Voting.” American Journal of Political Science 51(1):92–107.
+
+Chasquetti, Daniel and Juan Pablo Micozzi. 2014. “The subnational connection in unitary
+regimes: progressive ambition and legislative behavior in Uruguay.” Legislative Studies
+Quarterly 39(1).
+
+Crisp, Brian F. and Constanza F. Schibber. 2014. The Study of Legislatures in Latin Amer-
+ica. In The Oxford Handbook of Legislative Studies, ed. Shane Martin, Thomas Saalfeld
+and Kaare Strøm. New York: Oxford University Press.
+
+Crisp, Brian F., Kristin Kanthak and Jenny Leijonhufvud. 2004. “The Reputations Leg-
+islators Build: With Whom Should Representatives Collaborate?” American Political
+Science Review 98(4):703–16.
+
+Crisp, Brian F. and Scott W. Desposato. 2004. “Constituency Building in Multimember
+Districts: Collusion or Conflict?” The Journal of Politics 66:136–56.
+
+Kerevell, Yann P. 2015. “Pork-barreling without reelection? Evidence from the Mexican
+Congress.” Legislative Studies Quarterly 40:137–66.
+
+Lucardi, Adrián and Juan Pablo Micozzi. 2016. “The Effect of the Electoral Cycle on Leg-
+islators’ Career Strategies: Evidence from Argentina, 1983–2007.” Legislative Studies
+Quarterly 41(4):811–40.
+
+Magar, Eric and Juan Andrés Moraes. 2012. “Factions with clout: Presidential cabinet
+coalition and policy in the Uruguayan parliament.” Party Politics 18(3):427–51.
+
+Magar, Eric, Valeria Palanza and Gisela Sin. 2017. “Presidents on the fast track: Fighting
+floor amendments in the Chilean Cámara.” Presented at the 2017 Annual Meeting of the
+American Political Science Association, San Francisco CA.
+
+Martínez Gallardo, Cecilia. 2012. “Out of the Cabinet: What Drives Defections from the
+Government in Presidential Systems?” Comparative Political Studies 45:62–90.
+
+Morgenstern, Scott and Benito Nacif. 2002. Legislative Politics in Latin America. New
+York: Cambridge University Press.
+
+Palanza, M. Valeria and Gisela Sin. 2014. “Veto Bargaining and the Legislative Process in
+Multiparty Presidential Systems.” Comparative Political Studies 47(5):766–92.
+
+Pereira, Carlos, Timothy J Power and Lucio Rennó. 2005. “Under what conditions do
+presidents resort to decree power? Theory and evidence from the Brazilian case.” The
+Journal of Politics 67(1):178–200.
+
+Rosas, Guillermo. 2005. “The Ideological Organization of Latin America Legislative Par-
+ties: An Empirical Analysis of Elite Policy Preferences.” Comparative Political Studies
+38(7):824–49.
+
+Rosas, Guillermo and Joy Langston. 2011. “Gubernatorial effects in the voting behavior of
+national legislators.” The Journal of Politics 73(2):477–93.
+
+Saiegh, Sebastián M. 2009. “Recovering a Basic Space from Elite Surveys: Evidence from
+Latin America.” Legislative Studies Quarterly 34(1):117–45.
+
+Saiegh, Sebastián M. 2011. Ruling by Statute: How Uncertainty and Vote Buying Shape
+Lawmaking. New York: Cambridge University Press.
+
+Schwindt-Bayer, Leslie A. 2006. Still Supermadres? Gender and the Policy Priorities
+of Latin American Legislators. American Journal of Political Science 50(3):550-85.
+
+Zucco Jr., Cesar and Benjamin E. Lauderdale. 2011. “Distinguishing between Influences
+on Brazilian Legislative Behavior.” Legislative Studies Quarterly 36(3):363–96.
+
+** En enlace itam info hoteles con convenio
+- Grupo posadas
+- Camino real
+- Holiday inn express
+- etc. 
+** Buscar a Belen para ver depto 5 o el 9 <2018-02-19 Mon 10:00>
+** Fechas evento <2018-08-09 Thu>--<2018-08-10 Fri>
+** start @ 12 (registro 11), panel, lunch, panel, panel
+** Participantes en programa 2016 chile -- 45--50
+1. Adrián Lucardi, Instituto Tecnológico Autónomo de México
+2. Alejandro Bonvecchi, Universidad Torcuato Di Tella
+3. Andrea Freitas, Universidade Estadual de Campinas
+4. Brian Crisp, Washington University in St. Louis
+5. Carla Carrizo, Honorable Cámara de Diputado de la Nación (Argentina)
+6. Carol Mershon, University of Virginia
+7. Ciro Antônio da Silva Resende, Universidade Federal de Minas Gerais
+8. Daniel Chasquetti, Universidad de la República
+9. Danilo Medeiros, University of Virginia
+10. David Doyle, University of Oxford
+11. Eric Magar, Instituto Tecnológico Autónomo de México
+12. Esteban Szmulewicz, Universidad Mayor
+13. Fabiola Berríos Salgado, Universidad Alberto Hurtado
+14. Felipe Botero, Universidad de los Andes
+15. Fernando Meireles, Universidade Federal de Minas Gerais
+16. Florian Augusto de Abreu Coutinho Madruga, Senado Federal (Brasil)
+17. Gabriela Maria Lima Bezerra, Universidade Federal do Rio Grande do Sul
+18. Gisela Sin, University of Illinois at Urbana-Champaign
+19. Guillermo Rosas, Washington University in St. Louis
+20. Hernán Campos Parra, Universidad Diego Portales   *LOCAL*
+21. Hirokazu Kikuchi, Institute of Developing Economies
+22. Iñaki Sagarzazu, University of Glasgow
+23. John Londregan, Princeton University
+24. José Antonio Cheibub, Texas A & M University
+25. João Henrique Pederiva, Senado Federal (Brasil)
+26. Juan Pablo Micozzi, Instituto Tecnológico Autónomo de México
+27. Leany Lemos, Senado Federal (Brasil)
+28. Luciana Santana, Universidade Federal de Alagoas
+29. Magna Inacio, Universidade Federal de Minas Gerais
+30. Manoel Leonardo Santos, Universidade Federal de Minas Gerais
+31. Mariana Batista, Universidade Federal de Pernambuco
+32. Mariana Llanos, Presidenta de ALACIP
+33. Marina Lacalle, UCEMA y Universidad Torcuato Di Tella
+34. María Paula Bertino, Universidad de Buenos Aires
+35. María Teresa Miceli Kerbauy, Universidade Estadual Paulista, Araraquara
+36. Mauricio Izumi, Universidade de São Paulo
+37. Mercedes García Montero, Universidad de Salamanca
+38. Milagros Campos, Pontificia Universidad Católica del Perú
+39. Natalia Ferretti, University of California, Berkeley
+40. Nicolás Freire Castello, Universidad Central
+41. Nicolás Taccone, Universidad Torcuato Di Tella
+42. Rafael Silveira e Silva, Universidade de Brasília
+43. Rodrigo Espinoza Troncoso, Pontificia Universidad Católica de Chile
+44. Santiago Virgüez Ruiz, Universidad de los Andes
+45. Shane Martin, University of Essex
+46. Silvia Lospennato, Honorable Cámara de Diputado de la Nación (Argentina)
+47. Taeko Hiroi, The University of Texas at El Paso
+48. Tiffany Barnes, University of Kentucky
+49. Carmen Le Foulon, Pontificia Universidad Católica de Chile   *LOCAL*
+50. Marcela Ríos, Programa de Naciones Unidas para el Desarrollo (Chile)   *LOCAL*
+51. Valeria Palanza, Presidenta del Comité organizador local   *LOCAL*
+
+** De lo anterior: necesitamos cuartos:
+--> 3 cuartos dobles itam = 6
+--> Casa Marquesa?
+--> 10 cuartos dobles + 10 cuartos sencillos = 30
+
+** DONE [eric] Laura: 6 camas reservé para 8-12 ago
+** [eric] Casa Marquesa?
+** DROPPED [eric] Red Tree House, City express
+** Convocatoria sale 1feb; deadline 2mar; 
+   via LegSection APSA
+** Visita Congreso miércoles 
+   Almuerzo jueves en comedor maestros
+   Cena restaurante Jueves San Angel Inn <--  
+   Viernes en comedor maestros
+   Viernes casa Marquesa, cocktail
+** Aviones   
+*** Para vacas grandes
+*** Para grad students
+** Sesión posters
+** Parafernalia  minimalista (pluma logoITAM, libretita ITAM) + artesanía
+** Asistentes: Samuel y Claudia, stipend $500 via washU o ITAM?
+** Dividir washU / ITAM responsibilities
+** Pánel de repositorio de datos
+
+
+
+* Eventos mis 50
+** Peregrinación a Chalma
+** Viaje a Ensenada
+** Viaje al Peyote
+
+
+* DONE WAC <2018-11-22 Thu>
+** Formato evento ITAM?
+** Thanksgiving
+*** Invitados
+1. Wayne
+2. Ger
+3. FEE
+4. Margie
+5. Jeff
+6. Eric
+7. Vala
+8. Alexa
+9. Pablo
+10. Vergara
+11. esposa
+12. Adrián?
+13. Adriana?
+
+
+Hola Camila,
+
+Tengo otro trabajo para ti. El archivo dip64.csv tiene los nombres de los diputados nuevos y sus suplentes. Coteja primero con http://sitl.diputados.gob.mx/LXIV_leg/info_diputados.php para verificar que no haya errores. También quiero que termines de llenar la columna part2, donde sea relevante; part2 reporta casos de diputados postulados por un partido (PT y PES lo hicieron a menudo) que luego se unieron a la bancada de otro partido en la cámara (Morena generalmente).
+
+Avísame si tuvieras dudas. De antemano, muchas gracias.
+
+
+* Cap Moreno
+- Opción 1: fin de la partidocracia y la incógnita del formato para el nuevo árbitro
+- Opción 2: 
+* Paper PyG 2018
+- Incumbency advantage en elecciones municipales
+- Usar la medida de voto normal vía residuales como expectativa
+- Controles clásicos, patrones de alternancia, core/swing, dIncumbentRunning
+* MPSA
+Title: Electoral rules and the geography of policy
+Authors: Adrián Lucardi and Eric Magar
+Abstract: We investigate the geographic policy implications of electoral systems. Specifically, splitting a multi-member district into multiple single-member districts will spread the geographic locus of representation, and therefore create incentives to reallocate some policy from the densely populated center towards the periphery. We rely on a diff-in-diff matching design to gauge the effects of such reform with data on public good provision in Mexican municipalities in recent decades. Preliminary evidence appears to back our central claims. 
+
+* Regalos navidad 2018
+** Vala
+- libro cocina
+- anillo
+- tupper ofna
+- toalla
+- corazón barro negro
+** Iza
+- Calabaza
+** Jürgen
+- 
+** Val
+- estuchito chiapas
+- cuadernito de cuero
+** Juan
+- molino café = $1000
+** Aurelia
+- Marble run = US$36
+- Wimpy kid x 2 = US$20
+- Dogman = US$7
+- Unicorn poop + plastilina magnética 
+- LOL ball
+** Martín
+- Coche control = 
+- Transformer
+- Super soaker
+- Pájaro carpintero
+** Extras
+- Lego Gadgets = US$22
+- estuche tortilla azul
+- dance charades = $1000
+- campanita de bici
+- bolsa como mochilita
+- hot wheels slinky car
+* Pendientes recurrentes
+** Clases del semestre
+# *** ElecPúb3 <2018-01-16 Tue 10:00-11:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
+# *** PolComp3 <2018-01-16 Tue 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
+# *** ElecPúb3 <2018-01-18 Thu 10:00-11:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
+# *** PolComp3 <2018-01-18 Thu 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
+** Calendario hijos
+*** Rentrée <2018-01-08 Mon>
+*** Sortie <2018-07-04 Wed>
+** Cumples
+*** *Aniversario* boda <2007-06-09 Sat +10y +11y +12y +13y +14y +15y +16y +17y +18y +19y +20y +21y>
+     :PROPERTIES:
+     :LAST_REPEAT: [2017-06-12 Mon 11:20]
+     :END:
+
+*** Cumple *Adriana* <2018-01-27 Sat +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
+*** Cumple *Aurelia* <2011-07-05 Tue +7y +8y +9y +10y +11y +12y +13y +14y +15y +16y>
+*** Cumple *Iza* <1949-02-28 Mon +69y +70y +71y +72y +73y +74y +75y +76y +77y +78y +79y +80y>
+*** Cumple *Juanito* <2017-04-14 Fri +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
+*** Cumple *León Martín* <2014-01-17 Fri +4y +5y +6y +7y +8y +9y +10y +11y +12y +13y>
+*** Cumple *Pili* <2017-04-13 Thu +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
+*** Cumple *Vala* <1975-08-30 Sat +42y +43y +44y +45y +46y +47y +48y +49y +50y +51y>
+*** Cumple *Yvonne* <2017-04-26 Wed +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
+     :PROPERTIES:
+     :LAST_REPEAT: [2018-01-24 Wed 13:13]
+     :END:
+     - State "DROPPED"    from ""           [2018-01-24 Wed 13:13]
+     - State "DONE"       GENT!"    [2018-01-19 Fri 08:09]
+     - State "DONE"       from "URGENT!"    [2018-01-19 Fri 08:09]
+     - State "DONE"       from "URGENT!"    [2018-01-19 Fri 08:09]
+     - State "DONE"       from "URGENT!"    [2018-01-19 Fri 08:09]
+*** Cumple *Ges* <1973-05-28 Mon + 45y + 46y +47y +48y +49y +50y +51y +52y +53y +54y +55y +56y>
+** Recordatorios
+*** Cancelar NYT pq duplica precio <2018-03-29 Thu>
+
+* Pendientes caducos
+** Recoger bûche <2018-12-24 Mon 16:00>
+** Drinks Baltra <2018-12-12 Wed 20:30>
+** Cita Mashe <2018-12-12 Wed 13:00>
+** Draft paper pyg <2019-03-29 Fri>
+** Entrega pavos <2018-12-19 Wed>
+** Casa Rafis <2018-12-13 Thu 20:30>
+** Reposición ep3 salón 111 <2018-11-30 Fri 14:30>--<2018-11-30 Fri 16:00>
+** Alumnos LFM vienen a mi ofna <2018-11-30 Fri 16:30>
+** Reunión volumen PyG <2018-12-07 Fri 09:00>--<2018-12-07 Fri 16:00>
+** DONE Veo a Julia <2018-11-26 Mon> 
+** DROPPED job talk Tesalia <2018-12-10 Mon 14:30-16:00>
+*** mezcales tesalia adrian@s casa
+** job talk Mateo Vásquez <2018-12-03 Mon 14:30>--<2018-12-03 Mon 16:00>
+*** lunch c Mateo Vásquez <2018-12-03 Mon 12:30>
+*** meet Mateo Vásquez <2018-12-03 Mon 16:00>
+** job talk Ted Enamorado <2018-12-06 Thu 14:30-16:00>
+*** cena Ted Enamorado <2018-12-06 Thu 20:30>
+** job talk Mathias Poertner <2018-12-13 Thu 14:30-16:00>
+** Final pc3 <2018-12-13 Thu 7:00>
+** Final ep3 <2018-12-14 Fri 18:00>
+** Calentador solar  <2018-11-07 Wed 11:30>
+** Comida Yvonne <2018-11-07 Wed 14:00>
+** Deadline apsr review <2018-11-07 Wed>
+** DONE Viene Mónica tesis <2018-10-09 Tue 11:30>
+** DONE Reposición PC3 <2018-10-09 Tue 14:30>
+** DONE DF-Saltillo aeromexico 2422 <2018-10-05 Fri 6:05>
+** DONE mty-df aeromexico 937 <2018-10-05 Fri 19:19>
+** DROPPED Coctail EFAD Prado Norte <2018-10-03 Wed 19:00> 
+** DF-Cancún diciembre Volaris <2018-12-14 Fri 19:35> 
+** Cancún-DF diciembre Volaris <2018-12-24 Mon 11:08> 
+** DONE Taller acoso <2018-10-08 Mon 13:00>--<2018-10-08 Mon 16:00>
+** DONE Taller acoso <2018-10-11 Thu 13:00>--<2018-10-11 Thu 16:00>
+** DONE Comida c Lorena y Gaby Tori Tori Altavista <2018-10-01 Mon 15:00>
+** DONE Thanksgiving chez nous <2018-11-22 Thu>
+** DONE Charla datos abiertos Saltillo TEPJF <2018-10-05 Fri 10:00> 
+** Seguro AXA <2018-09-28 Fri>
+** Becatlón <2018-09-04 Tue 15:00>--<2018-09-04 Tue 16:00>
+** @gaby_fotoarte
+** Examen Ma. Fda. Vásquez <2018-10-10 Wed 16:00>
+** DONE Reunión Maggie y FEE <2018-09-26 Wed 12:00>
+** DONE Examen Mónica Sigüenza <2018-09-06 Thu 13:00>
+** DONE Examen Gabriela Romero <2018-08-31 Fri 16:00> 
+** DONE Comida inicio <2018-08-28 Tue 14:30>
+** DONE Examen Nayeli <2018-06-20 Wed 13:00>
+** DONE Examen Christian <2018-06-20 Wed 16:30>
+** DONE Examen Nicolás Cabrera caso <2018-07-05 Thu 11:00>
+** DONE Examen Humberto <2018-06-01 Fri 13:00>
+** DONE Examen Vilma Carolina <2018-05-25 Fri 11:00>
+** DONE Examen Luis Archila <2018-05-17 Thu 13:00>
+** DONE Examen Angélica del Valle <2018-05-14 Mon 13:00>
+** DONE mails GEL
+   CLOSED: [2018-06-19 Tue 05:49]
+*** accept
+Dear ______,
+We are pleased to announce that your proposal for the 2018 GEL conference in Mexico City has been accepted. Congratulations. 
+Please confirm if you will be able to attend the meeting by May 4th. The co-organizers (Wash. U./ITAM) will cover and reserve accommodation for three nights throughout the conference (check-in Wed. Aug. 8, check-out Sat. Aug. 11th) for participants not living in Mexico City. We also have funds to help cover travel expenses for some paper presenters. We would like to priorize graduate students and people flying from South America. Please tell us if you need support. We will announce travel funds recipients on June 1st. 
+We are looking forward to meeting you at the conference.
+Best,
+*The organizing committee*
+Brian F. Crisp (WashU)
+Adrián Lucardi (ITAM)
+Eric Magar (ITAM)
+Juan Pablo Micozzi (ITAM), and 
+Guillermo Rosas (WashU)
+
+*** reject
+Dear ______,
+We are sorry to announce that your proposal for the 2018 GEL conference in Mexico City has been rejected. Due to the large number of submissions we could not accept as many papers as we would have liked. 
+We hope that you understand and continue submitting your work to future  GEL meetings. 
+Best,
+*The organizing committee*
+Brian F. Crisp (WashU)
+Adrián Lucardi (ITAM)
+Eric Magar (ITAM)
+Juan Pablo Micozzi (ITAM), and 
+Guillermo Rosas (WashU)
+*** poster
+Dear ______,
+We are pleased to announce that your proposal for the 2018 GEL conference in Mexico City has been accepted for the poster session. Congratulations. 
+Please confirm if you will be able to attend the meeting by May 4th. The co-organizers (Wash. U./ITAM) will cover and reserve accommodation for three nights throughout the conference (check-in Wed. Aug. 8, check-out Sat. Aug. 11th) for participants not living in Mexico City. 
+We are looking forward to meeting you at the conference.
+Best,
+*The organizing committee*
+Brian F. Crisp (WashU)
+Adrián Lucardi (ITAM)
+Eric Magar (ITAM)
+Juan Pablo Micozzi (ITAM), and 
+Guillermo Rosas (WashU)
+
+** DONE Finales prim 2018
+   CLOSED: [2018-05-25 Fri 02:10]
+*** ep3 -- individual
+1. documental suizo
+2. reporte ejecutivo, escrito
+3. salón: nada especial
+
+*** pc3 -- individual
+1. elijan libro y hagan reseña con algo que aprendieron en pc (indiv)
+2. presentación
+3. sugerir libros: 
+   - aztecas
+   - guns germs steel
+   - whisperers
+   - all the king's men
+   - Robert Caro, The Power Broker
+   - James C Scott, Seeing like a State
+   - Spruyt, Sovereign State
+   - Bueno + Smith, The Dictator's handbook
+   - Ostrom, governing the commons
+   - Séneca, Apocolocíntosis del divino Claudio
+   - Trollope, Phineas Finn
+   - Garro, Y Matarazo no llamó
+   - Julio César, La Guerra de Galia  
+4. salón: 5 horas
+
+** DONE Ex Prof Alonso <2018-05-03 Thu 13:00>
+   CLOSED: [2018-05-11 Fri 09:09]
+** DONE mail moreno <2018-03-07 Wed>
+Hola Alejandro: aquí mando la lista de estados con elecciones locales agrupados en cuatro. Aquellos marcados con (g) eligen además gobernador, lo que debería hacerlos más atractivos para el diario. 
+
+Cuando hayamos seleccionado casos, será necesario averiguar los nombres de los ocupantes que aspiran reelegirse para el cuestionario. 
+
+Planeemos tomar un café en las próximas semanas para discutir todo esto. 
+
+Un saludo, -e
+
+1. Reelección de diputados solamente
+Aguascalientes
+Durango
+Hidalgo
+Tlaxcala
+Veracruz (g)
+
+2. Reelección de alcaldes solamente
+Coahuila
+Quintana Roo
+Tamaulipas
+
+3. Reelección de diputados y de alcaldes
+Baja California Sur (g)
+Campeche
+Colima
+Chiapas (g) 
+Chihuahua
+Guanajuato (g)
+Guerrero
+Jalisco (g)
+México
+Michoacán (g)
+Morelos (g)
+Nuevo León (g)
+Oaxaca
+Querétaro
+San Luis Potosí
+Sinaloa
+Tabasco (g)
+Yucatán (g)
+Zacatecas
+
+4. Eligen diputados y alcaldes sin reelección
+Federales
+Cd de México (g)
+Puebla (g)
+Sonora
+
+** DONE Lunes 5 marzo <2018-03-05 Mon>
+- [X] jekyll
+- [X] cita suecos 
+- [X] lecturas Italia
+- [X] clases mañana
+** DONE 25 años cPol <2018-02-28 Wed>--<2018-03-01 Thu>
+** DONE Parcial PC3 primavera 2018
+*** mail <2018-02-23 Fri>
+Coordinación electoral en municipios
+
+Visite el repositorio siguiente: [[https://github.com/emagar/elecReturns]]. (Ahí encontrará una descripción del contenido.) Obtenga, de la carpeta data/, el archivo aymu1985-present.coalAgg.csv. Contiene resultados de elecciones municipales en México desde 1985 (faltan las más recientes). 
+
+Excluya observaciones anteriores a 2000. Plantee un diseño de investigación que permita detectar evidencia de coordinación o descoordinación electoral. Sugiero que seleccione una muestra y no todos los municipios/años. Explore los datos para detectar patrones que ayuden a seleccionar un estado, o un grupo de estados, o un periodo.
+
+Daré información más concreta en clase. Pero vayan haciendo una descripción de los datos.
+** DONE Llamar a Credit Suisse Ma José 5283 5462 5283 8900 <2018-02-19 Mon 11:30>
+** Replication files polgeo
+** DONE Fiesta Martín <2018-01-20 Sat>
+*** Invitados 38ad + 27ni
+- Candelos 2+2
+- Santi 2+1
+- Gael 2+2
+- Namour 2+2
+- Tarek 1+1
+- Emi 2+2
+- penny 2+2
+- v+j 2+0
+- j+j 2+0
+- alis 1+1
+- andrés 2+1
+- jero efad 2+1
+- jero koi 2+2
+- alan 2+1
+- iacopo 2+1
+- ena 2+1
+- primos 4+5 
+- abuelas 2+0
+- Nosotros 2+2
+** Camila
+*** DONE Hoteles
+*** DONE Shapefiles, polígono es una *secuencia* de puntos
+*** DONE QGis para limpiar los shapefiles
+*** Repasar un distrito indígena de Julia
+*** DONE Enseñarle git y gitHub
+*** WAIT Contratar diseñador web
+*** Revisar mapas pubicados en busca de omisiones y errores
+*** Preparar los mapas federal y de municipios
+*** DROPPED Readmes diversos
+*** Compaginar fechas en calendarios y en aymu
+*** Investigar claves ife e inegi de chiapas, de calakmul cam
+** Julia: 
+- pedir shapefile de casillas 2015 o 2018
+** Estadísticas para los mapas distritales y municipales <2018-01-24 Wed>
+- Población 2010
+- DSI
+- Ganó última elección
+- Representante
+- nGanó pan pri prd morena (dipFed)
+
+** DROPPED Cita cardiólogo Eriquito Puebla <2018-01-27 Sat>
+** DONE Voy a piscine EFAD <2018-02-09 Fri 09:00-12:15>
+** mail final ep3 
+Instrucciones de envío
+Estimados alumnos, 
+
+Copio a Daniel, quien me ayudará a centralizar la recepción de sus presentaciones. La hora/fecha límite de entrega es el jueves 14 de diciembre a las 5:00am. Daniel bajará sus archivos a una llave USB a esa hora para abrirlos en clase. Pasado el límite, el alumno perderá dos puntos así como su lugar en el orden.
+
+En caso de usar prezi o similares, envíen tanto el vínculo como una copia en pdf de la presentación --- que pueda abrirse sin necesidad de conectarse al internet. 
+
+Pongan su nombre y clave única a su(s) archivo(s) --- p.ej. 13729ericmagar.pdf.  
+
+Finalmente, SEAN PUNTUALES en el arranqe de los tres segmentos. Quien llegue tarde podrá entrar hasta después del break siguiente. 
+
+** mail final sip <2017-12-22 Fri>
+Queridos alumnos,
+Algunas notas sobre sus calificaciones y lo que espero de ustedes. 
+- Los incentivos no son todo, pero sí mucho. Como anuncié en clase, he restado puntos a su calificación final. Todos podrán subir 2 puntos cuando me entreguen la versión final de su trabajo. Y, con suficiente esfuerzo, su calificación podrá subir 3 y hasta 4 puntos. (Hago comentarios individuales abajo.) 
+- He estado preparando mapas, véanlos en http://ericmagar.com/reeleccion o en https://github.com/emagar/mxDistritos, podrían serles útiles. Seguiré preparando mapas, así que digan si quisieran que priorice algún estado o que intente mejorar un mapa individual. 
+- Llenen esto. Describan por favor lo que han hecho a lo largo del seminario. La info me permitirá preparar los créditos que daré en la página web. Cambién el nombre para que aparezca como lo deseen. (Si coordinaron un equipo, incluyan comentarios del desempeño de su grupo. Individualicen si lo creen necesario y mándenme un mail si quisieran añadir algo.)
+  - Licencias
+    - MORENO FLORES JUAN RAMON: 
+    - RAMIREZ SANTIAGO ADOLFO: 
+  - DSIs
+    - SAAVEDRA LLADO DANIEL: 
+    - TREJO HUMBERTO: 
+  - Reducción de 1930
+    - REVUELTA PINEDA ZABEL: 
+      1. Resumen Tesis Mayte Carreaga
+      2. Apoyo en diseño y levantamiento de encuestas
+      3. Mapas de redistritación electoral de Michoacán, Tlaxcala y Tabasco
+      4. Creación de índice S con dichos mapas
+      5. Redacción del artículo en Reducción de Distritos 1930
+    - NAVARRETE VERONICA: 
+      1. Revisión de literatura: Se asignaron distintos textos para buscar posibles referencias al tema de reelección y redactar UN articulo breve. La parte que me correspondía del libro de Alonso Lujambio hablaba sobre las variables que determinan la estrategia presidencial cuando buscan el apoyo de la población (no había algún fragmento o apartado útil para propósitos de la clase).
+      2. Trabajo con distritos locales de ZAC, SLP y QRO: Recolección de datos, cambios en la configuración distrital
+      3. Apoyo en diseño y levantamiento de encuestas
+      4. Redacción del artículo en Reducción de Distritos 1930
+      5. Infografía sobre Acción de Inconstitucionalidad
+  - Digitalización de mapas
+    - SILVA SERVIN MOISES: 
+    - ISUSI JIMENEZ SANTIAGO: 
+    - CONTRERAS POLVO RUBEN: 
+    - SOLIS ARCE JULIO: 
+  - Alcaldes ambiciosos
+    - RINCON ALTAMIRANO DALIA: 
+    - CABELLO ESQUER CECILIA: 
+    - VAZQUEZ VILLATORO FERNANDA: 
+    - TAMAYO BARRAGAN VICTOR: 
+    - GONZALEZ GONZALEZ OMAR: 
+    - MAYA OLVERA MARIO: 
+      1. Colaboré en el equipo de Emanuel para leer, resumir y en mi caso transcribir -ya que nunca me pude comunicar con el autor- el artículo "Juntos y Reelectos"  de la revista Voz y Voto
+      2. Respondí la tabla para darle valor a las palabras de la encuesta
+      3. Trabaje en los mapas de Baja California y Quintana Roo
+      4. Trabajé en el equipo de Dalia para buscar los alcaldes actuales de dos estados, buscar quiénes son ambiciosos e investigar un poco sobre ellos
+  - Reducción Morelos/Tlaxcala
+    - MACEDO CARRILLO CHEMA: 
+    - GONZALEZ JIMENEZ EMMANUEL: 
+  - Reducción CdMx
+    - CERVANTES PEREZ CLAUDIA: 
+  - Intersección con el derecho
+    - GONZALEZ CATAÑO SAMUEL: 
+- Calificación preliminar y comentarios para cada alumno.
+  - JUAN RAMON 9: Mandaré observaciones al texto final de licencias. No te he restado puntos porque así lo pediste: necesito una promesa de caballeros que atenderás los cambios. 
+  - ADOLFO 8: Mandaré observaciones al texto final de licencias.
+  - DANIEL 8: Solicité cambios al texto DSIs.
+  - HUMBERTO: Solicité cambios al texto DSIs. 
+  - ZABEL 7: Mandaré observaciones al borrador del texto de 1930.
+  - VERONICA 7: Mandaré comentarios de la infografía y al borrador del texto de 1930.
+  - MOISES 9: Gracias por el mapeo digital. Manda el reporte de actividades de tu grupo para asignar los puntos extra de los demás. Te buscaré si surgiera algún problema con los mapas que prepararon.
+  - SANTIAGO 8: Asignaré puntos extra cuando reciba reporte de Moisés.
+  - RUBEN 7: Asignaré puntos extra cuando reciba reporte de Moisés.  
+  - JULIO 8: Necesito una promesa de caballeros de que veré los resultados del trabajo con los datos municipales. 
+  - DALIA 7: Empezaste con mucho entusiasmo, pero rápido menguó. El texto del wordcloud: atendieron los cambios a cuentagotas, de hecho siguen los últimos pendientes hasta donde recuerdo. Necesito aclaración de qué trabajarán los integrantes del equipo de alcaldes ambiciosos. 
+  - CECILIA 7: Empezaste con mucho entusiasmo, pero rápido menguó. El texto del wordcloud: atendieron los cambios a cuentagotas, de hecho siguen los últimos pendientes hasta donde recuerdo. Necesito que aclares con Dalia qué trabajarás acerca de los alcaldes ambiciosos, y el borrador.
+  - FERNANDA 7: Necesito que aclares con Dalia qué trabajarás acerca de los alcaldes ambiciosos, y el borrador.
+  - VICTOR 6: Necesito que aclares con Dalia qué trabajarás acerca de los alcaldes ambiciosos, y el borrador.
+  - OMAR 6: Necesito que aclares con Dalia qué trabajarás acerca de los alcaldes ambiciosos, y el borrador.
+  - MARIO 6: Necesito que aclares con Dalia qué trabajarás acerca de los alcaldes ambiciosos, y el borrador.
+  - CHEMA 7: Mandaré más observaciones del texto de Morelos, atiendan y usen también para el texto de Tlaxcala. CdMx ya lo hizo Claudia.  
+  - EMMANUEL 6: Mandaré más observaciones del texto de Morelos, atiendan y usen también para el texto de Tlaxcala. CdMx ya lo hizo Claudia.  
+  - CLAUDIA 10: Mandaré observaciones del texto de CdMx. 
+  - SAMUEL 10: Mandaré observaciones del texto de Cherán.
+Que pasen felices fiestas.
+ 
+** SIP
+*** mapeadores
+- mex secciones YO
+- df dissolve 
+- rehacer demarcaciones nay
+- falta mex1996
+- falta bcs2011 --- lo armé en Qgis, que Moisés lo revise
+- cam2018 tiene dos rectángulos flotando en el mar  -- edité en Qgis, que Moisé lo revise
+- cam2012 tiene una diagonal peculiar ---------------- ERIC intentar dissolve desde R
+- col2015 tiene un puntito flotando -------------------ERIC intentar limpiar con Qgis
+** Mail Martha <2017-12-18 Mon>
+Más dudas puntuales
+Querida Martha,
+Sigo sistematizando la información que amablemente compartiste. Me han surgido otras dudas y quisiera consultar tus conocimientos.
+Antes te paso la liga de algunos mapas que he estado preparando con la info. Aún son borradores, pero muestran los distritos desde una óptica electoral.
+- Tengo mapa casillas de 2012. Posible descargar el de 2015?
+- Tengo shapefiles de secciones de 2013. Posible descargar el más actual?
+- Hay datos de la encuesta intercensal 2015 a nivel sección electoral?
+-e
+
+** Mails sip <2017-12-18 Mon>
+*** DONE Moisés Santiago Rubén
+     CLOSED: [2017-12-18 Mon 15:09]
+Chequen los mapas que estoy produciendo con lo que han preparado. A es un borrador, pero se ven ya los mapas: http://ericmagar.com/data/elec/reeleccion/textos/mapDistritos.html
+
+Revisaré la nota metodológica y les mandaré comentarios pronto.
+
+Tengo problemas con un puñado de mapas.
+- en dos estados que listo abajo aparecen mapas en carto pero no en shapefile, por favor hagan la conversión:
+  + bcs DttoLoc_11
+  + tla DttoLoc_16
+- falta (o no supe encontrar) algún mapa de dos estados que aparecen abajo:
+  + mex falta mapa viejo
+  + tla falta mapa nuevo con 19 distritos (que nunca se adoptó)
+
+** DONE Mail sip <2017-11-13 Mon>
+    CLOSED: [2017-11-13 Mon 20:28]
+Alumnos, busquen abajo el mensaje que les corresponde. Hay tareas concretas que quiero para el jueves de esta semana. A todos excepto los que listo antes de los mensajes individuales los liberaré del salón a las 10:20 para que se pongan a trabajar en los encargos. 
+El resto del tiempo me reuniré con los siguientes alumnos para discutir lo que sigue (entre paréntesis el tiempo)
+Humberto (10:10--10:20), 
+Dalia y Ceci (10:20--10:40),
+Verónica y Zabel (10:40--10:55),
+Samuel y Fernanda (10:55--11:15),
+Julio (11:15--11:30).
+Los veré mañana, lleguen puntuales para poder charlas con todos.
+
+Daniel
+bcs: año que usaste para inferir dist_old =
+bcs: investiga qué año se usó x 1a vez el mapa dist_old =
+dgo: año que usaste para inferir dist_old =
+dgo: investiga qué año se usó x 1a vez el mapa dist_old =
+ver: año que usaste para inferir dist_old =
+ver: confirma si el año que el mapa dist_old se usó x 1a vez = 2007
+
+Rubén y Moisés
+En el repositorio, en la carpeta ife.ine/mapasComparados/loc/ encontrarán los mapas de Campeche, Coahuila, DF y Veracruz (y quizás más)
+Por favor úsenlos para producir los shapefiles de los polígonos siguientes:
+- mapa de los distritos federales vigentes    (disfed2018)
+- mapa de los distritos federales anteriores  (disfed2006)
+- mapa de los distritos locales vigentes      (disloc2017 o disloc2018)
+- mapa de los distritos locales anterioes     (disloc con año desgún el estado)
+- para el caso df hay dos versiones locales: 33 y 40 distritos
+Tomen nota de cuánto tiempo les lleva hacerlo para determinar si se les unirán más alumnos para lo demás.
+
+Chema
+df: investiga qué año se usó x 1a vez el mapa disn2015 =
+df: me quedé con tus números de distrito disn2018. Investiga por qué el esc3-criterio8 de los Json podría usar número de distrito diferentes.
+tam: prepara/manda el mapa, los datos diploc casilla 2013 están en http://ietam.org.mx/portal/Estadistica.aspx
+
+Humberto
+Quiero verte mañana para que expliques/remedies el escaso progreso. 
+Explica qué has logrado para cps y oax, se lo pasarás a Claudia.
+Prepararás un reporte de los dsi para anexarle a los mapas de los distritos. Empieza por cam, coa, df33, df40 y ver, que están listos.
+
+Claudia
+Humberto te pasará lo que haya conseguido de los mapas cps y oax.
+Te encargarás de preparar lo que falte para subirlo al repositorio (yo me encargo de fusionarlos con los distritos federales etc.)
+
+Dalia y Ceci
+Quiero un update de lo que le sugerí a Dalia el jueves pasado.
+Se les unirán Omar y Mario para que se encarguen de algunos de los estados.
+
+Omar
+Me encargo de lo pendiente con col, cua, mor.
+Únete c Dalia y Ceci para investigar alcaldes que han anunciado que quiern reelegirse.
+
+Mario
+Dale lo que tengas de bc y qui a Santiago
+Únete c Dalia y Ceci para investigar alcaldes que han anunciado que quiern reelegirse.
+
+Santiago
+Mario te pasará lo que haya conseguido de los mapas bc y qui.
+Te encargarás de preparar lo que falte para subirlo al repositorio (yo me encargo de fusionarlos con los distritos federales etc.)
+
+Verónica y Zabel
+Quiero que hagan un reportaje para intentar dilucidar cómo fue que se introdujo la reelección en la reforma política de 2014.
+Empiecen por Federico, Jeff y Horacio. Además de preguntarles acerca de la pregunta anterior, quiero que sugieran quiénes fueron los negociadores de cada partido (para entrevistarlos posteriormente).
+
+Verónica
+Dale lo que tengas de San Luis Potosi a Daniel
+
+Daniel
+Verónica te pasará lo que tenga de san luis potosí, te encargarás de preparar el mapa local. 
+Encárgate de revisar lo que hizo Humberto para ags.
+Prepara el mapa de Nay. Haz un archivo separado para las demarcaciones.
+
+Samuel y Fernanda
+Quiero verlos mañana para discutir la estrategia de publicación de la nota.
+
+Julio
+Quiero verte mañana para que me reportes avances en los datos municipales.
+
+** DONE Cita INE cartografía <2017-11-16 Thu 18:00>
+    CLOSED: [2017-11-24 Fri 12:31]
+Issues:
+1) Casos criterio 8
+--> martha tiene documento, me lo pasará
+   - cuáles fueron
+   - dónde está el mapa final Json
+2) mapas df etc: disn Json no es el que se adoptó?
+Caso Puebla http://diariooficial.gob.mx/nota_detalle.php?codigo=5495705&fecha=31/08/2017
+3) Origen secciones grises en tablaEquivalencias (cuál es la sección madre y año): 
+   - 2659:2663 puebla 
+   - 2700:2703 mic 
+   - 347, 528:530 cam
+--> me pasarán nuevo AMGE
+4) Nuevos municipios, mi interpretación de IFE v INE
+municipalización IFE
+a que surja de la legislatura 
+b sin ambiguedades en trazo
+c sin controversia en corte
+INE ha flexibilizado, dos criterios complementarios
+d sentencia que indicara línea
+e inegi ya lo tuviera trazado
+5) Compartirles mi repositorio
+
+** DONE Final EP3 otoño 2017 <2017-12-14 Thu 7:00>--<2017-12-14 Thu 12:00>
+    CLOSED: [2017-12-08 Fri 10:29]
+Documental Le Génie Helvétique
+
+Utilice herramientas de la elección pública para analizar la negociación de la ley Gen-Lex en Suiza que narra el documental. Preparará una presentación oral, individual de 5 minutos. Expondrá el 14 de diciembre, entre 7am y 12pm, sus principales hallazgos. Acompañará su presentación de una ficha que resuma su argumento y elabore puntos que lo ameriten (el rollo será penalizado). 
+
+En su presentación describirá brevemente el contexto general de la negociación y los elementos de éste que sean relevantes para su explicación. Se recomienda hacer hincapié en un /puzzle/ o enigma que motive su trabajo. 
+
+En particular, conteste algunas de las preguntas siguientes. ¿Quiénes eran los actores importantes? ¿Qué objetivos perseguían? ¿Quién ganó, quién perdió y qué estaba en juego? ¿Qué maniobras incidieron en el resultado? ¿Hay elementos de incertidumbre/velados en la negociación?
+
+La originalidad y la claridad del argumento serán fundamentales en su calificación (y su ausencia penalizada). Acompañe su presentación de los recursos gráficos que considere necesarios para transmitir su argumento.
+
+Reglas adicionales.
+- A reserva de que el profesor lo autorice con antelación y por causa de fuerza mayor, el alumno asistirá a las presentaciones de todos sus compañeros. 
+- Cada alumno entregará, al final, una relación de las tres presentaciones que más le gustaron y por qué. 
+- Todos harán llegar su ficha y el material digital de su presentación a más tardar las 6am del día del examen (enviaré instrucciones para el envío en los próximos días). Toda entrega tardía será penalizada con 2 puntos menos en la calificación final, e incluso con la cancelación de su presentación final.
+- Los voluntarios para ayudar con la logística del examen tendrán prioridad en la selección de horario. Los demás serán asignados aleatoriamente (anunciaré los turnos antes del examen).
+
+Mucha suerte.
+
+** Regalos navidad 2018
+*** Aurelia: libro de magia (Iza)
+*** Aurelia: Diarios de Greg 7 y 11
+*** Lego gadgets US$25
+** DONE Regalos Navidad 2017
+    CLOSED: [2018-02-23 Fri 11:42]
+- Reloj pulsera $100 Aurelia?
+- Prensa café $700 Vala
+- Mascarilla $500 Vala
+- Tarjetas pájaros Val
+- Bolsa $1500 Mami
+- Salero/mantequillero gallina 
+- Maceta gde $390
+- Maceta chica $280
+- Collar oaxaqueño
+- Aretes oaxaqueños
+- Cuaderno pintar Martín
+- Juego de mesa
+** Títulos para Chile
+Presidents on the fast track: Fighting floor amendments in the Chilean Cámara
+Presidents with fast track authority: not really quicker, more accurate
+Presidential fast track authority: More a Previous Question than a privileged motion
+Not an accelerator, a take-it-or-leave-it rule
+Fast cars and Freedom 
+Speeding tickets
+Fools rush in
+You can't rush spring
+What's the rush
+Wild things run fast
+Not an accelerator but a shield against plenary amendments
+Not a car pool lane but a cloture of highway exits
+Presidents with fast track authority cannot accelerate
+sorry to those in quest for speed, but its a take it or leave it rule
+
+** DONE Presentación UsMx
+    CLOSED: [2017-11-14 Tue 14:35]
+1. Single term limits
+- were extraordinary
+- wrongly associated with RevMx
+- make accountability indirect --- party was vehicle, leaders all powerful
+2. 2014 reform
+- surprising removal, PAN?
+- limited version: 4-term / 12-yr limit
+- party clause
+- mandatory for state legislators, possible for municipal govt, freedom for states to decide
+- summarize variance: in ayun, in n.terms, in yr.init
+3. Will it matter?
+- Brazil, Argentina, Chile
+- 1920s (Godoy 2014)
+|            Year | Total diputados | % reelected |
+|-----------------+-----------------+-------------|
+| Const. Congress |             222 |         --- |
+|            1917 |             256 |          18 |
+|            1918 |             253 |          25 |
+|            1920 |             274 |          15 |
+|            1922 |             262 |          26 |
+|            1924 |             266 |          25 |
+|            1926 |             276 |          30 |
+|            1928 |             281 |          40 |
+|            1930 |             153 |          42 |
+|            1932 |             172 |          27 |
+|            1934 |             171 |           0 |
+- Chile (Navia 2000)
+| Year | % incumbents static ambition | % incumbents reelected | % chamber returning |
+| 1993 |                           73 |                     80 |                  59 |
+| 1997 |                           70 |                     86 |                  60 |
+| 2001 |                           70 |                     82 |                  58 |
+
+
+- party clause, dooms it or prize fighters argument? n win by minor pty @ mun level
+4. Coahuila study
+- Mayhew, CFF, and name recognition
+- research design
+- flaw
+- results
+
+** DONE Seminario TLH en las Ciencias Sociales <2017-11-09 Thu 12:00> 
+    CLOSED: [2017-11-10 Fri 12:05]
+** blog reelección
+*** DONE Mudarlo a ericmagar.com/reeleccion o blog.ericmagar.com o blogDeCiPol.
+     CLOSED: [2018-01-09 Tue 12:52]
+*** Permitiría comentarios y estructura más atractiva
+
+** DONE Examen Tania <2017-12-12 Tue 18:00>
+    CLOSED: [2017-12-15 Fri 13:00]
+** Report CPS <2018-02-23 Fri>
+** Elementos para PC3 en primavera 2018
+*** Duverger, Lipset Rokkan, Bogdanor, Cox --> trabajo parcial o final
+*** Efficient Secret
+*** Partisan literature
+*** Urgencias Chile (mejor esto a ep3 y mover un tema grande como Burocracias)
+*** Industrial organization texts, north's institutions
+*** McSchwartz y McNollGast
+*** Cuotas de género
+*** SF ratios
+*** Vetos Cameron v Magar
+*** Dinastías, incumbency
+
+** Valeria y reglamento <2017-10-18 Wed>
+** Mail de Valeria <2017-10-18 Wed>
+(b) investigación para entender la práctica de introducción de indicaciones
+
+No conseguí RA porque es época de exámenes, pero esto es lo que pude ver yo. Hay 55 referencias a indicaciones en el reglamento, así que esto intenta resumir lo más importante:
+- El reglamento de 2015 (el único sobre el cual hay claridad al momento) establece que el Presidente de la cámara puede declarar inadmisible las indicaciones (art 55.2).
+- Aparte, los proyectos que formen parte de la tabla de Despacho Inmediato no podrán ser objeto de indicaciones y serán sometidos a una sola votación.
+- En los proyectos incluidos en la tabla de Fácil Despacho las indicaciones presentadas serán tratadas una vez aprobado el proyecto en general, pero no se aceptarán indicaciones en materias de la Comisión de Hacienda, esas indicaciones serán enviadas a la Comisión de Hacienda. Las indicaciones se pueden presentar hasta el momento antes de que se vote el último artículo que se trate en particular.
+- Si no hay indicaciones, la aprobación en general incluye la aprobación en particular del proyecto.
+- Durante la discusión general el Presidente de la República y los diputados pueden introducir indicaciones.
+- Bastará que un comité solicite plazo para formular indicaciones para que sea otorgado, no pudiendo el plazo ser inferior a un día.
+- Se someterán a discusión en particular las indicaciones que, rechazadas en el segundo informe, sean renovadas por el Pdte de la República o por dos jefes de comités.
+- Se llama también "indicaciones" a las mociones para reabrir el debate y otras mociones.
+- No se admiten indicaciones que alteren gastos por parte de diputados. Sólo se admitirán si emanan del Pdte de la Rep.
+- Sí si disminuyen gastos.
+- Cuando se trate de proyectos con suma urgencia o discusión inmediata sólo serán aceptadas indicaciones rechazadas por las comisiones informantes si son respaldadas por la firma de 30 diputados que incluyan al menos a 3 jefes de comités, siempre que se trate de las que fueron presentadas en la discusión en general o dentroo del plazo fijado por la cámara.
+- El pdte de la cámara es quien puede declarar inadmisibles indicaciones.
+
+y si alguien además del presidente puede imponer closed rule---ie, prescindir de la segunda lectura---en particular. 
+
+Todos los proyectos incluidos en la tabla de Fácil Despacho no tienen segundo informe de comisión. Son proyectos de poca importancia. Todos los órdenes del día tienen tabla de fácil despacho. Pero la mesa que decide qué entra en esta tabla tendría esa prerrogativa, y podría "estirar" su uso. 
+
+Creo mencionar un una nota a pie un recurso de la biblioteca del congreso que resume bien la práctica parlamentaria. 
+
+No consulté esto, mi única fuente fue el Reglamento 2015. 
+
+2. Sigue también pendiente encontrar una versión del reglamento de la cámara anterior a 2010 para verificar si la closed rule antes aplicaba sólo a la suma urgencia.
+
+Adjunto memo sobre reglamento 2015 que tiene, al principio, todas las enmiendas al reglamento. Después, un resumen de todo lo que se dice en el Reglamento acerca de las urgencias. Las reformas, para hacer lo mismo hacia atrás, son muchas, habría que ver cuáles nos interesan. Eric, si tienes en mente una en particular, dime cuál. Le encargaré a un RA hacer el seguimiento de los artículos que yo identifiqué en el Regla 2015 hacia atrás, pero es un trabajo tremendo así que si lo podemos acotar, mejor.
+
+** DONE Cambios urge10 <2017-09-22 Fri 16:00>
+    CLOSED: [2017-09-22 Fri 18:10]
+** DONE Mail Ges Vale <2017-09-22 Fri 17:00>
+    CLOSED: [2017-09-25 Mon 12:03]
+** Taeko's mail <2017-10-06 Fri 13:30>
+** DONE Mail Brian
+Dear Brian, 
+1. Thank you for your generous offer to help. We welcome the option that someone else takes over responsibility of the 2018 GEL in order for ITAM to move to the 2020 slot. One concern that we must keep in mind is the time constraint, it might be insufficient to have the event ready for 2018 with a different host.
+2. ITAM has made progress towards the event. It is the likelihood that INE, our election board, provides funding for GEL that dropped substantially, *not* our desire to host the event. If conditions to organize a WashU/ITAM co-sponsored event arise, we should be back on track to have everything ready.
+3. Budget. We anticipate that the event will require $50k in total. ITAM has offered to put half. We are waiting for confirmation that ITAM's money commitment still holds, which is probable. If so, we will therefore need $25k in matching funds to complete the budget.
+4. One advantage of exploring event co-sponsorship is a formula to cope with the end of Latin America's bonanza. So far, regional partners have been able to pay the full ticket of the GEL conference, but that appears harder in years to come. As local universities struggle to fund the event solo, pooling resources might help bridge economic woes while still holding the event south of the Rio Grande. 
+Let us know what your thoughts and preferences are. When we have enough information, we can go ahead and communicate with the full GEL committee. 
+I hope all is well in St Louis, un abrazo.
+-e
+
+** DONE Seminario en USMx <2017-11-02 Thu 10:00-12:00>
+** DONE Presento en SiPol <2017-09-14 Thu 14:30>
+    CLOSED: [2017-09-18 Mon 11:45]
+** DONE Hangout Micah <2017-07-06 Thu 16:00>
+    CLOSED: [2017-07-12 Wed 21:37]
+** TODO Poner al día cv en ericmagar.com <2018-01-19 Fri>
+** DONE Micah <2017-06-16 Fri 17:30>
+** DONE Llamar Karla Macías <2017-05-30 Tue 10:00>
+** DONE Mail Micah: <2017-04-17 Mon>
+Hi Micah,
+I've been cleaning my spaghetti code to make something replicable. I just pushed work-in-progress to github, under the replicationFiles/ directory. I still need to work on the README file, but the key eleemts seem to work nowseems. Could you check that it does?
+After setting the working directory in line 13, script code/mainScript.r should run all the way to line 2157 (you may need to install some R libraries to get there). Are you getting error messages?
+Hope all is going well, let me know if you encounter problems or need something else.
+-e
+** Replication files PolGeo + urge10 <2018-02-23 Fri>
+** DONE Pagos EFAD
+    CLOSED: [2017-12-08 Fri 10:32]
+*** DONE 1er  paiement admission EFAD <2017-03-10 Fri> $18,000 Mps + $16,000 Acp = $34,000 / 2 = $17,000
+     CLOSED: [2017-03-08 Wed 10:42]
+*** DONE 2ème paiement admission EFAD <2017-04-10 Mon> $17,000
+     CLOSED: [2017-04-07 Fri 13:07]
+*** DONE 1er  paiement inscription EFAD <2017-04-14 Fri> $13,200 Mps + $ 16,200 = $ 29,400 / 3 = $9,800
+     CLOSED: [2017-04-11 Tue 13:09]
+*** DONE 2ème paiement inscription EFAD <2017-05-15 Mon> $9,800
+     CLOSED: [2017-05-10 Wed 09:31]
+*** DONE 3ème paiement inscription EFAD <2017-06-15 Thu> $9,800
+     CLOSED: [2017-06-14 Wed 17:01]
+*** Pago libros <2017-06-30 Fri>
+** WAIT Pedir liquidez a Patricia Florencia al 5283-5438 o Ma José 5283 5462 <2017-02-07 Tue 9:30>
+Hola María José, tengo que pagar el resto de un departamento y necesitaré liquidez. El monto es cercano a mi saldo, así que quiero cancelar el contrato. ¿Cuánto crees que tardarías en poder transferirme el dinero? Muchas gracias, que tengas un buen día. -e
+** DONE Casa Cuerna
+*** Mails 
+**** Aidee Villa Valles  <a.villavalles@yahoo.com.mx>  55 3191 4178
+**** Yannel Gómez Villa  <myanelgv@yahoo.com.mx>       
+**** Alejandro Ramírez Quezada <arquezada_2000@yahoo.com.mx>
+*** DONE Viene Aydee Villa con notaria al itam <2017-03-06 Mon 11:00>
+*** DONE Requisitos para firma venta Cuernavaca
+    CLOSED: [2017-03-06 Mon 16:22]
+**** DONE Pagar cancelación $3,950 (efectivo)
+     CLOSED: [2017-03-06 Mon]
+**** DONE Pagar visita notario cuerna-df $600
+     CLOSED: [2017-03-06 Mon]
+*** DONE Me abonarán INFONAVIT <2017-03-08 Wed 14:00> 
+     CLOSED: [2017-03-08 Wed 11:43]
+   $521,000
+  -$447,000 
+  ----------
+   =$74,000 que debo restituirles para Ana María y sobre lo que pagaré ISR -> Aboné <2017-03-15 Wed>
+
+   $447,000
+   -$12,000 predial, mantenimiento etc.
+   -$24,000 honorarios para gestores
+  ---------   
+   $411,000 con lo que me quedaré
+*** DONE Ana maría pagará el ISR de la plusvalía
+*** DONE Honorarios para intermediarios $24,000 (ya les había dado $3,000)
+*** DONE Predial y mantenimiento        $12,000
+****
+** En emacs, estudiar C-h i d m reftex <2017-03-01 Wed>
+** CPol 25 años <2018-02-28 Wed>--<2018-03-01 Thu>
+** DONE mail Valeria/Ges <2017-08-11 Fri 09:00>
+    CLOSED: [2017-08-11 Fri 13:47]
+** DONE axtel 01 800 515 1414 <2017-08-11 Fri 15:45>
+    CLOSED: [2017-08-11 Fri 18:30]
+** DONE Micah <2017-08-12 Sat>
+    CLOSED: [2017-11-10 Fri 12:26]
+Eric,
+
+Closer, the mcmc code fails ... the problem seems to be the D97 runs only -- the rest work if run individually. The D97 runs fail with:
+
+---
+non-integer x = 79.530201Initializing model
+Deleting model
+ 
+Error in jags.model(model.file, data = data, inits = init.values, n.chains = n.chains,  :
+  Error in node S[1,1]
+Node inconsistent with parents 
+---
+ 
+Also note in my.jags the following comment which suggests that the D97 runs should be treated differently. I did change the value of D for thee runs, but still fails
+ 
+    D <- 300 # OJO: 298 for df2003d97!
+
+best,
+
+Micah 
+** Mensajes para nuevas mantas
+*** DONE ¿DESEA INVERTIR EN AGUASCALIENTES 47, 51 O 55 O EN NAYARIT 56?
+    CLOSED: [2017-08-07 Mon 17:47]
+    ¡PIÉNSELO DOS VECES!
+    Los vecinos organizados luchamos para demoler los pisos ilegales (QRcode).
+    Si la ley y la comunidad le importan un cacahuate a la inmobiliaria, ¿cree que se responsabilizará con Ud. cuando lo logremos?
+    Firman: los vecinos de Nayarit y Aguascalientes.
+*** Sres. Jefes Delegacional (Morena) y de Gobierno (PRD)
+    Contabilidad de pisos ilegales en nuestra manzana:
+    - Nayarit 56:        *dos*
+    - Aguascalientes 47: *uno*
+    - Aguascalientes 51: *cinco*
+    - Aguascalientes 55: *dos*
+    - Nayarit 40:        demolición sin permiso
+    Los vecinos denunciamos y no hacen NADA. ¿Están del lado de sus representados o en el bolsillo de las inmobiliarias? 
+*** Aquí se estaciona  
+     * IMPUNEMENTE * 
+    la camioneta negra 
+     placas MWT-68-71
+            |
+            v
+** Para letrero Sn Agustinillo <2018-02-24 Sat>
+PELIGRO / DANGER
+*No* nade entre las dos banderas rojas
+Hay fuerte resaca, especialmente con marea baja
+Cuide a sus hijos, la corriente alcanza 2 metros por segundo
+
+Ne *pas* se baigner entre les deux drapeaux rouges
+Fort courant d´arrachement, surtout par marée basse 
+ 
+Do *not* swim between red flags
+Strong return flow zone, especially with low tide
+
+Los salvavidas son voluntarios, por favor contribuya para su equipamento:
+Les sauveteurs sont volontaires, contribuez SVP pour leur equipement: 
+Lifesavers are volunteers, please contribute for their equipment:
+
+SanAgusOax@gmail.com
+*** Cuenta de Mail
+SanAgusOax@gmail.com
+pwd salva911
+
+Plastimundo
+Patriotismo 178
+5271 9233
+     9747
+
+
+Acrílico 1.8mts x 1.2mts x 3mm   = $978 trans o bco (5 años de duración)
+Acrílico 1.8 x 1.2 x 3mm colores = $1,889
+Vinílica brillante $62 el metro (61cms de ancho)
+
+Impresores 
+Calle 10/patriotismo
+55 30527323 con Karina
+
+Plastimadera
+5574 6199
+5584 5294
+
+Pedí tablas de 3" x 1/2" x 1m
+
+* web emagar.github.io
+** sidebar with archives
+** DONE subtitle as first line in post
+** DONE author in posts list, after/under post title
+** use emagar.com
+** comments box after post
+* Clase pc3 <2018-02-27 Tue>
+- [ ] Pregunta: 
+   - Adopción y abandono de regla mayoritaria con doble vuelta en SLP: 1997, 2000 y 2003
+   - Incentivos? Menos razones para coordinarte en primera ronda que en la elección por pluralidad.
+   - Predicciones: (a) más candidatos que después? (b) menor número efectivo? (c) SF ratios menos bimodales?   
+- [ ] Obtener los datos. Clonar o descargar.
+- [ ] Qué sigue? Exploración para generar una pregunta.
+* Parcial PC3
+** Camila: A+
+- Muy bien, juegas bien con los datos para extraer evidencia. Discutes correctamente las implicaciones. Conviene elaborar el efecto de Morena en 2013 (AMLO seguramente se opuso a coal pan-prd) y 2016. 
+- Cita las fuentes del cambio en Oax
+- En intro, di qué periodo estudias. Pre-, durente o post-reforma?
+- spell-check, plis
+- bien por controlar margen. Excluyes caso en donde sólo se presentaron 2 o 1 candidato? Hazlo
+- en histogramas, usa menos "bands" (10 o 20 debería funcionar mejor que las 70 que usas)
+** Marco Cabrera: C-
+- Alternancia no es necesaria para que haya coordinación. No importa quién gane sino cómo y a costa de quién. 
+- bc, cua, gua: N = 5*3 (grandes) en 1989, 91 y 92. 
+- Se asignan más de un escaño: sistema mixto
+- Con N tan chica no puedes sacar conclusiones con estadística. Debes complemantar con más indicadores (margen, núm de candidatos, efecto de últ. elección, etc. 
+- Estudio superficial. 
+** Juan Carlos Palma: C+
+- Oax 2016, caso Morena
+- Bien, anuncias conclusión en 1er párrafo. Conviene un framing más claro: sabemos que fracasó la coordinación de élites de izquierda (AMLO v Frente), ¿hicieron algo los votantes para remediar esto?
+- N = 20 grandes. Habría convenido complementar estudios de caso con una estadística menos detallada pero de todos los municipios---p.ej cociente SF. 
+- Caso Oax capital: votos PT pudieron permitir triunfo de Morena!!! Elabora. 
+- En los 20 casos, remplaza suma 2+3+4 por suma 2+4... sospecho que bastaba esa coordinación para voltear el triunfo. 
+** Gonzalo Solís: B-
+- Buen trabajo. Me gusta el intento por construir un indicador de voto estratégico, aun si se queda corto. 
+- Nay 2008-17
+- Bien por la hipótesis de path dependence. Pero no la pones a prueba...
+- Elabora las condiciones 2 y 3, no son tan evidentes. 2 parece tautológica tratándose de porcentajes, parecieras tener en mente votos absolutos (y no hay modo de mostrar "swing")
+- Condición 3 la capturan mejor el cociente SF y si suma 3+ supera o no el margen. Elabora. 
+- En gráf 1, ¿cómo mides el % de coordinación?
+- Más adelante pareciera que se trata de municipios que cumplen las 3 condiciones. 
+- Menciona que nayarit es buen caso de estudio porque desde 2008 no es sistema mixto!!!
+** Janina Nuño: C
+- Campeche
+- "ha sido determinante": alternancia no es necesaria para que haya coordinación. No importa quién gane sino cómo y a costa de quién. 
+- NEP Candelaria 2015 = .31???
+- SF = .77 no es equilibrio no duvergeriano, discute frontera de "corte"
+- p. 2: ¿calculaste un solo SF para todo el estado? Tiene que ser municipio por municipio!
+- Con N tan chica no puedes sacar conclusiones con estadística. Debes complemantar con más indicadores (margen, núm de candidatos, efecto de últ. elección, etc. 
+- Anáisis muy superficial, dejas mucha evidencia sin tocar. Meter otro estado (p.ej municipios fronterizos con Campeche) habría permitido aumentar la N. 
+** Edgar Monsiváis: B-
+- regidores 2008 solamente. ok porque quitas el sistema mixto.
+- primera elección en demarcaciones: podría explicar la falta de coordinación. Elabora. 
+* Clase seminario
+** DONE Clase sip <2017-08-15 Tue>
+- [X] Un tema = Representación, dos aplicaciones: reelección y redistritación
+- [X] http://ericmagar.com/reeleccion <- léanlo para próx 2 clases
+- [X] Crítica constructiva
+  - [X] Sustancia
+  - [X] Forma
+  - [X] Qué podría hacerse mejor
+- [X] Cómo detonar la discusión de cada entrada, cada alumno se encarga de una
+- [X] Idear estrategia de difusión, @demetodoelpower
+** Clase sip <2017-08-17 Thu>
+*** ¿Qué cambió con reforma 2014?
+a) INE -> redistritación
+b) reelección consecutiva -> discreción estados
+*** Entrada de instituciones -- sin responsable
+a) Objetivo?
+b) Logros?
+c) Déficit?
+d) Mejorable?
+e) Siguiente iteración?
+*** Página FB y cuenta twitter -- reacciones
+a) abrirlas
+*** Entrada de Nayarit -- responsables
+*** Cómo estimular el debate
+a) Experiencia blog = apatía? temor?
+b) Experiancia diarios = puro insulto, simil descortesía tras el volante
+c) Experiencia con seimario ciPol y "descortesía" -- Tipo de intervención que más le sirve al autor? Límite con 
+* Notes on proyBr.r code <2016-10-03 Mon>
+** line where f+l2 data loaded is 1234
+
+
+(setq org-agenda-span 15)
+
+* DONE stuff
+** DONE abrir blog paralelo, publicitarlo                               :edit:
+   SCHEDULED: <2013-09-19 Thu>
+   DEADLINE: <2013-09-19 Thu>
+   In charge:
+** DONE wikipedia github                                          :read:eric:
+** DONE Organizar datos rc ericmagar.com                          :code:eric:
+** DONE Borr2 > publicar Apportionment                           :write:eric:
+** DONE Borr2 > publicar PRI 2012                                :write:eric:
+** DONE Escribir verFinal de Apportion Formulas                :mail:alondra:
+** DONE Añadir fórmula Hill                                         :alondra:
+
+** DONE Edición Magar, Magar, Alexis+Daniel y Alondra    :edit:german:jimena:
+   DEADLINE: <2013-09-24 Tue>
+
+** DONE Bios, foto, nombre                                      :read:jimena:
+
+** DONE pri2012 al inglés                                        :write:eric:
+   DEADLINE: <2013-09-30 Mon>
+
+** DONE Alexis y Daniel: finish juanitas                          :mail:eric:
+   DEADLINE: <2013-10-01 Tue>
+** DROPPED Germán: edición Arturo y Alberto                       :mail:eric:
+   DEADLINE: <2013-10-01 Tue>
+
+** DONE Cuadros PyG
+
+** DONE Leer entrada Arturo, reaccionar                         :read:german:
+   DEADLINE: <2013-10-02 Wed>
+** DONE Leer entrada Alberto, reaccionar                        :read:german:
+   DEADLINE: <2013-10-01 Tue>
+
+** DONE Escribir verFinal de Juanitas                    :read:daniel:alexis:
+   SCHEDULED: <2013-09-21 Sat>
+   DEADLINE: <2013-09-23 Mon>
+
+** DONE Rank Kellogg-MPSA papers                                  :read:eric:
+   DEADLINE: <2013-10-31 Thu -20d>
+
+** DONE Fanny Sleman                                              :read:eric:
+** DONE Daniel Cubría                                             :read:eric:
+** DONE Borrador Mael                                             :read:eric:
+** DONE Alejandra Ibarra                                          :read:eric:
+** DONE Néstor Mtz                                                :read:eric:
+** DONE Catalina Terrazas                                         :read:eric:
+
+** DROPPED Foro ITAM: Algunos elementos del sistema electoral que dificultan que los escándalos y la corrupción le cuesten caro a los partidos. 
+Difícil emprender cambios mayores en este tema actualmente. Por un lado, nuevas normas adptadas con la más reciente reforma electoral aún están por 
+ponerse en marcha por primera vez. Algunas, como la reelección legislativa, prometen cambios profundos, a pesar de los candados con que fueron adoptadas. 
+Por otro lado, reformar las normas electorales pondría en jaque la elección federal de 2015 --- un momento fundamental para que el electorado reaccione 
+a los eventos recientes.
+
+Pero conviene reflexionar acerca de lo extraordinarias que son las prebendas/prerrogativas con que cuentan los partidos mexicanos en perspectiva comparada. 
+Quiero centrarme en tres. 
+
+1. El subsidio multimillonario del erario que perciben cada año.
+2. El acceso gratuito a radio y TV, en cantidad desmedida durante las campañas. 
+3. Las barreras de entrada formidables que los escudan de nuevos competidores.
+
+El financiamiento de las campañas carece de solución fácil y aceptada universalmente. El modelo mexicano de financiamiento "predominantemente público" ha 
+dejado en claro que eliminar (casi) el financiamiento privado legal no es panacea. En los hechos, los partidos han seguido percibiendo sumas 
+multimillonarias, pero no declaradas, de actores privados *además* del cuantioso subsidio de las arcas públicas. Sería preferible legalizar este flujo 
+para, cuando menos, poder verificarlo y acotar el costo para las finanzas públicas. 
+
+Preferible adoptar un modelo de financiamiento mixto y equilibrado, como el que usa Alemania. El subsidio allá es sólo para partidos que han demostrado su 
+representatividad. Un partido nuevo tiene que buscarse donantes propios, lo que no es cosa fácil si careces de un récord conocido. Pero lo fundamental es 
+que *sí* es posible hacerlo. Los partidos existentes deben tener siempre presente la posibilidad de que el descontento se canalice en nuevos competidores.
+ 
+Casi impensable una campaña exitosa que no haga uso importante de la TV y toda clase de gastos en publicidad. Pero un nuevo competidor en México está impedido 
+de recibir donaciones para sufragar estos y otros gastos, y por ser nuevo carece de presupuesto público para ello. Aunado a esto, nadie pue no sea el INE 
+puede comprar tiempo en TV para fines de una capaña electoral. Cualquiera debe poder comprarlo, en cualquier momento. 
+
+No menos importantes son las barreras contra la competencia que disfrutan los partidos. Hasta ahora, sólo un partido con registro puede postular candidatos
+en elecciones. Las candidaturas independientes se han adoptado para las elecciones venideras, pero aún quedan por verse detalles fundamentales de su puesta 
+en marcha en un esquema de financiamiento contrario a quienes jueguen fuera de la actual partidocracia. 
+
+El registro de los partidos ante el INE debe abolirse. Cualquiera debe poder competir en democracia. La experiencia de otros sistemas muestra que la 
+dificultad de convencer cuando careces de récord basta para que los actores consolidades se mantengan en ventaja. Las barreras naturales de entrada de nuevos
+competidores son difíciles de franquear en cualquier sistema. Es inaceptable añadir más barreras artificiales, como hace el registro de los partidos en hace 
+en México. Esta vetusta institución garantiza que, incluso cuando los partidos meten la pata en grande, como los actuales en México, no 
+surjan alternativas que los vulneren. 
+
+La eliminación de los candados partidistas a la reelección legislativa y de alcaldes sería deseable --- sospecho que caerá por su propio peso, crea 
+contradicciones enormes entre líderes partidistas y sus campeones electorales. La generalización de las elecciones primarias podría ayudar a aumentar 
+el peso de los sectores medios y bajos de los partidos, a expensas del liderarzo. 
+
+** DONE Review Reforma electoral Chile
+** DONE Terminar capítulo Chile
+** DROPPED Cita Apellaniz seguros
+** DONE Cancelar seguro papá Poiré?
+   
+
+
+* Carta para los padres de Sn Agus
+Hola, 
+Cuando te vi entrar una mañana a la pâtisserie me congelé. No consigo recordar tu nombre, menos el de tu marido. Pero no olvidaré aquella tarde en San Agustinillo. Te he vuelto a ver y me incomoda no saber como narrarte lo que pasó. Prefiero escribirlo. 
+
+
+
+Veo que también eres 
+
+* Projects
+** TODO postate                                                   :edit:eric:
+- [ ] Finish conclusion
+- [ ] Finish appendix
+- [ ] Print pdf with text and appendices separate
+- [ ] Note for editors
+Dear Editors of the Quarterly Journal od Political Science: Attached please find a manuscript on veto and veto override incidence.
+The paper builds upon and extends the work of Romer and Rosenthal, Kiewiet and McCubbins, Cameron, Groseclose and McCarty, and many others.
+It is an example of Empirical Implications of Theoretical Models.
+- [ ] [[http://nowpublishers.com/journals/Quarterly%20Journal%20of%20Political%20Science/author-instructions][Check instructions]]
+- [ ] Send to QJPS Administrator admin@qjps.com
+** TODO overrides and supermajorities
+** DROPPED entry for mpsa -- read Cox                             :read:eric:
+   CLOSED: [2017-01-20 Fri 11:22] DEADLINE: <2013-10-04 Fri>
+** TODO Book proposal to Stanford UP
+*** [[http://www.press.umich.edu/authors][web site]]
+*** Editora: Melodie Herr mrherr@umich.edu 734-763-6419
+*** New chapter possibilities:
+- Presidential involvement in Congress' agenda in Chile (urgencias, Navia)
+- Decrees in Argentina vs Executive orders in US
+- Executive coalition in Uruguay (with Juan Andrés Moraes) and
+  pre-Chávez Venezuela (with Octavio Amorim Neto).
+- Overrides with Q=1/2 in Brazil, (Lucio Renno)
+- Read Cheibub
+- Unidad Popular deadlock
+- Position taking in Mexico's Congress (proposiciones)
+
+** DROPPED Common space in LatAm (Jesse)
+- [ ] Hablar con Armando sobre uso/costo Facebook
+- [ ] Hablar con Gerson y con Ch: busco RAs
+re: posiciones ciudadanas en votaciones legislativas
+Hola Gerson, espero que este mail te encuentre bien. Quiero ver si te interesaría colaborar en un proyecto que arrancaré pronto con colegas. 
+
+El objetivo es mapear a legisladores y ciudadanos en el mismo espacio ideológico. Para ello, seleccionaremos una muestra de iniciativas 
+que hayan sido votadas recientemente en las cámaras y le pediremos a una muestra de entrevistados, por internet, cómo habrían votado si 
+hubiesen tenido oportunidad. El cuestionario les presentará, en términos claros y sencillos, las implicaciones de aprobar la ley, cuál 
+es el status quo, y les preguntará si votarían a favor o en contra. 
+
+Quiero ver la posibilidad de que nos ayudes con la selección de casos y la sustancia de la legislación. Tenemos un pequeño presupuesto
+
+Quisiera 
+
+** DONE Redistricting
+   CLOSED: [2017-01-20 Fri 11:22]
+** Rules in LatAm
+** Veto in Brazil
+** TODO IFEdyn
+** TODO IFE monograph?
+   
+** TODO Facebook survey
+   
+* Contact with academic presses
+** pegar aquí las respuestas recibidas por mail
+
+* mails 2 send
+** jun11 2014
+Dear Gary, I send you an update. I got the Fulbright grant, thanks in good part to your support. I am grateful. 
+We have nonetheless opted to spend my sabbatical in Wash U. With two kids in need of daycare, Palo Alto's cost of living scared us .
+
+NAME, in charge of acquisitions at Stanford University Press, expressed interest in the manuscript. With reservations however. I don't know if I 
+should interpret his request to add original stuff as a polite no, or if this is standard in the negotiation. PASTE excerpts and whole thing: can
+you please help me understabd if this is worth pursuing? Perhaps I should contact more publishers (X, X, ... expressed no interest, Y, ... did not
+respond. I will move to the next tier below. 
+
+trips to Stanford to touch base. 
+
+** DONE MAIL 1: sent sep11
+Querido Fernando,
+Espero que este mail te encuentre bien. Estoy en St Louis, Missouri, pasaré aquí un año haciendo investigación con colegas. 
+
+Escribo para solicitar tu ayuda en aras de transparentar al poder legislativo. Intento ubicar los registros de la totalidad 
+de votaciones nominales celebradas en la LXII Legislatura de la Cámara de Diputados (y, de ser posible, en Legislaturas anteriores también). 
+La Gaceta Parlamentaria y el INFOPAL permiten que el público conozca la gran mayoría de las votaciones, pero existe un conjunto importante de 
+votaciones que no aparecen en esas fuentes. 
+
+Cuando los historiadores de mañana intenten reconstruir el actuar de los representates de la actual Legislatura, encontrarán una fuente incompleta. 
+Intento remediar esto recopilando la totalidad de votaciones para publicarlas. 
+
+Estaré muy agradecido si me orientas un poco al respecto. ¿A quién sugieres que contacte para sondear el establecimiento de un vínculo permanante 
+con la Cámara que permita actualizar periódicamente las votaciones faltantes? Tengo un listado de las votaciones que faltan.
+
+Aprovecho para mandarte un fuerte abrazo, que tengas un buen día.
+
+** DONE MAIL 2
+Hola Maite:
+
+Retomo el tema de las votaciones nominales de la cámara que dejé pendiente contigo hace un par de semanas. 
+
+Intento ubicar los registros de todas las votaciones nominales celebradas en la LXII Legislatura (y, de ser posible, en Legislaturas anteriores también).
+
+El INFOPAL (http://www.diputados.gob.mx/sistema_legislativo.html) y la Gaceta Parlamentaria (http://gaceta.diputados.gob.mx) permiten
+consultar fácilmente los votos de los diputados. Hay, sin embargo, un conjunto importante de votaciones que no aparecen en una u otra de estas fuentes.
+
+Aquí va un ejemplo concreto. Si entras a infopal LXII y seleccionas, del segundo periodo ordinario del primer año, las votaciones correspondientes al 18 de abril 2013, verás listadas las siguientes seis:
+
+105     DECRETO QUE REFORMA LA FRACCION III DEL ARTICULO 530 DE LA LEY FEDERAL DEL TRABAJO (EN LO GENERAL Y EN LO PARTICULAR CON LA MODIFICACION ACEPTADA)
+106     DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, EN MATERIA DE ÁREAS PROTEGIDAS MARINAS. (EN LO GENERAL Y EN LO PARTICULAR)
+107     DECRETO QUE REFORMA EL ARTICULO 37 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS (EN LO GRAL. Y EN LO PART.)
+108     DECRETO QUE ADICIONA LA FRACCION XXIX-R AL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS (EN LO GENERAL Y EN LO PARTICULAR)
+109     DECRETO QUE REFORMA EL INCISO E) Y SE ADICIONA UN INCISO O) DE LA FRACCION IV DEL ARTICULO 116 DE LA CPEUM (EN LO GRAL. Y EN LO PART., CON LA MODIFICACION ACEPTADA)
+110     DECRETO POR EL QUE LA LXII LEGISLATURA OTORGA LA MEDALLA EDUARDO NERY Y LEGISLADORES DE 1913 (EN LO GRAL Y EN LO PART)
+
+Si das clic con el mouse sobre el número 105, te llevará al cuadro resumen de esa votación nominal en el vínculo siguiente:
+
+http://sitl.diputados.gob.mx/LXII_leg/estadistico_votacionnplxii.php?votaciont=204
+
+Haz lo mismo en el 106 y te redirije a
+
+http://sitl.diputados.gob.mx/LXII_leg/estadistico_votacionnplxii.php?votaciont=206
+
+Notarás que el índice con que termina esta última dirección de internet se saltó el 205, y que esto no ocurre con las demás votaciones listadas ese día.
+
+Se trata de una votación nominal no registrada en el sitio de internet de la cámara. Si revisaras el diario de los debates de esa sesión, encontrarías referencia a la votación omitida. Se votó incluir un nuevo punto en el orden del día sin que la petición hubiera sido formalizada por la Junta de Coordinación Política (con fundamento en el artículo 64, numeral 1). La inclusión del punto fue rechazada por el pleno, con 223 a favor y 234 votos
+en contra, sin abstenciones.
+
+Esto mismo ocurre en muchas sesiones de la cámara. En algunos casos, las votaciones nominales no registradas por infopal sí aparecen en la Gaceta.
+
+Pero no es el caso en este ejemplo. Necesito tu ayuda para ver cómo es posible encontrar un listado de cómo votó cada diputado en ésta y otras votaciones faltantes. Prepararé un listado completo de las votaciones que no he podido recopilar ni en infopal ni en la gaceta para mandarte próximamente. 
+
+Por ahora el ejemplo debería bastar para que hagas tus investigaciones con el personal que archiva esta información y prepara la  página de internet. Es decir, contactarlos y preguntarles cómo puedes encontrar esa información faltante.
+
+El índice 205 que se saltaron las direcciones de los cuadros resumen permite suponer que este personal sí tiene conocimiento de las votaciones no registradas. La pregunta es cuál es una vía para obtener la información.
+
+Avísame si he conseguido darme a entender en todo esto o si necesitas alguna aclaración. Muchas gracias de antemano, espero que tengas un buen inicio de semana.
+
+** DONE MAIL 3
+Comisión de Régimen, Reglamentos y Prácticas Parlamentarias. 
+
+
+Listo a continuación algunos ejemplos de votaciones que suelen no aparecer en alguna de estas dos fuentes.
+
+1. Si se admite a discusión las modificaciones al artículo X propuesta por el diputado Y. 
+2. Aprobación de moción suspensiva. 
+3. Solicitud de celebrar una votación nominal en vez de económica. 
+4. Aprobación de proposiciones con Punto de Acuerdo de urgente resolución. 
+5. Permiso para que mexicanos acepten condecoraciones o presten servicios a representaciones consulares de otros países. 
+6. Nombramiento de funcionarios camerales.
+7. Nombramiento de la Comisión Permanente. 
+8. Acuerdos de la Junta de Coordinación Política. 
+9. Alterar el orden del día sin que lo formalice la Junta de Coordinación Política. 
+
+Gaceta e INFOPAL parecen interesadas en las votaciones en lo general y en lo particular de decretos de ley --- sin duda las más importantes. Pero quienes
+estudiamos el Congreso hoy y los historiadores del futuro cuando
+los historiadores quieran reconstruir el actuar de la legislatura, contar con las votaciones de asuntos procedimentales y los de menor importancia será
+indispensable. 
+
+Creo tener un listado casi completo de las votaciones disponibles y las faltantes desde la LVIII Legislatura. 
+
+1. Me encantaría que te este proyecto te interese. 
+2. Con reelección esto será fundamental. 
+3. ¿Con quién debo hablar?
+
+Dado que estoy fuera, el contacto personal sería con un asistente de investigación. 
+ que permita que un asistente mío actualice periódicamente las votaciones no reportadas. 
+
+** DONE Mail urgencias Chile (sent 0ct10,2014)
+Hola Eduardo, he arreglado el pasaje con Francisco, me alegrará verlos en un mes en la conferencia de Houston. 
+
+Estoy preparando un trabajo sobre la introducción y retiro de las mociones de urgencia del ejecutivo chileno. Escribo para hacerte dos preguntas. 
+
+Primero, además de tu paper con Patricio, ¿qué trabajos consideras que resumen el estado de la cuestión en Chile y otros países?
+
+Segundo, ¿puedes compartir los datos que usaron para ese paper? Voy a preparar una rutina de scraping del sitio del Congreso chileno, pero no tiene caso duplicar lo que ya se ha hecho. Ofrezco añadirle info a la base de datos y enviarlse la versión aumentada.
+
+Gracias de antemano, espero que tengas un buen final de semana. 
+
+** DONE To José Cheibub
+Dear José,
+
+I hope that your trip to Sri Lanka went well.
+
+I write to request advice finding data on Brazil and judging the relevance. I have two projects in mind.
+
+1. Veto overrides.
+
+Two veto theories suggest that a study of veto overrides in the Brazilinan Congress should be interesting. 
+
+Brazil combines presidents who use the veto a lot and, since 1988, majority veto overide. This combo is puzzling. 
+When the outcome of veto override votes in Congress is, a priori, certain, one key factor in Cameron's incomplete information veto theory is removed. 
+
+Position taking veto theories extend better to Brazil and other majority-override cases. From this perspective, vetoes let the 
+president stake out popular positions but are hopeless, and therefore should all be overridden. 
+Evidence of _sustained_ would raise another puzzle---and Mello Grohman reports that most vetoes 1990--2000 were, indeed, sustained. 
+Classic Venezuela and many U.S. states with the majority veto override have a substantial number of sustained vetoes as well. Why?
+
+Other than Mello Grohman's IUPERJ dissertation, who else's work should I look for?
+
+2. Urgency authority.
+
+Has anyone studied the constitutional reform forcing congressional consideration of Medidas Provisorias? Who has studied 
+executive urgency authority? Given institutional indeterminacy in Chile, the talk at Urbana made me realize that complementing the chapter with 
+data from Brazil and/or Uruguay will make my life easier. 
+
+3. I would need bill histories for these projects, a random sample should suffice. If you have this type of data, would you be willing to share it? 
+Who should I get in touch with otherwise?
+
+I thank you in advance for your help and hope that all is going well. 
+** DONE To Gisela Sin
+Hola Ges, 
+
+Le escribí hace unas semana a José pidiéndole recomendaciones para obtener datos de vetos en Brasil y me sugirió escribirte a ti. Así que ahora no es uno, 
+son dos los proyectos para colaborar con Valeria y contigo. Te cuento lo que tengo en mente para que juzgues su relevancia y si te interesaría buscar
+aristar para colaborar. 
+
+1. Veto overrides.
+
+Dos teorías de veto sugieren que el estudio de veto overrides en el congreso brasileiro sería interesante. 
+
+Brasil combina presidents que usan mucho el veto y, desde 1988, veto overide por mayoría. Este combo es un puzzle.
+Cuando hay certeza a priori sobre el desenlace de un voto de override en el Congreso, remueves un factor clave de la teoría de información incompleta de 
+Cameron. 
+
+Las teorías de vetos por position taking se extienden mejor a Brasil y otros casos de majority-override. Desde esta óptica, los vetos permiten al
+presidente hacer maromas para mostrar posiciones populares. Pero dichos vetos carecen de dientes y deberían, todos, ser overridden. 
+Evidencia de vetos _sustained_ plantearía otro puzzle---y Mello Grohman reporta que el grueso de los vetos entre 1990 y 2000 en Brasil no fueron, de hecho, 
+overridden. Venezuela clásica y muchos estados de EE.UU. con majority veto override tienen tambien sustained vetoes numerosos . ¿Por qué?
+
+¿Sabes si alguién más que la tesis doctoral de Mello Grohman en IUPERJ ha estudiado esto en Brasil?
+
+2. Urgency authority.
+
+¿Quién ha estudiado la reforma constitucional que obliga al Congreso a considerar las Medidas Provisorias? ¿Quién ha estudiado la  urgency authority? 
+Como me sugeriste en mail previo, por la indeterminación institucional en Chile, complementar este caso con el brasileiro me simplificaría la vida. 
+(En Uruguay casi no se usa.)
+
+3. Necesitaría obtener bill histories para fundamentar ambos proyectos. Una muestra aleatoria debería de bastar, supongo. 
+Si tuvieras esta clase de info, ¿estarías dispuesta a compartirla? ¿A quién más me sugieres contactar?
+
+Cuéntame qué tienen en mente ustedes, porque nuestros trabajos se complementan como pocos. Veo más oportunidades para colaborar. 
+
+Gracias por tu tiempo, espero poder verte en Chicago en un par de semanas. 
+
+Un beso, 
+
+** DONE To Micah, Mike, Alejandro (bias paper)
+Hi folks, MPSA went pretty well, the discussant gave few but useful suggestions to improve the paper. As promised, I write on what lies ahead.
+
+1. I have added notes within the paper's LaTeX code. Also some statistics that are still unconnected to the discussion, but that may be of use when re-framing the paper. 
+
+2. The present version applied GMK in order to show that it works. That seems to be the case, please judge. If so, I will next add the creeping malapportionment statistics. They are straightforward, but require more data (see next item).
+
+3. Alejandro: for the creeping malapportionment estimation, I will need 1990 and 2000 census total population data. The 1995 conteo data would also be welcome. Ideally, we should work with seccion-level data, and build district from there. But a 2nd-best would be district-level population data. If this is all that is available, we need the 1990 population of districts in the 1997 map and the 2000 population of districts in the 2006 map. The 1995 conteo population of districts in the 1997 map would be useful to refine population projections in other parts of the analysis. Rojano's team must have this, do you thing you can get it?  
+
+4. The next incarnation of the manuscript should re-frame the discussion away from malapportionment-only and towards Grofman's three sources, plus the creeping malapportionment component if we add it. I have begun this, but most needs to be done. 
+
+5. Elements that we may highlight in the framing: low-turnout districts (PRI strongholds) connect to the turnout literature; can we connect party bias to classic studies of voting influences (social classes, interest groups...); major-party influence in electoral regulation.
+
+6. We could minimize the malapportionment discussion by turning all that into a separate paper. Adding measurement error, as Micah suggested, to the description of malapportionment, and the policy recommendation to reform law so that redistricting should happen as soon as possible after the census should produce a simple piece that might be of interest in Mexican Studies or some specialized journal. 
+
+7. Hypotheses. Next version might discuss majority party power-sharing at IFE and derive some empirical implications. We need to figure out what to expect in terms of malapportionment, turnout, and gerrymandering from that model (or from other relevant literature). The absence of partisan gerrymanders system-wide is expected. But that can be literal (gerrym-based bias = 0), or it can be achieved by balancing one party's gerrymanders with another party's, so that in the aggregate they tend to cancel out. Does it cancel out in every election? From one election to the next? How does big vote volatility affect party bias? 
+
+8. GKB talk of distributional-based bias. Referring to it as gerrymandering-based party bias could make framing more interesting. What are the trade-offs?
+
+9. Alejandro: many months ago, we had discussed about missing secciones in the data. There are not many, but cleaning that would be desirable. Did you hear from Rojano's people about this?
+
+10. I will need to sit down and carefully read my code in order to describe the data and prepare replication material. This can wait until we are ready to submit the next version.
+
+11. Who will take the relay next and thoroughly edit the text?
+
+12. Possible venues for publication: LSQ (that is where King 1990 appeared), Electoral Studies (GBK appeared here, but is very slow), CPS. Any thoughts?
+
+** DONE To Linzer:
+I wish to extend your seats-votes swing ratios procedure to other electoral systems. Obtaining simulated national vote and seat shares will 
+require more data than your method now does (total district vote and party shares). I will be very grateful for your help in pointing at which of 
+the functions in your library I need to tweek.
+
+Take the German two-tier system as illustration: parties receive extra seats to approximate their vote shares at the state level. In such case, party state 
+vote shares (the sum of districts in the parent state) should be added as input along the district data. Adding this info is straightforward. 
+
+I suspect that the mixture model would use statewide vote shares to produce an estimated density
+of district-level quantities with no need to change the mvnmix() function. That density would be capable of simulating hypothetical statewide shares
+along with district results. Other functions would need instructiions on what to do with that information. 
+
+The next steps a somewhat fuzzy. Does the simulation procedure create district-level quantities first to determine who wins each seat, then aggregate 
+hypothetical national vote and seat shares to roduce votemat and seatmat? I suspect that this done by function sim.election() only, but any hint will 
+be much appreciated. 
+
+Thank you in advance,
+** To Pepe Merino:
+Hola Pepe, escribo para explorar tu interés en el proyecto de redistritación. Veo que ya Alejandro te ha mandado algo de info por FB. Lo incluyo para que pueda abundar sobre lo que aquí expongo.
+
+Nuestros coautores tienen una herramienta para abrir la redistritación al público. Se ha usado en varios estados para salirse del escenario en el que las cortes tienen argumentos jurídicos para invalidar un mapa muy partidista, pero carecen de los recursos para hacer una contrapropuesta. En al pasado, mapas muy partidistas han salido avante porque los jueces no se aventaron el tirito de volver al aún más distorsionado mapa viejo. El DistrictBuilder ha permitido salir de esta situación.
+
+Queremos desarrollarlo para México, pero nuestras búsquedas de financiamiento con fundaciones han sido un estrepitoso fracaso. Ante esto, nos hemos planteado explorar algo nuevo. El esquema general sería uno en el que invertimos ahora para ofrecer un bien público. Si generara suficiente interés, sería posible después vender asesoría para adaptarlo a usos diversos. Similar, pues, a lo que hacen quienes hacen distribuciones gratuitas de Linux. 
+
+El tema: mostrar que la redistritación es *MUY* importante y que cualquiera puede hacerla. La plataforma elimina tecnicismos muchos y permite ver las consecuencas de cambiar las fronteras distritales. 
+
+La tecnología: DistrictBuilder. Es una plataforma open-source (licencia GNU) que opera parecido a Google Maps. A partir de la cartografía de base (secciones electorales), permite que cualquier usuario con internet modifique mapas distritales o haga mapas propios en concordancia con los criterios legales. Permite también analizar el impacto que tienen cambios al mapa en las variables que considera el INE (población, tiempos de traslado, etc.) u otras que sean de interés (márgenes de victoria, si divide a grupos de interés, etc.). Y permite compartir propuestas para generar un debate público sobre efectos de las propuestas. Existe un demo para el EdoMex que puede activarse si pagamos la cuota de Amazon Cloud. Alejandro te podrá dirijir a algunas aplicaciones en estados de EE.UU.
+
+Relevancia: el INE ha empezado a redistritar los estados (para diputados locales de mayoría) secuencialmente. Como el proyecto es escalable, nos permite preparar una versión del software para un solo estado, en vez de todo el país. Habría que seleccionar un estado interesante que redistriten el año entrante (Veracruz?). 
+
+Inversión. Contratar a la empresa que preparó el demo EdoMex constaría 5-10mil dls por estado. La alternativa que propongo es pedirte que estudies si tus chavos pueden adaptar el código para el estado. Se necesita algún conocimiento de GIS y de datos censales, si recuerdo bien de cuando le eché un ojo, la programación es en Apache. 
+
+¿Qué ganamos? Trabajo académico y periodístico, seguramente. Le hacemos un servicio importante a nuestra democracia. Y, si corremos con suerte, hay un posible negocio. La apuesta es que el demo consiga demostrar todas las promesas del software. Al INE puede evitarle dolores de cabeza por ser una suerte de fire alarm. A los grupos de interés les permite ver si la línea distrital no los corta por la mitad. A los partidos, los efectos electorales generales y en sus bastiones. Esto abriría puertas para extender y para vender asesoría. 
+
+Dónde albergarlo. Tengo que explorar si esto es factible en el ITAM, para ahorrar los costos de Amazon cloud. 
+
+** DONE To Vidal/Luis Estrada y Dworak/Xiuh: 
+Estimados colegas, escribo para avisarles que no daré clases de diplomado en los próximos semestres --- tengo la agenda apretadísima para cerrar el manuscrito. No sé si aún me tenían contemplado para dar clase, pero les aviso con algo de tiempo para, de ser el caso, que busquen un sustituto. Aprovecho para mandarles un abrazo. -e
+
+** Enrique Seira enrique.seira@itam.mx
+Hola Enrique, escribe Eric de Ciencia Política. Vidal Romero me ha comentado que tienes experiencia con datos inegi. Pido tu ayuda para intentar aclarar
+los recusrsos con los que podría contar en el ITAM para un proyecto de redistritación en el que estoy involucrado. 
+
+Te cuento brevemente la natiraleza del proyecto para ubicarte. Se trata de extender para el caso mexicano el DistrictBuilder (www.publicmapping.org). Es una herramienta open source que opera en la nube y que 
+permite que cualquier interesado con una conexión de internet evalúe, modifique y comparta un mapa de distritos electorales. Es sumamente versátil y opera 
+muy parecido a google maps, de modo que no es necesario conociemiento técnico para participar en la producción de cartografía electoral. En USA el
+DistrictBuilder ha dado resultados sorprendentes, permitiendo hacer del proceso uno participativo. Quisiéramos echar a andar un demo para uno o más 
+estados en México ahora que el INE está por redistritar cada estado y todo el país. Si demostramos su utilidad, podríamos obtener fondos para desarrollar
+escalar la herramienta al resto del país. 
+
+Hemos
+
+** DONE To Mara, Valeria,
+Hola Mara y Valeria, 
+Tenemos ya fecha de llegada al DF, será el domingo 21 de junio. Espero que esto no les cause ningún inconveniente, al final tuvimos que programas el viaje unos días antes de lo que queríamos. Dada esta fecha, ¿hasta cuándo tendrían previsto quedarse en casa? Haré el "prorrateo" de la renta correspondiente a los días que ocupen. 
+
+** DONE To Juanito
+Hola mi Johnny, 
+¿Cómo están? Tenemos ya fecha de regreso para el 21 de junio. Aunque estamos contentos por acá, también extrañamos mucho a los amigos y nuestra casa. 
+Les avisaré cuando hagamos nuestro festejo de bienvenida al DF. 
+Necesito pedirte un favor. Mandé una maleta con Tabea, quien está de visita al DF hasta el jueves 14 de mayo. ¿Podrás pasar a recoger la maleta a su hotel 
+(es chica y tiene rueditas) y guardarla en casa hasta nuestro regreso? Tabea se hospeda en el Red Tree House (Culiacán esquina Citlatépetl, 
+enfrente de la casa Refugio). La maleta está en la recepción. 
+Avísame si hubiera cualquier problema para buscar otra solución. Trataré de marcarte en otra ocasión porque no corrí con suerte ahora. 
+Besis,
+-e
+
+** DONE To Kerrs
+Dear Maggie and Matt,
+We have spent a lovely year in St. Louis. It is time, however, to begin arrangements towards our forthcoming departure. 
+1) Date. We will fly back to Mexico City on Sunday June 21st. Unless you will be in St. Louis by that day, we will need instructions of what to do with 
+the house keys. We plan to leave the house clean and ready for you to move back in. 
+2) Deposit. When you verify that the house is in good state and deduct the June bills, my preference would be to receive the remainder deposit in my 
+bank account. In that case, I would leave an envelope ready to mail (Wells Fargo has no branches in Missouri). 
+3) Rent. My preference is to pay two-thirds of the June rent---the approximate time we will occupy your house. That would amount to $1,100 plus service
+bills for the month of May. 
+4) Damages. Other than the kitchen handrail (which we discussed over email), we cracked one dinnerplate and replaced it with an identical one. (Another 
+dinnerplate and two bowls (one small, one large) were cracked since before our arrival---those we have obviously not replaced). We also damaged one of 
+the green wooden chairs in the dining room (don't ask me how, I have no idea); I tried to locate a replacement, but IKEA only lists it in black color. 
+Please advise if I should get that as a replacement, or do something else. Toy?
+We will miss being in your house...
+** To Neal, 
+Hi Neal, I wish to study the Brazilian president's monthly standard legislative initiatives: SLI = statutory bills / (statutory bills + decree laws) 
+introduced in Congress. Since the SLI is a proportion, I thought of using a log ratio as a regression's DV: ln(SLI/(1-SLI)). 
+
+Problem is that the SLI sometimes takes values 0 and 1. Is the "fractional logit" what I am looking for to handle proportions between zero and one inclusive? 
+And does the implementation in R suggested here http://stackoverflow.com/questions/19893133/fractional-logit-model-r seem kosher? What do you suggest I read?
+
+Thank you, good evening.
+
+** DONE To cpol
+   CLOSED: [2016-05-17 Tue 13:36]
+Estimados colegas y alumnos, quiero invitarlos a la presentación del trabajo que realizaron los alumnos del seminario de investigación. 
+En el transcurso del semestre, prepararon el boceto de un atlas de los distritos electorales federales. Cada alumno hará una presentación de la historia y geografía políticas de un par de distritos, así como un resumen de los otros cinco que ha preparado.
+La cita es el viernes 20 de mayo, de 14 a 16 horas, en la Plaza Roja. 
+Que tengan un buen inicio de semana.
+-e 
+* RQDO
+** Reunión 20ene16
+*** TEST Más profundidad, más tiempo, más presupuesto
+*** DONE Webinar con París
+*** TEST Plan: estudio de 4 meses que arranque 15feb.
+*** DONE Antes de ello: contacto con GDL y webinar
+** DONE Webinar 5feb2016
+*** DONE 250km radius is binding, can be extended to accommodate Mx as large country? Puede negociarse
+*** Kick-start to achieve critical mass for a host?
+*** Choice to accept new host in UK done all in Paris?
+*** Host profile is many women in their 35s, variance across cities/countries?
+*** DONE Raw v processed products breakdown? Flexible, pero énfasis pareciera ser en raw
+*** How does 16.7% compare to standard commissions for small producers? 
+*** TODO Temas que estudiar: estimar radius factible para Mx; implacaciones de responsabilidad legal (p.ej. caso de food poisoning); implicaciones con el SAT de hacerlo todo por banco
+
+** Hangout <2016-04-29 Fri>
+*** Problemas Fanny
+**** Consumidor: problema
+**** WAIT Angie
+**** TEST Rafa Vergara EM pondrá a Fanny en contacto 
+**** Any info from Green Corner & Aires de Campo
+ 
+* Mapas en Google earth
+** DONE Debo plugin gis2kml, a ver si exporta el style fácil.
+   CLOSED: [2016-04-05 Tue 09:34]
+** DONE Si lo anterior no jala, debo ver los colores y definir estilos pan4, pan5 etc para después, con regexp, cambiar <style> por <styleUrl> [[https://developers.google.com/kml/documentation/kml_tut#styles-for-geometry]]
+   CLOSED: [2016-04-05 Tue 09:34]
+** DONE Otra opción es ver si puedo exportar se.map a kml desde R
+   CLOSED: [2016-04-05 Tue 09:34]
+** DONE O volver a pegar bastion1 (color) al objeto de secciones para somehow leerlo en kml...
+   CLOSED: [2016-04-05 Tue 09:34]
+** Falta ver como instalo GE en ubuntu 64 bit. Varias alternativas
+*** TODO buscar un GE anterior
+*** TODO wine y versión de windows
+*** TODO esperar tip de askubuntu
+
+
+* to-do ITAM bias presentations
+** DONE Read Márquez to check that his plot shows no anti-PRI bias
+** TODO Skim Johnston's 3-pty bias decomposition!!!
+** See how both can be addressed in text
+** DONE Calvo-Micozzi's differences with us
+   
+* Invitables CiPol
+** Pablo Beramendi, Duke **
+** Leslie Schwindt-Bayer, Rice **
+** Royce Carroll, Rice **
+** Taeko Hiroi, UT-El Paso *
+** Mark Jones
+** Jon Rogowski
+** Margit Tavits
+** Brian Crisp
+** Dawn Brancati
+** Andrew Reeves
+** Maggie Penn and John Patty
+** Sergio Wals
+** Cantú *
+** Dan Brinks UT-Austin *
+** Eduardo Alemán
+** Ernesto Calvo
+** José Antonio Cheibub
+** Gisela Sin
+** Pablo Pinto
+** Michelle Taylor-Robinson
+** Amanda Driscoll Florida State *
+** Lydia Tiede UH *
+** Dan Butler, Wash U
+** Drew Linzer, Emory
+      
+** Sunita Parikh (no invité)
+** Schofield (no invité)
+** Becky Morton (no he invitado)
+** Stanley Winer (Carleton University)
+* Invitables a conferencia Redistritación/constituency-level election analysis 04/24/2016??? Escribir a Silvia Millán (2-day)
+** co-organize with Micah? Memo?
+** Aparicio
+** Márquez
+** Memo
+** Joy
+** Micozzi
+** Weldon
+** Gomberg
+** Cantú
+** Calvo
+** Sandra Ley
+** Cheibub
+** Alemán
+** Grofman
+** Stanley Winer
+** Mike McDonald
+** Trelles (
+** Cox
+** Morgenstern
+** Pachón
+** Magar (Chilean redistricting)
+** Ges
+** Valeria
+** Beramendi
+** Ana de la O
+** Michigan constituency-level crowd
+** CSES crowd
+** Aldrich
+** Engstrom
+* ToDo general
+** DONE Cita *Paris* Starbucks Murano <2016-03-16 Wed> 4pm
+- Standalone minimal pbm: consolido distritos con Union... produce enclaves
+- Mapa Nay: fronteras con Jalisco y Durango tienen problemas
+- Sobreposición Google maps
+- Cómo dibujo polígonos --- carreteras, 
+- QGis?
+** TODO Cota *Paris* en su casa <2016-03-28 Mon> 10am
+** DONE Mail a Isabel <2016-03-16 Wed>
+Hola Isabel, tengo un encargo que hacerte. Tengo el mapa de las secciones electorales del país en 2013. Antes (y, seguramente, después) hubo varias instancias de reseccionamiento --- la más común consistió en fragmentar una sección sobrepoblada para crear muchas nuevas, más pequeñas, que cubren el mismo territorio que la sección abandonada. Debemos solicitarle al INE los mapas seccionales digitales que antecedieron a cada reseccionamiento, de modo que tengamos un retrato fidedigno del país en cada "régimen seccional". 
+1. El periodo que nos interesa reconstruir es de julio 2000 a la fecha. Por ahora dejaremos pendiente los cambios anteriores a la redistritación de ese año. Falta ver si hay shapefiles de esos años o si el IFE los adoptó en fecha posterior.
+2. Tendrás que inferir los cambios que sufrió la geografía electoral seccional de cada estado en el tiempo. Para ello, revisa el archivo AMGE_1994-2013.xls que está guardado en [[http://ericmagar.com/datos/redistrict]]. 
+3. La primera pestaña lista los cambios en orden cronológico. Interesa la fecha en que fueron modificadadas las secciones de un estado, ya que marca el final de un régimen e inicio de otro. 
+4. Los cambios responden a 4 clases de eventos, listados en las pestañas subsecuentes: (a) creación de municipios nuevos, (b) modificación de los límites entre dos o más municipios, (c) reseccionamiento y (d) integración seccional. Los más importantes --- y, por fortuna, sencillos de describir --- son los de clases c y d. Los a, y particularmente los b, son muy engorrosos, pero de importancia secundaria. 
+5. Las pestañas subsecuentes detallas los números de las secciones que fueron creadas/abandonadas. 
+6. Por ejemplo, verás  en la pestaña 1 que en noviembre 2002 la sección 1913 de Chihuahua cambió, por reseccionamiento. Pasando a la pestaña correspondiente, verás que la sección 1913 fue dada de baja y en su lugar fueron dadas de alta las secciones 2711 a 2843. Por lo tanto, se infieren un régimen seccional chihuahuense hasta 11/2002 (que incluía la sección 1913) y otro después de 11/2002 (que excluye la 1913 pero incuye las 2711:2843). Infiere todos los regímenes 2000-2013. 
+7. Será necesario preguntar qué ha cambiado en años posteriores a 2013, ya que el documento no los cubre. 
+8. Cuando tengas claro y en papel lo que necesitamos, iremos a ver a Horacio Vives, quien ha ofrecido ponerte en contacto con quien pueda echarte la mano desde el INE.
+Avísame si me he explicado con suficiente claridad.
+
+** Test Pedir envío factura Koi -- revisar cuáles he recibido por mail
+** TODO Cómo se mete una slide en un itemize de presentación LaTeX (digresión que regrese al siguiente item)
+** TODO Cómo se mete un cronómetro/reloj en la presentación LaTeX
+** TODO rc57, rc58, rc59
+** TODO rc62, rc63 (comparten mapa distrital con 60 y 61, hechas)
+** TODO casa de Cuernavaca: proceso de venta -> LLAMAR A YANN y AYDEE: 04455 3191 4178 ó 5608 2839 a.villavalle@yahoo.com.mx
+- mail <2016-02-26 Fri> enviado y *rebotó*: Hola Aidee, escribo porque estuve fuera el año pasado y hace mucho que no sé de ustedes. No sé cuál es el estatus de mi casa de Cuernavaca. ¿Es posible venderla ya? ¿Hay algún comprador en puerta? ¿Se han pagado los prediales? Como ves, no sé nada. Por favor dame información. De antemano, muchas gracias, que tengas un buen día. -e
+** TODO Que Vala arregle pasar por escrituras de la casa
+** TODO Cita Dr Lipkau para preguntarle si sustituye a Washington
+** TODO Cita Dra Ma Cristina Mtz que dejó Hidalgo en su consultorio: conocerla y próstata 5584-2133
+** TODO Urólogo
+** TODO Testamentos, recogerlos y cambiar a Cristina por Val!
+** TODO Verificar seguro de vida ITAM: poner a Vala
+** TODO Terminar draft Brasil MPs
+** TODO Terminar draft Brasil Scheduling
+** TODO Almuerzo con Márquez
+** TODO Almuerzo con Pepe Merino
+** TODO Arreglar envío del carrito de bici
+** TODO Call Wells Fargo to register phone address:  1-800-869-3557
+** TODO Mail a Gary
+** WAIT Preparar proy. Alejandra Ríos
+** TODO Brasil: www.neci.fflch.usp.br
+** TODO Brasil: Andréa Freitas buscar su trabajo de coalición
+** TODO Brasil: Buscar tesis USP Fernanda Maquiavelli sobre MPs antes/desp reforma
+** TODO Uruguay: constructive veto's fit in book
+** TODO México: ALDF's fit in book
+** TODO Chile: mapa distritos antes/hoy, población distrital antes/hoy
+** TODO Chile: enviar datos/código Urgencias a Ges y Valeria
+** DONE Cita Paris Starbucks Altavista <2016-03-10 Thu> 4pm
+** DONE Presentaciones ep3 2015
+*** Ari letreros
+*** Benjamín e Isabel: tiempos con los letreros
+*** Manola y Andrea pizarrón
+*** Botana: *Magar*
+*** 31 presentaciones de 6 minutos, con 1 minuto para transiciones, y un break/intro de hasta 23 minutos caben en 4 horas
+*** DONE Necesito pedir otra hora y media (30 min antes para que suban su material): ju 17 salón 106 de 12:30 a 5pm
+*** TODO Nombrar árbitros
+*** Pueden usar hasta 3 diapositivas, formato?
+*** Deben demostrar su capacidad de síntesis
+*** La presentación debe ponernos en contexto: trama general, situación que van a analizar
+*** Qué pregunta/puzzle buscan contestar/explicar
+*** Intenten una versión gráfica de su argumento
+*** Si la reseña es muy compleja (p.ej. Riker), presenten solo una parte (cuenten que dejan fuera).
+*** ENSAYEN MUCHO SU PRESENTACION
+* ToDo hoy
+** Volver a bajar pautas 2004 y 2003, no tiene segundas páginas (p.ej. 21/10/2004 tiene 17 items, 2 aparecen en pág 2 y no están en datos)
+* Proyectos extra-profesionales
+** Thread pitch counts / pas de vis
+*** Dérauilleur hanger:
+**** La que entra: outer diam=25/64"=9.82mm (inner diam=23/64"=9.12mm) 25 threads per inch --> 25/64" x 25tpi (lo más cercano en tablas es 3/8" x 24tpi)
+**** A la que quiero llegar: outer diam=10mm (inner diam=9.22mm, usa broca 9mm) pas 1mm --> M10 x 1 (en Francia también se llama M10 100)
+*** Shift lever:
+**** La que entra: outer diam=3/16"=4.6mm (inner diam=5/32"=3.9mm) 24 threads per inch --> 3/16" x 24tpi
+**** A la que quiero llegar: outer diam=5mm (inner diam=4.5mm, usa broca 4.2mm) pas 0.8mm --> M5 x 0.8 (en Francia también se llama M5 80)
+*** Para el medidor que compré: "Stahlwille 12665/52 Metric and Whitworth, Thread Gauge. This gauge will check metric threads from .25 to 6mm. And Whitworth threads from 4 to 62 tpi. The G is German for "gewinde" meaning "thread". So a blade marked 32G5/32"  would be a Whitworth  5/32" inch diameter bolt, with 32 Threads per Inch, and 55 degree angle of the threads"
+*** Nomenclatura: "taraud" en inglés es "tap" y en español "macho de roscar" o "machuelo"
+** Rain-water barrel con plásticos reciclados
+*** TODO Buscar modelos/diseño en web
+*** TODO Filtro para la mugre de entrada
+** Armar bici francesa
+*** DONE Comprar Sturmey Archer: Axle dropouts on frame 126mm (30mm extra axle length needed, ie 156mm axis) (el que tengo es AW-3spd overlocknut spacing 114mm y axle length 146mm)
+Before I bid, I need some information on the hub. Can you please measure, in milimiters, the length of the overlocknut distance? A picture of what this means appears here http://sheldonbrown.com/frame-spacing.html . Thank you! 
+*** http://sheldonbrown.com/sturmey-archer_3-spd.html
+*** Lo que he gastado en bici roja
+| part              | paid (US$) | comment   |
+|-------------------+------------+-----------|
+| frame             |        177 | tot $1046 |
+| sturmey archer    |        122 |           |
+| wheels            |         64 |           |
+| front hub         |         30 |           |
+| spokes            |         65 |           |
+| crank/axle        |        112 |           |
+| asiento           |        140 |           |
+| brakes            |        103 |           |
+| brakeCalip taiwan |         86 |           |
+| pie               |         20 |           |
+| wheel tape        |         10 |           |
+| pedals            |         23 |           |
+| pedal cages       |         24 |           |
+| seat post 1       |         35 |           |
+| seat post 2       |         17 |           |
+| saddlebag         |         15 |           |
+| saddlebag Banjo   |         30 |           |
+| thule rack        |         70 |           |
+| thule rack bag    |         70 |           |
+| saddle            |         60 |           |
+| brooks saddle     |         50 | approx    |
+| brooks cover      |         10 |           |
+| cinelli stem      |         21 |           |
+| handlebar tape    |         30 |           |
+| cables/housing    |         50 |           |
+| shift levers      |         30 |           |
+| Bottle cage       |         10 |           |
+| trailer           |        240 |           |
+| front LED         |         17 |           |
+| cinelli handlebar |         80 |           |
+| campi crnk/dér    |        379 |           |
+| chain             |            |           |
+| bike lock         |            |           |
+|-------------------+------------+-----------|
+| TOTAL             |            |           |
+
+*** Cambios para hacerla una bici de ruta
+**** Compras para NYC: llamar a Dave en big shark y hacer el pedido --- que lo mande a NYC el 15 de mayo, yo lo pedí el
+***** WAIT Rear wheel: 700c sunrims, shimano tiagra hub, 36 spokes cross-3; 6-7 speed max 26 (campi dérailleurs/cranks: nuovo record 3rd 1976, front 42-53T, rear can handle max 26T... aim at 13-25 6/7-speed thread-on freewheel, chain width 3/32
+***** On eBay: necesito un casette shimano que tenga 24, p.ej: 12-14---21-24-28
+***** WAIT Chain for that freewheel
+***** WAIT 36+ spokes for 27inch wheel (have pic) with 3-speed sturmey archer hub. According to the calculator I used, for cross-3 pattern: ERD=630, L/R flange diameter= 65mm, width from center to R/L flanges=27mm --> 314mm 
+***** TEST bolt for shift levers                                                 *MEASURE*
+***** TEST bolt for dérailleur                                                   *MEASURE*
+***** TODO Speed/distance computer
+***** TODO Clip pedals road *OR* softer pedals that can handle my cages 
+***** DONE steel crank dust caps 
+      CLOSED: [2016-04-20 Wed 10:40]
+***** TODO Torque wrench
+***** TODO Wall- or bench-mount bike stand
+**** DONE Mail to Robert/Dave
+    CLOSED: [2016-04-20 Wed 11:45]
+Hi Robert/Dave, I hope you remember me, I lived in St Louis last year and ordered a bunch of stuff from Big Shark for a bike renovation. I now wish to change rear wheels in two bikes and want to ask for a special order to be shipped to a friend's place. I need four items. 
+(1) One built rear wheel, 700c, 36 spokes cross-3, ideally sunrims with shimano tiagra hub (so that it matches the front); 
+(2) One thread-on freewheel for item (1), 13-25 6/7 speed. (I will be using a campi nuovo record 3rd 1976 derailleur, and [[http://velobase.com/ViewComponent.aspx?ID=D8DE34D4-C66F-4C8A-AF5B-0EF99D40F702&Enum=108&AbsPos=28][this]] says it can handle a max cog size of 26 teeth, but others suggest max 25).
+(3) A chain to match item (2). 
+(4) Thirty-eight spokes to build a 27-inch wheel with 3-speed sturmey archer hub. According to the calculator I used (http://www.sheldonbrown.com/rinard/spocalc.htm), for cross-3 pattern with 36 spokes, I will need 314mm spokes (ERD=630, L/R flange diameter= 65mm, width from center to R/L flanges=27mm --> 314mm) --- please advise!
+Shipping address: 
+Eric Magar c/o Marco Morales
+425 Prospect Pl, apt 4A
+Brooklyn, NY 11238
+
+**** rear hub
+**** DONE cassette
+     CLOSED: [2016-04-20 Wed 10:41]
+**** spokes
+**** DONE campi dérailleurs/cranks: nuovo record 3rd 1976, front 42-53T, rear can handle max 26T... aim at 13-15-17-19-22-25 6-speed, chain width 3/32
+**** TEST Necesito "vis de fixation du dérailleur" "upper pivot bolt" con cuerda *francesa*... info?
+**** TEST Upper pivot bolt de un diagrama campagnolo lleva el num de parte 3506... "Hanger threads are 10mm x 1mm for pretty much all bikes, except maybe some obscure French bike from the 1960s or something like that. I very much doubt you will have luck mixing brands."
+**** TEST Necesito tornillos para los shift levers con cuerda *francesa*... "friction adjusting wing nut" num de parte 604/1
+*** Cambios para dejar la fuji de uso diario
+**** pintura
+**** rearmar rueda con sturmey archer
+**** WAIT spokes
+**** DROPPED cambiar por ruedas de 700c
+**** DONE comprar nuevos frenos long reach
+*** DONE Armado de ruedas que compré en St Louis
+**** Me vendieron rayos de 290. Para hub trasero, permitieron cross-3 pattern. Para la delantera, permiten cross-2 pattern solamente (bajé hoja excel). Para lograr un cross-3 adelante, necesitaría rayos de 298.
+** Hacer un bike stand casero http://youtu.be/4rgVuzaeaE8
+** Aprender a hacer sidra
+** Construir trailer para bici, replicar el thule
+** Compras bici
+*** NYC
+Bike Works NYC
+106 Ridge St. (Lower East? Mo Essex St (JMZ) or Delancey St (F)
+212-388-1077
+**** 2nd chromed bottle holder, with installation "straps"
+**** WAIT pedals? campi old fashioned look-alike or hard-shoe & clip type?
+**** saddle bag? handlebar bag? something nice, canvas or leather
+**** DONE handlebar tape
+     CLOSED: [2016-05-27 Fri 11:12]
+**** night light for 2nd bike
+**** DONE handlebar for fuji: Stem diam steerer=22mm, diam handleb=25.4mm
+     CLOSED: [2016-05-27 Fri 11:12]
+**** DONE brake levers
+     CLOSED: [2016-05-27 Fri 11:12]
+**** DONE Sturmey Archer 3spd lever
+     CLOSED: [2016-05-27 Fri 11:12]
+*** DONE Measure bottom bracket cup = 35.9mm, buy wrench (Park tool hcw-4)
+*** DONE Wrench for other end of bottom bracket          (Park tool hcw-5)
+*** DONE Spoke tension meter                             (Park tool TM-1)
+*** DONE Brake levers para la bici negra
+*** DONE Difference British, French, Italian threads BB? 
+*** DONE Llave que se me rompió (foto)
+*** DONE Juego de frenos para la bici negra, long reach
+*** DONE Buy grease
+*** DONE Night front light for 2nd bike
+*** DONE Bottle cage
+*** DONE Pedal cages
+*** DONE May order Campagnolo Nuovo Record component set (minus cassette: 6-7 speed, max 26)
+*** DONE Seat tube francés (cuadro), diám interno=26mm aprox. <- compré un poste de 25.8mm
+*** DONE Seat tube que compré en StL diám 26.4mm 
+*** DONE Fork steerer bici francesa diám interno=21.9mm diám externo=
+*** DONE Stem cinelli       diam poste=22mm, diám manub=26.4mm <- compré manubrio cinelli
+*** DONE Stem en bici negra diám poste=22mm, diám manub=25.4mm
+*** DONE Fork: el actual tiene 175mm del extremo sup del anillo hasta fin de threads
+*** DONE Dérailleur
+*** WAIT Cranks japonesa: núm dientes 40 & 52
+*** DONE Shift levers
+**** Compré, al parecer, Campagnolo Record 1013/5
+**** [[http://velobase.com/ViewComponent.aspx?ID=7984896a-93ff-4f44-bb9d-080c4df0aaab][Link en Vélo base]]
+*** DONE Diámetro ejes down shifters = 9mm
+** DONE Diseñar modelo de salpicaderas con botes plásticos de desecho 
+   
+* Libros leídos
+** Leïla Slimani Chanson Douce  <2017-08-26 Sat>
+** Maalouf Les Désorientés <2017-09-26 Tue>
+** Maalouf L'amour de loin <2017-10-17 Tue>
+** John Hale Lords of the sea    <2018-01-06 Sat>
+** Carrère Limonov <2018-02-01 Thu>
+** Maalouf Un fauteuil sur la Seine <2018-07-19 Thu>
+** Verne L'ile mystérieuse <2018-09-09 Sun>
+** Zambra Bonsái <2018-10-06 Sat>
+** Camus Caligula <2018-12-26 Wed>
+* Encuestólogos
+** David Crow para encuesta de Berumen post publicación
+** Le ofrecemos vetar de la lista
+** Hacer alrededor de feb 2018, con primera encuesta con todos los candidatos
+** Posibles
+1. Rosario o David Crow del CIDE
+2. Somuano Colmex
+3. Julia Sierra UNAM
+4. Moreno ITAM
+5. Alex Díaz Tec
+6. Lorena Reforma
+7. Javier Márquez BLA
+8. De la Peña
+9. Cantú
+10. Ulises 
+
+* Arreglos casa
+
+** DONE Francisco vino <2015-09-19 Sat> aprox 2 horas --- le pagué $400
+*** DONE Desarmar y limpiar llaves de dos regaderas
+*** DONE Ir a comprar y cambiar pato de la taza de atrás
+*** DONE Sellar fuga en nuestra taza
+*** DONE Apretó cerradura del saguán
+** Arreglar salitre en muros planta baja con cemento blanco
+** Raspar óxido y pintar herrería
+** Instalar módem con corriente desde lámpara clóset Vala
+** Humedad (?) plafón escalera
+** DONE Instalar luz sobre cafetera
+** WAIT Cablear lámpara de la jardinera del garage
+** Hola Aura, veo con alguna preocupación el monto del presupuesto del Ing. Alvarez
+
+135000 antes
+
+144000 ahora
+ 23000 piso
+167000
+
+
+* Libro @ bird's eye view
+** 1 A+D posmod: pleito para lucirte (no por disfuncionalidad)
+** 2 A   stateveto: corrobora componente electoral del veto en estados eeuu
+** 3 A   Pos-taking Mex/Chile
+**   C   argentina: congreso doblegó a menudo al pdte tachado de imperialista
+**   E+F uruguay: pagas en policy a miembros de coalición
+**   C   brasil: decisión estatuto/decreto---hay tensiones, modelo?
+**   C   chile: abuso de urgencia por indeterminación, ¿señaliza? 
+**   C+E brasil: orden del dia, point?
+**   B+F aldf: cartel falla, facción toma rehén al góber
+**   F   venezuela
+
+|                 | ejec                | leg         |
+|-----------------+---------------------+-------------|
+| frenas al otro  | A veto              | B ignoras   |
+| sobrepones veto | C decreto           | D orr       |
+| evitas veto     | E rentas facultades | F coalición |
+|-----------------+---------------------+-------------|
+
+
+
+* Done stuff
+** DONE Finales primavera 2016
+   CLOSED: [2017-01-17 Tue 15:29]
+*** ep3
+*** DONE To ep3
+   CLOSED: [2016-05-16 Mon 10:23]
+Criterios para evaluar la presentación de la reseña
+1. Pone al auditorio en contexto
+2. Ofrece una crítica justificada de la obra
+3. Hay un argumento
+4. Usa la elección pública para el análisis
+5. Usa algo de EP3 o de EP2
+6. La usa bien, la entendió
+7. Originalidad en la aplicación
+8. La presentación es interesante
+9. Forma de la presentación, ordenada
+Ayudantes
+para contar el tiempo
+*** Ayudan con tiempo: Carolina, Luisa y Raúl: luisafirenzerr@hotmail.com, carlosjp93@hotmail.com, caropl_94@hotmail.com; Fernanda coordina ggogleDrive para subir presentaciones
+*** sip
+** DONE Mail sip <2016-04-14 Thu>
+  CLOSED: [2016-04-15 Fri 01:59]
+Estimados alumnos, tras charlar con Gus, Mariana y Diego, tengo algunas anotaciones e indicaciones que hacerles para sus reportes distritales. 
+1. Si recuerdan el ejemplo del Almanach of American Politics, un resumen del estado antecede los de sus distritos federales. Haremos lo mismo. En paralelo, a sus distritos, preparen elementos para la entrada estatal. En particular, incluyan aquella información que sea relevante para varios distritos que están trabajando. En vez de repetirla en el resumen de cada distrito, redáctenla en la entrada estatal y hagan referencia a ella en el distrito.
+2. En la medida de lo posible, siempre vinculen la información al municipio que le es relevante. Esto permitirá reubicarla fácilemtne cuando se redistrite el país (con excepción, obvio, de los municipios que se dividen en varios distritos). 
+3. Al preparar las historias políticas de sus distritos, el periodo relevante es 2006-2016. Mancionen lo anterior sólo si fuera indispensable para entender lo que ha recientemente. 
+4. Hagan un listado de los municipios que engloba el distrito, total o parcialmente. 
+5. Revisen en prensa local conflictos recientes, darán pistas de grupos de interés contrapuestos. 
+6. Si el distrito tuviera accidentes geográficos importantes (visibles en google earth), descríbanlos: son fuentes potenciales de intereses contrapuestos. Ejemplos: barrancas, sierras, autopistas (barreras que no se cruzan fácil), ríos, zonas con/sin agua...
+7. Incluyan el % de hablantes de lengua indígena de los municipios (criterio para redistritación del INE). 
+8. Del censo, reporten el cociente mujeres/hombres del municipio (indicador de expulsión de migrantes y zonas deprimidas económicamente). 
+9. Posibles datos relevantes: 
+   - gasto federal (ramos 26, 33) en el distrito
+   - tiempo de traslado a la capital del estado
+   - índice de marginación del municipio
+** DONE Mail sip <2016-05-05 Thu>
+   CLOSED: [2016-05-05 Thu 11:46]
+Estimados alumnos, les pido una disculpa por el silencio. Estoy mucho mejor, ya empiezo a salir. Pero hasta el martes no me sentí bien. Preferí no agendar citas hasta ahora.
+
+Queda una semana de clases y, por ende, tendrán que tener listos sus distritos pronto. 
+
+Primero, a los alumnos que más faltaron, les pediré que organicen elementos para intentar presentar sus distritos. 
+Pedro: coordina con todos en el grupo para identificar huecos en sus agendas de exámenes finales que permitan que todos nos reunamos un par de horas para presentar sus distritos al público.
+Sara: ve a cómputo/control de listas a preguntar si (a) tienen libre, 2 horas, algún salón con 10+ computadoras en la semana de finales (reporta con Pedro para buscar intersecciones) y (b) si es posible reservar 11 máquinas en el fondo de la sala de cómputo (enfrente de la B Gómex Morín) por un par de horas para sus presentaciones.
+Rafa (faltaste mucho al final) ya tendrás algún encargo.
+
+Segundo: Prepararán pósters de sus mejores dos distritos para explicar lo que tienen, y otro póster con info de los otros 5 distritos. Apoyarán su presentación con los mapas de google maps. 
+
+Tercero: sugiero que hablemos vía google hangout (a diferencia de skype, permite compartir la imagen del escritorio) para que me informen del avance de sus distritos. En particular, quiero hacerlo con Diana, Pedro, Rafa y Sara --- ¿cómo ven hoy a la hora de clase? Desde gmail el acceso a los hangouts es bastante sencillo.
+
+Estaré hoy en el itam, pero no poco rato. 
+
+Buen día, 
+
+-e
+ 
+** DONE Penn State Brown Medal Democracy
+  CLOSED: [2016-04-15 Fri 01:59]
+March 15, 2016
+Eric Magar, Ph.D.
+Associate Professor, Dept. of Political Science
+Instituto Tecnológico Autónomo de México
+Delegación Álvaro Obregón
+México, D.F.
+
+Dear Dr. Magar,
+Thank you for submitting your nomination of the Public Mapping Project for the Brown
+Democracy Medal. It is my pleasure to inform you that this nomination has advanced to the
+second round, being one of the three strongest letters we received.
+In order to compete in this second round, the review panel will need more information about
+this project. By April 15th, 2016, one month from today, we need the following:
+- Biographical sketch of the Public Mapping Project (max. 2 pages);
+- Two letters of support from persons familiar with the Public Mapping Project, particularly those who work independently from the project;
+- A basic description of the Public Mapping Project and its efficacy, with a maximum
+length of 30 pages of printed materials and/or 30 minutes of audio/video materials.
+Both of these could be something previously produced, such as a report, archival
+documents, etc. We want to see the best evidence available on the impact or
+consequence of the Public Mapping Project. What systemic change has it produced?
+What is its potential for wider diffusion?
+- A one-page description of who would come to Penn State to receive award give the
+lecture in fall 2016. Please also let us know who would draft the essay (20-25 double-
+spaced pages) that describes the innovation to a general audience. (We will cover all
+travel expenses for whoever you would choose to accept the award.)
+
+Once again, we need all this information by the April 15th. We will review the finalists and
+announce the winner of the Brown Democracy Medal in May.
+
+McCourtney Institute for Democracy
+327 Pond Lab
+University Park, PA 16802
+Phone: 814-865-0100
+
+Email: democracyinst@resources.ucs.psu.edu
+Web: democracyinstitute.la.psu.edu
+An Equal Opportunity University
+
+I look forward to hearing from you. If you have any questions, contact me directly at
+cbeem@psu.edu.
+
+Sincerely,
+
+Christopher Beem
+
+Managing Director
+
+McCourtney Institute for Democracy
+
+P.S. For your convenience, here is a reminder of the review criteria we will employ in choosing
+the medal winner: novelty (a genuinely new way of thinking about democracy or practicing it);
+systemic change (able to change systematically how we think about and practice democracy);
+potential for diffusion (the idea or reform should have general applicability across many
+different scales and cultural contexts); democratic quality (the spirit of this innovation must be
+nonpartisan and advance the most essential qualities of democracy, such as broad social
+inclusion, deliberativeness, political equality, and effective self-governance); and recency
+(recognizing recent accomplishments, which have occurred during the previous five years).
+
+** DONE Mail rnr polGeo <2016-09-29 Thu> 
+  CLOSED: [2016-09-30 Fri 17:56]
+Dear co-authors,
+
+First, congrats to Mike, whom I heard on NPR this week --- you're doing a terrific job with the early voting site!
+
+Second, I received a response from Political Geography. While the editor remains friendly and we should be able to publish the paper in this top venue, reviewer R4 opposes publication. 
+
+The editor has asked that we address R4's concerns in a final round of revisions; that we strip the text unnecessary technical jargon; and that we do this rather fast. Below I copy the editor's email and attach R4's report.
+
+I will take care of addressing R4's issue in the next few weeks (our original MS included a justification, I will build upon it). However, a native speaker should take care of revising the final text. 
+
+I therefore ask Mike and Micah to volunteer for the revision, and free some time in 3 or 4 weeks to do the job. A priori, a couple of afternoons should suffice to carefully read and re-write parts of the text that are too technical. 
+
+I hope all is well. Have a nice week-end.
+
+-e
+
+The editor's email follows
+
+Ref.:  Ms. No. PG-2218R1
+Components of Partisan Bias Originating from Single-Member Districts in Multi-Party Systems: An Application to Mexico
+Political Geography
+
+Dear Dr. Eric Magar,
+
+One of the original reviewers has commented on your revised manuscript. Thank you for waiting. Based on this review and my own reading, I am extending an invitation to resubmit another version of your manuscript for final decision. As you will see, R4 is still critical of aspects of your study and questions the applicability of Mexico as an illustrative case for your method. I expect you to consider the issues raised by R4 and more explicitly address the reviewer's concern about possible noise introduced by dynamics of strategic behavior. Secondly, while I agree with R4 that the manuscript is improved and in several ways more coherent, the increasing methodological focus also has made it somewhat less interesting to the average reader of Political Geography. Hence, I encourage you to go through the manuscript with a view to increasing clarity and, where feasible, reduce technical jargon. Also, it would increase the study's general appeal if you could end by reflecting a bit
+on the extent to which the uncovered countervailing forces of the different biases are likely to exist in multi-party systems beyond Mexico.
+
+Because these problems are relatively minor, I anticipate that I will be able to accept the next version of your paper without having to send it out for re-review. In addition, because they are relatively minor, I am hoping that you can submit your revisions within the next few weeks. The resubmission must stay below 11,000 words (inclusive).
+
+To submit your revision, go to http://ees.elsevier.com/jpgq/ and log in as an Author.
+
+Your username is: emagar@itam.mx
+
+If you need to retrieve password details, please go to:
+http://ees.elsevier.com/jpgq/automail_query.asp
+
+You will see a menu item called Submission Needing Revision, and you will find your submission record there.  You will need to provide a brief description of the changes that you made to the submission when you resubmit.
+
+Please let me know if you have any questions or concerns.
+
+Please note that this journal offers a new, free service called AudioSlides: brief, webcast-style presentations that are shown next to published articles on ScienceDirect (see also http://www.elsevier.com/audioslides). If your paper is accepted for publication, you will automatically receive an invitation to create an AudioSlides presentation.
+
+PLEASE NOTE: The journal would like to enrich online articles by visualising and providing geographical details described in Political Geography articles. For this purpose, corresponding KML (GoogleMaps) files can be uploaded in our online submission system. Submitted KML files will be published with your online article on ScienceDirect. Elsevier will generate maps from the KML files and include them in the online article.
+
+Political Geography features the Interactive Map Viewer, http://www.elsevier.com/googlemaps. Interactive Maps visualize geospatial data provided by the author in a GoogleMap. To include one with your article, please submit a .kml or .kmz file and test it online at http://elsevier-apps.sciverse.com/GoogleMaps/verification before uploading it with your submission.
+
+Political Geography features the Interactive Plot Viewer, see: http://www.elsevier.com/interactiveplots. Interactive Plots provide easy access to the data behind plots. To include one with your article, please prepare a .csv file with your plot data and test it online at http://authortools.elsevier.com/interactiveplots/verification before submission as supplementary material.
+
+Yours sincerely
+
+Halvard Buhaug, PhD
+Associate Editor
+Political Geography
+
+
+
+
+
+
+** DONE Mails/to-do pre Chile Nov 2016
+  CLOSED: [2017-01-17 Tue 15:35]
+*** Gordín 
+*** Valeria
+**** Cuál es el hotel?
+**** No quiero abusar, algunos días puedo dormiren el hotel---dónde sugieres que reserve, mismo hotel?
+**** Algo que quiera de México?
+*** Patricio
+*** Reserva hotel?
+*** Maya 
+*** Arián
+**** Que busque si se me escapan durg y dconclu en pauta.r y billHist
+
+* Casagrana acoso <2018-10-08 Mon>
+** Mis dudas
+*** Directoras y profes no bastan
+    - desconfías de que es colega (profe otra carrera?)
+    - Personal administrativo? de intendencia?
+*** Caso donde víctima NO quiere denunciar y viste evidencia
+    - dónde termina la responsabilidad de confidencialidad (tipo sicólogo, confesor, etc.)
+    - lavarse manos
+    - responsablidad de saber q acosador puede seguir haciendo daño (aquí o más allá)
+    - potencial explosivo (caso Kavanaugh, que se diga que itam no hizo nada)
+    - caso pre-protocolo
+*** Caso: el que denuncia es el acosador
+    - cómo procede el profe con protocolo?
+    - cómo lidias cuando sospechas falsa denuncia?
+
+** Cómo llevar entrevista
+1 te voy a escuchar --- cultivar confianza
+  - al borde ataque nervios = pospones
+2 indagas --- reconstruyes los hechos
+  - invitar a superar "deseabilidad social" (quizás por pudor)
+  - estoy para escucharte y ayudarte
+  - pasos 
+    0 empiezas por establecer cómo se va a proceder
+    a expresa sentimientos y pensamientos
+    b describe hechos conretos, fecha, lugar, testigos (burla?), quién sabe?, qué tan atrás en tiempo?
+    c pedir en forma concreta lo que queremos
+    d especificar consecuencias
+  - ninguna suposición, volver a preguntar
+3 cierras --- cóme se llegó hasta aquí, qué implicaciones tiene, qué alternativas de solución
+** Sólo hay que tranquilizar y escuchar, no juzgar: reconstruir los hechos	
+
+4 Protocolo
+1 Direc escolar
+ biblio
+admiva y finan
+
+

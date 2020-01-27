@@ -1,0 +1,1689 @@
+#+SEQ_TODO: TODO WAIT TEST URGENT! | DONE DROPPED
+
+
+* org-agenda bindings
+** C-c [     add current file to list of agenda files
+** C-c ]     drop current file to list of agenda files
+** C-c a a   compile an agenda from files
+** http://orgmode.org/manual/Agenda-commands.html
+** f [With agenda compiled]      one unit fwd
+** b [With agenda compiled]      one unit backward
+** . [With agenda compiled]      go to today
+** j [With agenda compiled]      prompt for day to go to
+
+* Amex dorada
+** servicios domiciliados
+- [X] netflix
+- [X] axtel
+- [X] paypal nyt - dropped gold <- check again
+- [X] telcel
+- [X] economist, apple
+- [X] adt 01 800 2025 238
+- [X] save the children 01800 87 27692 | atencion.donantes@savethechildren.org
+** servicios que se cobran
+- [X] cabify (estaba con paypal:eric.magar@gmail.com)
+- [X] uber
+- [ ] farmacia
+- [ ] apsa (no automático)
+- [ ] mpsa (no automático)
+- [ ] grin
+- [ ] bicis verdes
+- [ ] bicis naranja
+* Eventos mis 50
+** Peregrinación a Chalma
+** Viaje a Ensenada
+** Viaje al Peyote
+
+* Cap Moreno
+- Opción 1: fin de la partidocracia y la incógnita del formato para el nuevo árbitro
+- Opción 2: 
+* Paper PyG 2018
+- Incumbency advantage en elecciones municipales
+- Usar la medida de voto normal vía residuales como expectativa
+- Controles clásicos, patrones de alternancia, core/swing, dIncumbentRunning
+* MPSA
+Title: Electoral rules and the geography of policy
+Authors: Adrián Lucardi and Eric Magar
+Abstract: We investigate the geographic policy implications of electoral systems. Specifically, splitting a multi-member district into multiple single-member districts will spread the geographic locus of representation, and therefore create incentives to reallocate some policy from the densely populated center towards the periphery. We rely on a diff-in-diff matching design to gauge the effects of such reform with data on public good provision in Mexican municipalities in recent decades. Preliminary evidence appears to back our central claims. 
+
+* Pendientes recurrentes
+** Clases del semestre
+# *** ElecPúb3 <2018-01-16 Tue 10:00-11:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
+# *** PolComp3 <2018-01-16 Tue 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
+# *** ElecPúb3 <2018-01-18 Thu 10:00-11:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
+# *** PolComp3 <2018-01-18 Thu 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
+** Cumples
+*** *Aniversario* boda <2007-06-09 Sat +10y +11y +12y +13y +14y +15y +16y +17y +18y +19y +20y +21y>
+     :PROPERTIES:
+     :LAST_REPEAT: [2017-06-12 Mon 11:20]
+     :END:
+
+*** Cumple *Adriana* <2018-01-27 Sat +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
+*** Cumple *Aurelia* <2011-07-05 Tue +7y +8y +9y +10y +11y +12y +13y +14y +15y +16y>
+*** Cumple *Iza* <1949-02-28 Mon +69y +70y +71y +72y +73y +74y +75y +76y +77y +78y +79y +80y>
+*** Cumple *Juanito* <2017-04-14 Fri +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
+*** Cumple *León Martín* <2014-01-17 Fri +4y +5y +6y +7y +8y +9y +10y +11y +12y +13y>
+*** Cumple *Pili* <2017-04-13 Thu +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
+*** Cumple *Vala* <1975-08-30 Sat +42y +43y +44y +45y +46y +47y +48y +49y +50y +51y>
+*** Cumple *Yvonne* <2017-04-26 Wed +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
+     :PROPERTIES:
+     :LAST_REPEAT: [2018-01-24 Wed 13:13]
+     :END:
+     - State "DROPPED"    from ""           [2018-01-24 Wed 13:13]
+     - State "DONE"       GENT!"    [2018-01-19 Fri 08:09]
+     - State "DONE"       from "URGENT!"    [2018-01-19 Fri 08:09]
+     - State "DONE"       from "URGENT!"    [2018-01-19 Fri 08:09]
+     - State "DONE"       from "URGENT!"    [2018-01-19 Fri 08:09]
+*** Cumple *Ges* <1973-05-28 Mon + 45y + 46y +47y +48y +49y +50y +51y +52y +53y +54y +55y +56y>
+** Recordatorios
+*** Backup físico <2019-12-02 Mon +1m +2m +3m +4m +5m +6m +7m +7m +8m +9m +10m +11m +12m +13m>
+* Pendientes caducos
+** DONE Examen Lorea Urrutxua SA-1 <2019-08-23 Fri 12:00>
+** Comida depto <2020-01-28 Tue 14:30>
+** DONE De Erice <2020-01-20 Mon 15:00>
+- Intro: elabora muy brevemente por qué esperas lo que dicen tus tres hipótesis 
+- Intro: deberás incluir una hipótesis sobre algún efecto político del delta gasto y su lógica
+- Cuadro 1: usa también datos censo 2010 para contrastar (a) contra encuesta y (b) hogares urbanos vs rurales en estos indicadores
+- Gráfica 1: incluye el ingreso total promedio para poder sacar porcentajes que representa cada forma de ingreso
+- Gráfica 2: confusa. Preferible un grupo de gráficos que muestren la variación (densidad) de ingresos PROGAN, PROCAMPO, PROSPERA, etc y la variación del total de ingresos gubernamentales de los hogares. 
+- Cuadro 4: compleméntalo con un ejemplo aplicado de la literatura, donde incluyas valores concretos de una MCS que te permitan discutir cómo se ha interpretado y por qué es una herramienta útil para el análisis. Un ejemplo sencillo del Reino Unido (o lo que presente la literatura) permitirá que los no expertos entendamos lo que busca y lo que encuentra este método de análisis. También permitirá entender mejor lo que obtienes en el cuadro 9.   
+- p. 42 dices que el anexo 1 presenta las preguntas de la encuesta que usaste para construir la MCS. El anexo lista todas las preguntas de la encuesta, de donde obtuviste los reactivos para la estimación. 
+- La distinción endógena vs exógena es confusa. Busca términos más claros para distinguir las categorías. Lo que llamas "instituciones endógenas" parecen más bien características estructurales de los hogares (propietarios de tierra, agricultores); las "instituciones exógnas" son más bien programas sociales.
+- Cuadro 11: por qué los hogares agrícolas propietarios reciben un porcentaje 5 veces mayor de ingreso relativo por programas sociales que los demás? La explicación del peso de las remuneraciones parece parcial (los otros rubros de ingreso deberíans usarlos en el denominador, ¿o no?)
+- Cuadro 12: Las celdas vacías no representan 0 por ciento sino un valor omitido/censurado. ¿Cómo deberías ajustar los dem'as porcentajes para evitar sesgos?
+- Nuevo cap. que extraiga conclusiones a partir de los tres experimentos contrafactuales que llevaste a cabo. La idea es proyectar tus hallazgos a la cancelación programas sociales que AMLO ha puesto en marcha, y su efecto en hogares rurales. Faltaría discitir como se podría  controlar el efecto de sus nuevos programas. 
+- Lee Díaz Cayeros, Estévez, Magaloni (axexo) en busca de la lógica política del gasto social. Esto te permitirá proponer algunas implicaciones políticas del tema que puedas analizar en otro capítulo nuevo. Cuando tengas esto, pasa a verme para que me explique aspectos que no he entendido y que me propongas tus nuevos capítulos. Mucha suerte. 
+** Tesis Fernanda García <2019-11-28 Thu 17:00> 
+** DONE Cita sueño Marifer <2019-12-11 Wed 8:10>
+** DROPPED Cita Arturo itam <2019-11-25 Mon 19:00>
+** URGENT! Juntar documentos bourse francesa <2020-01-24 Fri>
+** URGENT! Juntar documentos CFE/ASFE <2020-01-24 Fri>
+** DONE Yoga <2020-01-21 Tue 8:30>
+** Clase meditación <2020-01-21 Tue 17:00> <2020-01-28 Tue 17:00> <2020-02-04 Tue 17:00> <2020-02-11 Tue 17:00> <2020-02-18 Tue 17:00> <2020-02-25 Tue 17:00>
+** DONE Cita Daniel <2020-01-23 Thu 13:00>
+** Cita Arturo <2020-01-27 Mon 19:00>
+** Releer Why we sleep <2020-01-21 Tue 11:00>
+** WAIT check vuelos vail <2020-01-24 Fri 11:00>
+** Vuelo mx-denver AM658 <2020-02-21 Fri 9:20>
+** Vuelo denver-mx AM659 <2020-02-29 Sat 13:55>
+** Seminario CiPol <2020-01-23 Thu> <2020-02-06 Thu>  <2020-02-27 Thu> <2020-03-12 Thu>  <2020-03-19 Thu>  <2020-04-23 Thu> 
+** DONE Examen Oscar A <2019-12-12 Thu 10:00>
+** DROPPED Cita Dr Salomón García <2020-01-14 Tue 18:30>
+   CLOSED: [2020-01-15 Wed 09:54]
+** DONE Cita Dr López López Dalinde 701 <2019-12-03 Tue 17:30>
+** Fiesta M <2020-01-18 Sat 12:00>
+** Goûter collectif M <2020-02-12 Wed>
+** Preguntar sabático itam <2020-01-15 Wed 12:00>
+** DONE Examen Daniel <2019-07-01 Mon 13:00>
+** DONE Examen Patricia B-3 <2019-06-13 Thu 11:00>
+** DONE mail CFE benoit@expat-assurance.com <2019-03-06 Wed>
+Monsieur, 
+Je voudrais des renseignements pour inscrire maman et, possiblement, son mari à la CFE. 
+Maman vient d'avoir 70 ans. Le nouveau tarif de leur assureur-santé au Mexique est devenu bien trop cher. 
+Maman est citoyenne Française, son mari citoyen Allemand. Tous deux vivent au Mexique depuis bien longtemps et n'ont jamais cotisé en France. 
+Pourriez-vous me donner une idée des plans disponibles, de leurs prix, et de démarches à suivre ? 
+Sincères remerciements,
+** Seguro AXA <2020-01-16 Thu>
+** Replication files polgeo
+** Organización electoral: - pedir shapefile de casillas 2015 o 2018 <2019-03-04 Mon>
+** Estadísticas para los mapas distritales y municipales <2018-01-24 Wed>
+- Población 2010
+- DSI
+- Ganó última elección
+- Representante
+- nGanó pan pri prd morena (dipFed)
+** En emacs, estudiar C-h i d m reftex <2020-01-14 Tue>
+** Taller acoso <2020-01-15 Wed 13:15>
+** Bajada rápida <2020-01-29 Wed 7:30>
+** Bajada rápida <2020-02-06 Thu 07:30>
+** DONE Cita urólogo Fdo Ugarte (55 5564 7837 metropolitano) Tuxpan 10-104 <2020-01-23 Thu 17:00> 
+** Hacer Prueba de antígeno prostático <2020-07-06 Mon>
+** Hacer Prueba de antígeno prostático y ultrasonido de próstata <2021-01-13 Wed>
+** axtel 01 800 515 1414
+** Para letrero Sn Agustinillo <2018-02-24 Sat>
+PELIGRO / DANGER
+*No* nade entre las dos banderas rojas
+Hay fuerte resaca, especialmente con marea baja
+Cuide a sus hijos, la corriente alcanza 2 metros por segundo
+
+Ne *pas* se baigner entre les deux drapeaux rouges
+Fort courant d´arrachement, surtout par marée basse 
+ 
+Do *not* swim between red flags
+Strong return flow zone, especially with low tide
+
+Los salvavidas son voluntarios, por favor contribuya para su equipamento:
+Les sauveteurs sont volontaires, contribuez SVP pour leur equipement: 
+Lifesavers are volunteers, please contribute for their equipment:
+
+SanAgusOax@gmail.com
+*** Cuenta de Mail
+SanAgusOax@gmail.com
+pwd salva911
+
+Plastimundo
+Patriotismo 178
+5271 9233
+     9747
+
+
+Acrílico 1.8mts x 1.2mts x 3mm   = $978 trans o bco (5 años de duración)
+Acrílico 1.8 x 1.2 x 3mm colores = $1,889
+Vinílica brillante $62 el metro (61cms de ancho)
+
+Impresores 
+Calle 10/patriotismo
+55 30527323 con Karina
+
+Plastimadera
+5574 6199
+5584 5294
+
+Pedí tablas de 3" x 1/2" x 1m
+
+* web emagar.github.io
+** sidebar with archives
+** DONE subtitle as first line in post
+** DONE author in posts list, after/under post title
+** use emagar.com
+** comments box after post
+* Notes on proyBr.r code <2016-10-03 Mon>
+** line where f+l2 data loaded is 1234
+
+
+(setq org-agenda-span 15)
+
+* Carta para los padres de Sn Agus
+** DONE Examen Julia <2019-03-22 Fri 13:00>
+Hola, 
+Cuando te vi entrar una mañana a la pâtisserie me congelé. No consigo recordar tu nombre, menos el de tu marido. Pero no olvidaré aquella tarde en San Agustinillo. Te he vuelto a ver y me incomoda no saber como narrarte lo que pasó. Prefiero escribirlo. 
+
+
+
+Veo que también eres 
+
+* vocho 1991
+** Gastos
+- $40,000 coche             
+- $11,000 taller            
+-    $550 gato              
+-    $750 tapones           
+-    $550 llave de cruz
+-    $500 birlos seguridad
+-    $500 bastón
+-  $1,150 refacciones Mario
+-  $2,700 eléctrico + suspensión
+-    $650 falso contacto arranque
+-  $1,000 refacciones Mario
+-  $2,500 hojalatería salpicadera
+-  $2,500 protección chasis para playa
+-  $2,200 caja dirección y faro
+-    $110 chisguetero
+-  $1,050 volante
+-    $230 manguera gas gorda, grapas
+- $12,000 puente suspensión
+-    $150 encendedor
+-  $1,100 herramientas
+-  $2,500 arreglo turbina
+- --------
+- $83,590 total
+* Projects
+** TODO postate                                                   :edit:eric:
+- [ ] Finish conclusion
+- [ ] Finish appendix
+- [ ] Print pdf with text and appendices separate
+- [ ] Note for editors
+Dear Editors of the Quarterly Journal od Political Science: Attached please find a manuscript on veto and veto override incidence.
+The paper builds upon and extends the work of Romer and Rosenthal, Kiewiet and McCubbins, Cameron, Groseclose and McCarty, and many others.
+It is an example of Empirical Implications of Theoretical Models.
+- [ ] [[http://nowpublishers.com/journals/Quarterly%20Journal%20of%20Political%20Science/author-instructions][Check instructions]]
+- [ ] Send to QJPS Administrator admin@qjps.com
+** TODO overrides and supermajorities
+** DROPPED entry for mpsa -- read Cox                             :read:eric:
+   CLOSED: [2017-01-20 Fri 11:22] DEADLINE: <2013-10-04 Fri>
+** TODO Book proposal to Stanford UP
+*** [[http://www.press.umich.edu/authors][web site]]
+*** Editora: Melodie Herr mrherr@umich.edu 734-763-6419
+*** New chapter possibilities:
+- Presidential involvement in Congress' agenda in Chile (urgencias, Navia)
+- Decrees in Argentina vs Executive orders in US
+- Executive coalition in Uruguay (with Juan Andrés Moraes) and
+  pre-Chávez Venezuela (with Octavio Amorim Neto).
+- Overrides with Q=1/2 in Brazil, (Lucio Renno)
+- Read Cheibub
+- Unidad Popular deadlock
+- Position taking in Mexico's Congress (proposiciones)
+
+** DROPPED Common space in LatAm (Jesse)
+- [ ] Hablar con Armando sobre uso/costo Facebook
+- [ ] Hablar con Gerson y con Ch: busco RAs
+re: posiciones ciudadanas en votaciones legislativas
+Hola Gerson, espero que este mail te encuentre bien. Quiero ver si te interesaría colaborar en un proyecto que arrancaré pronto con colegas. 
+
+El objetivo es mapear a legisladores y ciudadanos en el mismo espacio ideológico. Para ello, seleccionaremos una muestra de iniciativas 
+que hayan sido votadas recientemente en las cámaras y le pediremos a una muestra de entrevistados, por internet, cómo habrían votado si 
+hubiesen tenido oportunidad. El cuestionario les presentará, en términos claros y sencillos, las implicaciones de aprobar la ley, cuál 
+es el status quo, y les preguntará si votarían a favor o en contra. 
+
+Quiero ver la posibilidad de que nos ayudes con la selección de casos y la sustancia de la legislación. Tenemos un pequeño presupuesto
+
+Quisiera 
+
+** DONE Redistricting
+   CLOSED: [2017-01-20 Fri 11:22]
+** Rules in LatAm
+** Veto in Brazil
+** TODO IFEdyn
+** TODO IFE monograph?
+   
+** TODO Facebook survey
+   
+* Contact with academic presses
+** pegar aquí las respuestas recibidas por mail
+
+* Invitables CiPol
+** Pablo Beramendi, Duke **
+** Leslie Schwindt-Bayer, Rice **
+** Royce Carroll, Rice **
+** Taeko Hiroi, UT-El Paso *
+** Mark Jones
+** Jon Rogowski
+** Margit Tavits
+** Brian Crisp
+** Dawn Brancati
+** Andrew Reeves
+** Maggie Penn and John Patty
+** Sergio Wals
+** Cantú *
+** Dan Brinks UT-Austin *
+** Eduardo Alemán
+** Ernesto Calvo
+** José Antonio Cheibub
+** Gisela Sin
+** Pablo Pinto
+** Michelle Taylor-Robinson
+** Amanda Driscoll Florida State *
+** Lydia Tiede UH *
+** Dan Butler, Wash U
+** Drew Linzer, Emory
+      
+** Sunita Parikh (no invité)
+** Schofield (no invité)
+** Becky Morton (no he invitado)
+** Stanley Winer (Carleton University)
+* Invitables a conferencia Redistritación/constituency-level election analysis 04/24/2016??? Escribir a Silvia Millán (2-day)
+** co-organize with Micah? Memo?
+** Aparicio
+** Márquez
+** Memo
+** Joy
+** Micozzi
+** Weldon
+** Gomberg
+** Cantú
+** Calvo
+** Sandra Ley
+** Cheibub
+** Alemán
+** Grofman
+** Stanley Winer
+** Mike McDonald
+** Trelles (
+** Cox
+** Morgenstern
+** Pachón
+** Magar (Chilean redistricting)
+** Ges
+** Valeria
+** Beramendi
+** Ana de la O
+** Michigan constituency-level crowd
+** CSES crowd
+** Aldrich
+** Engstrom
+* ToDo general
+** TODO Cómo se mete una slide en un itemize de presentación LaTeX (digresión que regrese al siguiente item)
+** TODO Cómo se mete un cronómetro/reloj en la presentación LaTeX
+** TODO rc57, rc58, rc59
+** TODO rc62, rc63 (comparten mapa distrital con 60 y 61, hechas)
+** TODO Que Vala arregle pasar por escrituras de la casa
+** TODO Cita Dr Lipkau para preguntarle si sustituye a Washington
+** TODO Cita Dra Ma Cristina Mtz que dejó Hidalgo en su consultorio: conocerla y próstata 5584-2133
+** TODO Urólogo
+** TODO Testamentos, recogerlos y cambiar a Cristina por Val!
+** TODO Terminar draft Brasil MPs
+** TODO Terminar draft Brasil Scheduling
+** TODO Call Wells Fargo to register phone address:  1-800-869-3557
+** TODO Mail a Gary
+** TODO Brasil: www.neci.fflch.usp.br
+** TODO Brasil: Andréa Freitas buscar su trabajo de coalición
+** TODO Brasil: Buscar tesis USP Fernanda Maquiavelli sobre MPs antes/desp reforma
+** TODO Uruguay: constructive veto's fit in book
+** TODO México: ALDF's fit in book
+** TODO Chile: mapa distritos antes/hoy, población distrital antes/hoy
+** TODO Chile: enviar datos/código Urgencias a Ges y Valeria
+** DONE Cita Paris Starbucks Altavista <2016-03-10 Thu> 4pm
+* Proyectos extra-profesionales
+** Thread pitch counts / pas de vis
+*** Dérauilleur hanger:
+**** La que entra: outer diam=25/64"=9.82mm (inner diam=23/64"=9.12mm) 25 threads per inch --> 25/64" x 25tpi (lo más cercano en tablas es 3/8" x 24tpi)
+**** A la que quiero llegar: outer diam=10mm (inner diam=9.22mm, usa broca 9mm) pas 1mm --> M10 x 1 (en Francia también se llama M10 100)
+*** Shift lever:
+**** La que entra: outer diam=3/16"=4.6mm (inner diam=5/32"=3.9mm) 24 threads per inch --> 3/16" x 24tpi
+**** A la que quiero llegar: outer diam=5mm (inner diam=4.5mm, usa broca 4.2mm) pas 0.8mm --> M5 x 0.8 (en Francia también se llama M5 80)
+*** Para el medidor que compré: "Stahlwille 12665/52 Metric and Whitworth, Thread Gauge. This gauge will check metric threads from .25 to 6mm. And Whitworth threads from 4 to 62 tpi. The G is German for "gewinde" meaning "thread". So a blade marked 32G5/32"  would be a Whitworth  5/32" inch diameter bolt, with 32 Threads per Inch, and 55 degree angle of the threads"
+*** Nomenclatura: "taraud" en inglés es "tap" y en español "macho de roscar" o "machuelo"
+** Rain-water barrel con plásticos reciclados
+*** TODO Buscar modelos/diseño en web
+*** TODO Filtro para la mugre de entrada
+** Armar bici francesa
+*** DONE Comprar Sturmey Archer: Axle dropouts on frame 126mm (30mm extra axle length needed, ie 156mm axis) (el que tengo es AW-3spd overlocknut spacing 114mm y axle length 146mm)
+Before I bid, I need some information on the hub. Can you please measure, in milimiters, the length of the overlocknut distance? A picture of what this means appears here http://sheldonbrown.com/frame-spacing.html . Thank you! 
+*** http://sheldonbrown.com/sturmey-archer_3-spd.html
+*** Lo que he gastado en bici roja
+| part              | paid (US$) | comment   |
+|-------------------+------------+-----------|
+| frame             |        177 | tot $1046 |
+| sturmey archer    |        122 |           |
+| wheels            |         64 |           |
+| front hub         |         30 |           |
+| spokes            |         65 |           |
+| crank/axle        |        112 |           |
+| asiento           |        140 |           |
+| brakes            |        103 |           |
+| brakeCalip taiwan |         86 |           |
+| pie               |         20 |           |
+| wheel tape        |         10 |           |
+| pedals            |         23 |           |
+| pedal cages       |         24 |           |
+| seat post 1       |         35 |           |
+| seat post 2       |         17 |           |
+| saddlebag         |         15 |           |
+| saddlebag Banjo   |         30 |           |
+| thule rack        |         70 |           |
+| thule rack bag    |         70 |           |
+| saddle            |         60 |           |
+| brooks saddle     |         50 | approx    |
+| brooks cover      |         10 |           |
+| cinelli stem      |         21 |           |
+| handlebar tape    |         30 |           |
+| cables/housing    |         50 |           |
+| shift levers      |         30 |           |
+| Bottle cage       |         10 |           |
+| trailer           |        240 |           |
+| front LED         |         17 |           |
+| cinelli handlebar |         80 |           |
+| campi crnk/dér    |        379 |           |
+| chain             |            |           |
+| bike lock         |            |           |
+|-------------------+------------+-----------|
+| TOTAL             |            |           |
+
+*** Cambios para hacerla una bici de ruta
+**** Compras para NYC: llamar a Dave en big shark y hacer el pedido --- que lo mande a NYC el 15 de mayo, yo lo pedí el
+***** WAIT Rear wheel: 700c sunrims, shimano tiagra hub, 36 spokes cross-3; 6-7 speed max 26 (campi dérailleurs/cranks: nuovo record 3rd 1976, front 42-53T, rear can handle max 26T... aim at 13-25 6/7-speed thread-on freewheel, chain width 3/32
+***** On eBay: necesito un casette shimano que tenga 24, p.ej: 12-14---21-24-28
+***** WAIT Chain for that freewheel
+***** WAIT 36+ spokes for 27inch wheel (have pic) with 3-speed sturmey archer hub. According to the calculator I used, for cross-3 pattern: ERD=630, L/R flange diameter= 65mm, width from center to R/L flanges=27mm --> 314mm 
+***** TEST bolt for shift levers                                                 *MEASURE*
+***** TEST bolt for dérailleur                                                   *MEASURE*
+***** TODO Speed/distance computer
+***** TODO Clip pedals road *OR* softer pedals that can handle my cages 
+***** DONE steel crank dust caps 
+      CLOSED: [2016-04-20 Wed 10:40]
+***** TODO Torque wrench
+***** TODO Wall- or bench-mount bike stand
+**** DONE Mail to Robert/Dave
+    CLOSED: [2016-04-20 Wed 11:45]
+Hi Robert/Dave, I hope you remember me, I lived in St Louis last year and ordered a bunch of stuff from Big Shark for a bike renovation. I now wish to change rear wheels in two bikes and want to ask for a special order to be shipped to a friend's place. I need four items. 
+(1) One built rear wheel, 700c, 36 spokes cross-3, ideally sunrims with shimano tiagra hub (so that it matches the front); 
+(2) One thread-on freewheel for item (1), 13-25 6/7 speed. (I will be using a campi nuovo record 3rd 1976 derailleur, and [[http://velobase.com/ViewComponent.aspx?ID=D8DE34D4-C66F-4C8A-AF5B-0EF99D40F702&Enum=108&AbsPos=28][this]] says it can handle a max cog size of 26 teeth, but others suggest max 25).
+(3) A chain to match item (2). 
+(4) Thirty-eight spokes to build a 27-inch wheel with 3-speed sturmey archer hub. According to the calculator I used (http://www.sheldonbrown.com/rinard/spocalc.htm), for cross-3 pattern with 36 spokes, I will need 314mm spokes (ERD=630, L/R flange diameter= 65mm, width from center to R/L flanges=27mm --> 314mm) --- please advise!
+Shipping address: 
+Eric Magar c/o Marco Morales
+425 Prospect Pl, apt 4A
+Brooklyn, NY 11238
+
+**** rear hub
+**** DONE cassette
+     CLOSED: [2016-04-20 Wed 10:41]
+**** spokes
+**** DONE campi dérailleurs/cranks: nuovo record 3rd 1976, front 42-53T, rear can handle max 26T... aim at 13-15-17-19-22-25 6-speed, chain width 3/32
+**** TEST Necesito "vis de fixation du dérailleur" "upper pivot bolt" con cuerda *francesa*... info?
+**** TEST Upper pivot bolt de un diagrama campagnolo lleva el num de parte 3506... "Hanger threads are 10mm x 1mm for pretty much all bikes, except maybe some obscure French bike from the 1960s or something like that. I very much doubt you will have luck mixing brands."
+**** TEST Necesito tornillos para los shift levers con cuerda *francesa*... "friction adjusting wing nut" num de parte 604/1
+*** Cambios para dejar la fuji de uso diario
+**** pintura
+**** rearmar rueda con sturmey archer
+**** WAIT spokes
+**** DROPPED cambiar por ruedas de 700c
+**** DONE comprar nuevos frenos long reach
+*** DONE Armado de ruedas que compré en St Louis
+**** Me vendieron rayos de 290. Para hub trasero, permitieron cross-3 pattern. Para la delantera, permiten cross-2 pattern solamente (bajé hoja excel). Para lograr un cross-3 adelante, necesitaría rayos de 298.
+** Hacer un bike stand casero http://youtu.be/4rgVuzaeaE8
+** Aprender a hacer sidra
+** Construir trailer para bici, replicar el thule
+** Compras bici
+*** NYC
+Bike Works NYC
+106 Ridge St. (Lower East? Mo Essex St (JMZ) or Delancey St (F)
+212-388-1077
+**** 2nd chromed bottle holder, with installation "straps"
+**** WAIT pedals? campi old fashioned look-alike or hard-shoe & clip type?
+**** saddle bag? handlebar bag? something nice, canvas or leather
+**** DONE handlebar tape
+     CLOSED: [2016-05-27 Fri 11:12]
+**** night light for 2nd bike
+**** DONE handlebar for fuji: Stem diam steerer=22mm, diam handleb=25.4mm
+     CLOSED: [2016-05-27 Fri 11:12]
+**** DONE brake levers
+     CLOSED: [2016-05-27 Fri 11:12]
+**** DONE Sturmey Archer 3spd lever
+     CLOSED: [2016-05-27 Fri 11:12]
+*** DONE Measure bottom bracket cup = 35.9mm, buy wrench (Park tool hcw-4)
+*** DONE Wrench for other end of bottom bracket          (Park tool hcw-5)
+*** DONE Spoke tension meter                             (Park tool TM-1)
+*** DONE Brake levers para la bici negra
+*** DONE Difference British, French, Italian threads BB? 
+*** DONE Llave que se me rompió (foto)
+*** DONE Juego de frenos para la bici negra, long reach
+*** DONE Buy grease
+*** DONE Night front light for 2nd bike
+*** DONE Bottle cage
+*** DONE Pedal cages
+*** DONE May order Campagnolo Nuovo Record component set (minus cassette: 6-7 speed, max 26)
+*** DONE Seat tube francés (cuadro), diám interno=26mm aprox. <- compré un poste de 25.8mm
+*** DONE Seat tube que compré en StL diám 26.4mm 
+*** DONE Fork steerer bici francesa diám interno=21.9mm diám externo=
+*** DONE Stem cinelli       diam poste=22mm, diám manub=26.4mm <- compré manubrio cinelli
+*** DONE Stem en bici negra diám poste=22mm, diám manub=25.4mm
+*** DONE Fork: el actual tiene 175mm del extremo sup del anillo hasta fin de threads
+*** DONE Dérailleur
+*** WAIT Cranks japonesa: núm dientes 40 & 52
+*** DONE Shift levers
+**** Compré, al parecer, Campagnolo Record 1013/5
+**** [[http://velobase.com/ViewComponent.aspx?ID=7984896a-93ff-4f44-bb9d-080c4df0aaab][Link en Vélo base]]
+*** DONE Diámetro ejes down shifters = 9mm
+** DONE Diseñar modelo de salpicaderas con botes plásticos de desecho 
+   
+* Libros leídos
+** Leïla Slimani Chanson Douce  <2017-08-26 Sat>
+** Maalouf Les Désorientés <2017-09-26 Tue>
+** Maalouf L'amour de loin <2017-10-17 Tue>
+** John Hale Lords of the sea  <2018-01-06 Sat>
+** Carrère Limonov <2018-02-01 Thu>
+** Maalouf Un fauteuil sur la Seine <2018-07-19 Thu>
+** Verne L'île mystérieuse <2018-09-09 Sun>
+** Zambra Bonsái <2018-10-06 Sat>
+** Camus Caligula <2018-12-26 Wed>
+** Verne Les indes noires <2019-05-18 Sat>
+** Walker Why we sleep <2019-06-25 Tue>
+** Carrère Un roman russe <2019-07-29 Mon>
+** Carrère La classe de neige <2019-08-02 Fri>
+** Bolaño Putas asesinas <2019-09-01 Sun>
+** Prévert Paroles <2019-11-21 Thu>
+** Carter The Bloody Chamber <2020-01-03 Fri>
+** Molière La jalousie du Barbouillé <2020-01-03 Fri>
+** Molière Le médecin volant <2020-01-04 Sat>
+** Melville Bartleby <2020-01-06 Mon>
+** Pagnol Le Schpountz <2020-01-08 Wed>
+** Carrère L'Adversaire <2020-01-11 Sat>
+** Pagnol Jean de Florette <2020-01-15 Wed>
+** Pagnol Manon des Sources <2020-01-19 Sun>
+* Encuestólogos
+** David Crow para encuesta de Berumen post publicación
+** Le ofrecemos vetar de la lista
+** Hacer alrededor de feb 2018, con primera encuesta con todos los candidatos
+** Posibles
+1. Rosario o David Crow del CIDE
+2. Somuano Colmex
+3. Julia Sierra UNAM
+4. Moreno ITAM
+5. Alex Díaz Tec
+6. Lorena Reforma
+7. Javier Márquez BLA
+8. De la Peña
+9. Cantú
+10. Ulises 
+
+* Arreglos casa
+** DONE Francisco vino <2015-09-19 Sat> aprox 2 horas --- le pagué $400
+*** DONE Desarmar y limpiar llaves de dos regaderas
+*** DONE Ir a comprar y cambiar pato de la taza de atrás
+*** DONE Sellar fuga en nuestra taza
+*** DONE Apretó cerradura del saguán
+** Arreglar salitre en muros planta baja con cemento blanco
+** Raspar óxido y pintar herrería
+** Instalar módem con corriente desde lámpara clóset Vala
+** Humedad (?) plafón escalera
+** DONE Instalar luz sobre cafetera
+** WAIT Cablear lámpara de la jardinera del garage
+** Hola Aura, veo con alguna preocupación el monto del presupuesto del Ing. Alvarez
+
+135000 antes
+
+144000 ahora
+ 23000 piso
+167000
+
+* Libro @ bird's eye view
+** 1 A+D posmod: pleito para lucirte (no por disfuncionalidad)
+** 2 A   stateveto: corrobora componente electoral del veto en estados eeuu
+** 3 A   Pos-taking Mex/Chile
+**   C   argentina: congreso doblegó a menudo al pdte tachado de imperialista
+**   E+F uruguay: pagas en policy a miembros de coalición
+**   C   brasil: decisión estatuto/decreto---hay tensiones, modelo?
+**   C   chile: abuso de urgencia por indeterminación, ¿señaliza? 
+**   C+E brasil: orden del dia, point?
+**   B+F aldf: cartel falla, facción toma rehén al góber
+**   F   venezuela
+|                 | ejec                | leg         |
+|-----------------+---------------------+-------------|
+| frenas al otro  | A veto              | B ignoras   |
+| sobrepones veto | C decreto           | D orr       |
+| evitas veto     | E rentas facultades | F coalición |
+|-----------------+---------------------+-------------|
+* Casagrana acoso <2018-10-08 Mon>
+** Mis dudas
+*** Directoras y profes no bastan
+    - desconfías de que es colega (profe otra carrera?)
+    - Personal administrativo? de intendencia?
+*** Caso donde víctima NO quiere denunciar y viste evidencia
+    - dónde termina la responsabilidad de confidencialidad (tipo sicólogo, confesor, etc.)
+    - lavarse manos
+    - responsablidad de saber q acosador puede seguir haciendo daño (aquí o más allá)
+    - potencial explosivo (caso Kavanaugh, que se diga que itam no hizo nada)
+    - casos pre-protocolo
+*** Caso: el que denuncia es el acosador
+    - cómo procede el profe con protocolo?
+    - cómo lidias cuando sospechas falsa denuncia?
+
+** Cómo llevar entrevista
+1 te voy a escuchar --- cultivar confianza
+  - al borde ataque nervios = pospones
+2 indagas --- reconstruyes los hechos
+  - invitar a superar "deseabilidad social" (quizás por pudor)
+  - estoy para escucharte y ayudarte
+  - pasos 
+    0 empiezas por establecer cómo se va a proceder
+    a expresa sentimientos y pensamientos
+    b describe hechos conretos, fecha, lugar, testigos (burla?), quién sabe?, qué tan atrás en tiempo?
+    c pedir en forma concreta lo que queremos
+    d especificar consecuencias
+  - ninguna suposición, volver a preguntar
+3 cierras --- cóme se llegó hasta aquí, qué implicaciones tiene, qué alternativas de solución
+** Sólo hay que tranquilizar y escuchar, no juzgar: reconstruir los hechos	
+4 Protocolo
+1 Direc escolar
+ biblio
+admiva y finan
+* DONE Reunión com Micaela Alterio, Tatiana, Juan Bertomeu, Xisca, Adriana AA, yo <2019-01-23 Wed>
+** Protocolo itam
+*** Dificultad fundamental: inquisición vs complicidad
+*** Directoras y profes no bastan
+    - desconfías de que es colega (profe otra carrera?)
+    - Personal administrativo? de intendencia?
+    - Conflicto de interés: Organo externo para recibir denuncia?
+    - Hotline, anónimo?
+*** Caso donde víctima NO quiere denunciar y viste evidencia
+    - dónde termina la responsabilidad de confidencialidad (tipo sicólogo, confesor, etc.)
+    - lavarse manos
+    - responsablidad de saber q acosador puede seguir haciendo daño (aquí o más allá)
+    - potencial explosivo (caso Kavanaugh, que se diga que itam no hizo nada)
+    - casos pre-protocolo
+*** Caso: el que denuncia es el acosador
+    - cómo procede el profe con protocolo?
+    - cómo lidias cuando sospechas falsa denuncia?
+*** UniAndes:
+    - puede denunciar tercero (obligación)
+    - múltiples vías para denunciar
+* Sabático 2021
+** año start  end
+**       ago  jul
+** ---------------
+**   1  2000 2001
+**   2  2001 2002
+**   3  2002 2003
+**   4  2003 2004
+**   5  2004 2005
+**   6  2005 2006
+**   7  2006 2007 <-- sab (lo tomé ene-dic 2007)
+**   1  2007 2008
+**   2  2008 2009
+**   3  2009 2010
+**   4  2010 2011
+**   5  2011 2012
+**   6  2012 2013
+**   7  2013 2014 <-- sab (lo tomé ago 2014-jul 2015)
+**   1  2014 2015
+**   2  2015 2016
+**   3  2016 2017
+**   4  2017 2018
+**   5  2018 2019
+**   6  2019 2020
+**   7  2020 2021 <-- sab ???
+- INSTITUTE FOR ADVANCED STUDY IN TOULOUSE deadline ~30nov2019
+- UK?
+- Irl?
+* taller casa de la Marquesa
+** Edición 2020
+*** Notas
+- Invitar a Alexa y Horacio
+- Sin botellitas de plástico
+- "Eric Magar's annual workshop"
+- Invitar a Memo, Ana de la O? 
+- Invitar a Sandra Ley, Mateo y Antonella
+- 
+** DONE Edición 2019 <2019-05-17 Fri>
+*** Nota
+- dar 8-10 minutos para presentación
+- la mitad se rajó de los tacos en 2018
+*** Mail invitación
+Estimados colegas, les mando la convocatoria al taller *La ciencia política desde México*, edición 2019. La fecha será el *viernes 17 de mayo* en la ya tradicional Casa de la Marquesa de San Angel. 
+
+Para quienes no participaron en años pasados, el taller contempla reunir a un grupo pequeño de politólogos con orientación empírica y establecidos en la ciudad. A lo largo de un día, presentaremos y discutiremos nuestro trabajo reciente, preferiblemente en sus etapas iniciales. Además de un ejercicio intelectualmente estimulante, el taller ha sido una oportunidad para estrechar lazos entre académicos con afinidades en el método. Y para vernos.
+
+Como el año pasdo, contaremos con un invitado que vive fuera del país. 
+
+Les ruego que me digan si les interesa participar y si les gustaría hacerlo en calidad de presentador, de comentarista, de ambos o sólo como público. En cuanto tenga una masa crítica de respuestas les escribiré con más detalles. 
+
+-e
+*** Invitados
+| nom                               | quiero       | viene?               | email                              |
+|-----------------------------------+--------------+----------------------+------------------------------------|
+| no he invitado                    |              |                      |                                    |
+| Adrián Santuario Físico fenotipos | sí           |                      | ?                                  |
+|                                   |              |                      |                                    |
+| he invitado <2019-03-13 Wed>      |              |                      |                                    |
+| Adriana Alfaro                    | sí           | theory??             | adriana.alfaro@itam.mx             |
+| Adrián Lucardi                    | sí           | presenta c magar     | adrianlucardi@gmail.com,           |
+| Alberto Simpser                   | sí           | presenta 9am         | asimpser@gmail.com,                |
+| Alejandra Ríos Cázares            |              | no-respondió         | alejandra.rios@cide.edu            |
+| Alejandro Díaz                    | sí           | no-respondió         | alejandrodiaz05@gmail.com          |
+| Alvaro López Lara                 | sí           | con Alvaro/Weldon    | llaf4385@correo.xoc.uam.mx,        |
+| Christian Ambrosius               | ?            | sí                   | <christian.ambrosius@fu-berlin.de> |
+| Eric Magar                        | sí           | presenta c Adrián    |                                    |
+| Federico Estévez                  | sí           | público              | festevez@itam.mx,                  |
+| Felipe Curcó                      | debo         | no                   | felipe.curco@itam.mx               |
+| Fernanda Somuano                  | sí           | presenta c Fdo Nieto | fsomuano@colmex.mx,                |
+| Guillermo Rosas                   | sí           | sí                   | grosas@wustl.edu                   |
+| Javier Márquez                    | sí           | no-respondió         | javier.marquezp@gmail.com,         |
+| Jeff Weldon                       | sí           | c Alvaro/Nicolás     | jweldon@itam.mx,                   |
+| José Antonio Hernández Company    | sí           | presenta             | joseahcompany@itesm.mx,            |
+| Joy Langston                      | sí           | personal mail-wait   | langston.joy@gmail.com,            |
+| Juan Cruz Olmeda                  |              | presenta             | jcruzo@colmex.mx,                  |
+| Juan Pablo Micozzi                | debo         | presenta             | juanpmicozzi@gmail.com,            |
+| Julio Ríos                        | sí           | comenta              | julio.rios@cide.edu,               |
+| Karina Ansolabehere               | sí           | público              | kansola@flacso.edu.mx,             |
+| Laura Flamand                     |              | público              | laura.flamand@gmail.com,           |
+| Luis de la Calle                  | sí           | presenta             | luis.delacalle@cide.edu,           |
+| Mariano Sánchez Talanquer         | sí           | presenta             | m.sancheztalanquer@cide.edu        |
+| Melina Altamirano                 | sí           | comenta              | maltamirano@colmex.mx,             |
+| Micaela Alterio                   | sí           | tiene teórico ?      | micaalterio@yahoo.com              |
+| Nicolás Loza                      |              | con Alvaro/Weldon    | loza@flacso.edu.mx                 |
+| Pepe Merino                       | sí           | no-respondió         | pepe@datacivica.org,               |
+| Rosario Aguilar                   | sí           | presenta y comenta   | rosario.aguilarp@gmail.com         |
+| Sebastián Garrido                 | sí           | presenta             | segasi@gmail.com                   |
+| Willibald Sonnleitner             | sí           | no-respondió         | wsonnleitner@colmex.mx,            |
+|                                   |              |                      |                                    |
+| esposa de Farfán                  |              | 2a ronda invita      |                                    |
+|                                   |              |                      |                                    |
+| contestaron no                    |              |                      |                                    |
+| Alejandro Moreno                  | debo-no creo | no -wapor            | almorenoal@gmail.com,              |
+| Allyson Benton                    | sí           | no, fuera            | allyson.benton@gmail.com,          |
+| Andrés Mejía                      | sí           | ? needs $            | A.MejiaAcosta@ids.ac.uk            |
+| Sandra Ley                        | sí           | no, bebé             | sandra.ley@cide.edu                |
+| Vidal Romero                      | debo-no creo | no, fuera            | vromero@itam.mx,                   |
+|                                   |              |                      |                                    |
+| no respuesta                      |              |                      |                                    |
+| Juan Bertomeu                     | sí           | no contestó          | juani.bertomeu@gmail.com           |
+
+*** direcciones de mail
+| mail                                        | quiche | beer   | coche          |
+|---------------------------------------------+--------+--------+----------------|
+| emagar@itam.mx                              | sí     | sí     | no             |
+| asimpser@gmail.com,                         | no     | sí     | no             |
+| adrianlucardi@gmail.com,                    | sí     | sí     | no             |
+| grosas@wustl.edu,                           | sí     | sí     | no             |
+| christian.ambrosius@fu-berlin.de,           | sí     | quizás | no             |
+| luis.delacalle@cide.edu,                    | sí     | sí     |                |
+| m.sancheztalanquer@cide.edu,                | sí     | sí     | 723TWX Jeep    |
+| joseahcompany@itesm.mx,                     | sí     | sí     | no             |
+| alejandro.poire@itesm.mx,                   | sí     | sí     |                |
+| rosario.aguilarp@gmail.com,                 | sí     | sí     | 699XGU Spark   |
+| fsomuano@colmex.mx,                         | sí     | sí     |                |
+| fnieto@colmex.mx,                           | no     | no     |                |
+| langston.joy@gmail.com,                     | sí     | sí     |                |
+| llaf4385@correo.xoc.uam.mx,                 | sí     | sí     | 436TKY Voyager |
+| loza@flacso.edu.mx,                         | sí     | sí     |                |
+| jweldon@itam.mx,                            | no     | no     | no             |
+| juanpmicozzi@gmail.com,                     | sí     | sí     | no             |
+| jcruzo@colmex.mx,                           | sí     | sí     | L07ASH Sonic   |
+| festevez@itam.mx,                           | sí     | sí     | no             |
+| julio.rios@cide.edu,                        | no     | sí     |                |
+| Luis Fernando Medina <lmedina@clio.uc3m.es> | sí     | sí     | no             |
+| kansola@flacso.edu.mx,                      | sí     |        |                |
+| maltamirano@colmex.mx,                      | no     |        |                |
+| adriana.alfaro@itam.mx,                     | no     | sí     | no             |
+| laura.flamand@gmail.com,                    | sí     |        |                |
+| micaalterio@yahoo.com,                      | quizás | no     | no             |
+| alejandra.rios@cide.edu,                    | no     | no     | no             |
+| valentina.riquelme@gmail.com                | sí     | sí     | no             |
+| gaofla67@gmail.com                          | sí     | sí     | no             |
+| fac menor 1                                 | sí     |        | no             |
+| fac menor 2                                 | sí     |        | no             |
+
+
+no pueden/no contestaron
+javier.marquezp@gmail.com,        
+wsonnleitner@colmex.mx,
+alejandrodiaz05@gmail.com         
+pepe@datacivica.org,              
+segasi@gmail.com
+
+
+*** Alimentos
+- Rosario vegetariana (no huevo, queso sí)
+- Adrián no queso
+*** coches
+- Rosario Aguilar 699XGU y es un Spark GM verde
+*** Programa preliminar
+| Presentadores                                  | Título                                                               
++------------------------------------------------+--------------------------------------------------------------
+| CAFÉ Y GALLETAS 9h30-9h50                      |                                                                                                  |
+|                                                |                                                                                                  |
+| BIENVENIDA 9h50-10h                            |                                                                                                  |
+|                                                |                                                                                                  |
+| MESA 1: REDISTRIBUCIÓN Y GEOGRAFÍA             |                                                                                                  |
+| 10h-11h15                                      |                                                                                                  |
+| Alberto Simpser-F. Finan-E. Seira (ITAM)       | The effect of neighborhoods on voting behavior                                                   |
+| Guillermo Rosas (Wash-U)                       | Acceso al crédito y preferencias redistributivas                                                 |
+| Rosario Aguilar (CIDE)                         | Explaining Support for Populist Policies Across Contexts                                         |
+| Adrián Lucardi-Eric Magar (ITAM)               | La geografía de la redistribución                                                                |
+|                                                |                                                                                                  |
+| MESA 2: PARTIDOS Y ELECCIONES                  |                                                                                                  |
+| 11h30-12h45                                    |                                                                                                  |
+| Fernanda Somuano-Fernando Nieto (Colmex)       | Analisis tipológico de la participación política en México                                       |
+| Joy Langston (CIDE)                            | Political Parties and Inefficient Electoral Institutions                                         |
+|                                                |                                                                                                  |
+| MESA 3: LEGISLATURAS                           |                                                                                                  |
+| 13h-14h                                        |                                                                                                  |
+| Christian Ambrosius (FU-Berlin)                | Immigration Demand and the Boomerang of Deportation Policies                                     |
+| López Lara-Loza-Weldon (UAM-Flacso-ITAM)       | ¿Cuándo importa el bicameralismo?                                                                |
+| Juan Pablo Micozzi (ITAM)                      | Progressive Ambition in a Static World: the Chilean Congress                                     |
+|                                                |                                                                                                  |
+| COMIDA 14h-16h                                 |                                                                                                  |
+|                                                |                                                                                                  |
+| MESA 4: LEGADOS POLÍTICOS Y CAPACIDAD ESTATAL  |                                                                                                  |
+| 16h-17h00                                      |                                                                                                  |
+| Luis de la Calle (CIDE)                        | Civil War Legacies on Voting Patterns in Peru                                                    |
+| Mariano Sánchez Talanquer (CIDE)               | Legacies of Revolution: Popular Militias and the Rule of Law                                     |
+| J.A. Hernández Company-Alejandro Poiré (ITESM) | Central/Local State Capabilities in the Fight vs Oil Theft                                       |
+| Julio Ríos Figueroa (CIDE)                     | Persistent Patronage Networks: the Erosion of Merit Based Judicial Selection in Mexico 1917-2017 |
+|                                                |                                                                                                  |
+| CERVEZAS HELADAS EN EL JARDÍN 17h15            |                                                                                                  |
+|                                                |                                                                                                  |
+| Otros (auditorio)                              |                                                                                                  |
+| Alejandra Ríos                                 |                                                                                                  |
+| Karina Ansolabehere                            | público                                                                                          |
+| Laura Flamand                                  | público                                                                                          |
+| Federico Estévez                               | público                                                                                          |
+| Melina Altamirano                              | comenta                                                                                          |
+| Julio Ríos                                     | comenta                                                                                          |
+| Heidi Smith                                    | no invite                                                                                        |
+| Luis Fernando Medina <lmedina@clio.uc3m.es>    | jpm invitó                                                                                       |
+| Juan Cruz Olmeda (Colmex)                      | comenta                                                                                          |
+| Adriana Alfaro                                 | theory??                                                                                         |
+| Micaela Alterio                                | teórico ?                                                                                        |
+|                                                |                                                                                                  |
+*** Programa final
+en https://emagar.github.io/prog-taller/
+*** Mail 3 semanas
+Estimados colegas, les mando infromación para el taller del viernes 17 de mayo. El evento durará todo el día. 
+
+Abajo encontrarán el programa preliminar. Intenté agruparlos por mesas más o menos temáticas. Probablemente sufra cambios marginales cuando reciba un par de títulos faltantes. Avisen si quisieran hacer algún ajuste. 
+
+El evento se llevará a cabo en La Casa de la Marquesa del ITAM, la misma sede que en años anteriores. Para dar con ella, salgan a la calle de Río Hondo por la puerta principal del edificio, caminen hacia la izquierda, en dirección del estacionamiento de profesores. La casa que está en la esquina empedrada es el destino---no hay pierde.
+
+Tendrán *10 minutos* para presentar su trabajo. Esto dejará tiempo suficiente para la discusión (alrededor de 40 minutos por mesa). Si quisieran circular algo previo al taller, manden paper/apuntes para subirlos al sitio web previo al evento.  
+
+Si vendrán al ITAM en coche propio, manden placas/modelo para que los policías les den acceso al estacionamiento de profesores. De lo contrario, les cobrarán el boleto en el estacionamiento de alumnos.
+
+Serviremos un almuerzo durante el taller (comeremos las exquisitas quiches y ensaladas de Valentina) y cerraremos con cervezas heladas en el jardín. Este año no habrá tacos en la clausura porque la mayoría suele partir antes. Para contabilizar, doy por hecho que todos se quedarán al almuerzo y a las cervezas. Avisen por favor si esto no fuera correcto o si requirieran de alimentos especiales (habrá opciones sin lácteos para AL). 
+
+En breve circularé el programa final. Les deseo un buen día. 
+** DONE Edición 2018 <2018-05-18 Fri>
+*** Mail invitación
+Estimados colegas, quizás hayan caído en cuenta que no he convocado al taller *La ciencia política desde México* en su edición 2018. Aunque había contemplado no hacerlo por conflictos de agenda, he recapacitado. Escribo para preguntar si aún hay suficientes interesados para echar esto a andar. La idea es repetir, en la Casa de la Marquesa y su lindo jardín, el formato de evento de los años pasados. La fecha tentativa es el viernes 18 de mayo de 2018 (podrían, en dado caso, presentar el paper de LASA). 
+
+Para quienes no participaron en años pasados, el taller contempla reunir a un grupo pequeño de politólogos con orientación empírica y establecidos en la ciudad. A lo largo de un día, presentaremos y discutiremos trabajos recientes, preferiblemente en sus etapas iniciales. Además de un ejercicio intelectualmente estimulante, el taller ha sido una oportunidad para estrechar lazos entre académicos con afinidades en el método. 
+
+Les ruego que me hagan saber si les interesa participar y si les gustaría hacerlo en calidad de presentador, de comentarista, de ambos o sólo como público. En cuanto tenga una masa crítica de respuestas les escribiré con una propuesta concreta. Les deseo una buen tarde.
+
+-e
+
+Qs
+- lower-level private promotions? --- CEO already biased
+- deaths in office: replaced by first loser? -> helps see low competition stress...
+- gender quota in list: year adopted would be biggest shock
+
+[[http://ericmagar.com/taller][Vínculo al evento pasado]
+*** Invitados
+| nom                    | asiste         | abstract                  |
+|------------------------+----------------+---------------------------|
+| Adriana Alfaro         | sí             | sí                        |
+| Adrián Lucardi         | sí             | sí                        |
+| Alberto Simpser        | sí             | solicité <2018-05-09 Wed> |
+| Alejandra Ríos Cázares | sí             | sí                        |
+| Alejandro Díaz         | sí             | sí                        |
+| Alejandro Moreno       | auditorio      | ---                       |
+| Allyson Benton         | sí             | sí                        |
+| Alvaro López Lara      | sí (otro c JW) | sí                        |
+| Brian Palmer-Rubin     | sí             | sí                        |
+| Emilio Gutiérrez       | auditorio      | ---                       |
+| Eric Magar             | sí             | sí                        |
+| Federico Estévez       | auditorio      | ---                       |
+| Felipe Curcó           | sí             | Sí                        |
+| Fernanda Somuano       | sí             | sí                        |
+| Francisco Cantú***     | sí             | Sí                        |
+| Javier Márquez         | sí             | sí                        |
+| Jeff Weldon            | Sí             | sí                        |
+| Joy Langston           | Sí             | solicité <2018-05-09 Wed> |
+| Juan Cruz Olmeda       | Sí             | sí                        |
+| Laura Flamand          | coment < 12:30 |                           |
+| Lisandro Devoto        | sí             | sí                        |
+| Mireya Vilar           |                | solicité <2018-05-09 Wed> |
+| Nicolás Loza           | Sí (c Jeff)    | sí c Weldon               |
+| Pepe Merino            | no (últ hora)  | ---                       |
+| Vidal Romero           | sí             | sí                        |
+**** Excluidos penúltimo mail pq contestaron no
+**** Drop for good next year
+| Alejandro Poiré        |                |                          |
+| Gabriel Negretto       |                |                          |
+| Sandra Ley             | No             |                          |
+| Sergio Silva           |                |                          |
+
+2d round
+Christina Wagner
+Gabriel Goodlife
+Ana Paula IIJ
+
+*** Abstracts
+**** Adriana Alfaro Altamirano
+Título: "Las variedades de la empatía judicial: el caso del nuevo sistema de justicia penal en México"
+Autoras: Adriana Alfaro Altamirano (ITAM), Adriana Ortega Ortiz (SCJN), Valentina Fix Martínez (ITAM)
+**** Alvaro López Lara
+Partidos y coaliciones en la Asamblea Constituyente de la Ciudad de México
+Álvaro F. López Lara (Universidad Autónoma Metropolitana-Xochimilco)
+La Asamblea Constituyente de la Ciudad de México es un caso de estudio crucial
+para comprender la dinámica de la ideología y las estrategias de los partidos
+políticos en un espacio común de votación. Tomando como base un conjunto de
+361 votaciones nominales -emitidas en las sesiones en las que se discutieron y
+aprobaron los artículos del proyecto de Constitución- se estimaron los puntos
+ideales de los diputados electos y de los diputados designados por las Cámaras del
+Congreso, así como los representantes del Jefe de Gobierno y del Poder
+Ejecutivo Federal. Los hallazgos preliminares muestran que las dimensiones
+básicas de votación contienen un paquete de artículos constitucionales sobre el
+matrimonio igualitario, familias diversas, derechos de las personas LGBTTTI, el
+derecho a una muerte digna y autorización del uso medicinal del cannabis, que
+dividieron a los constituyentes en la dimensión izquierda-derecha. Mientras que
+las votaciones sobre los artículos constitucionales relacionados con aspectos del
+régimen político y el equilibrio de poderes, como el diseño del Congreso local, el
+sistema de alcaldías, la revocación del mandato y la creación del Tribunal
+Constitucional, ubicaron a los diputados constituyentes en una segunda
+dimensión de votación en la que se observan coaliciones estratégicas entre
+partidos políticos con mayor distancia ideológica.
+**** Palmer Rubin: 
+Incentives for Organizational Participation: A Recruitment Experiment
+Brian Palmer-Rubin
+Candelaria Garay
+Mathias Poertner
+This paper experimentally analyzes the conditions under which Mexican join interest organizations. As part of the 2017 Mexico Organizational Survey we presented 1,400 citizens in two Mexican states with flyers that describe a fictitious local interest organization (Lazos Comunitarios, “Community Ties”) and provided them with an opportunity to sign up to receive information about joining the organization. These posters contain one of four randomly selected types of appeals to encourage member recruitment, including: assisting members in accessing disaggregable state resources, offering self-generated services to members, contributing to local public goods, and appealing to civic duty, as well as a placebo control with no direct appeal. By comparing the rates at which different treatment groups sign up to receive membership information we can estimate the effectiveness of different modes of selective and non-selective recruitment appeals, furthering understanding of the conditions under which citizens are intrinsically motivated to participate in politics. This approach builds on recent experimental research on the effect of various appeals on participation in contentious events (McClendon 2014) and signing a petition (Kuziemko et al. 2013), but is the first of its kind that predicts participation in interest organizations. 
+**** Vidal Romero
+¿Cómo reducir impactos negativos en orden de los procesos de democratización? El caso de Cuba
+Vidal Romero
+Los procesos de liberalización económicos y políticos generan nuevas demandas por redistribución y derechos que previamente no existían. Usualmente, las instituciones se adaptan a un ritmo más lento a estas demandas y los recursos son insuficientes para satisfacerlas. Algunos individuos y grupos en estas circunstancias buscarán satisfacer sus demandas violando el estado de derecho. El Estado será incapaz para establecer un nivel aceptable de orden en estas circunstancias. Existe, sin embargo, variación en el nivel de orden que observamos post-transición. ¿Qué determina el nivel de orden que observamos conforme las sociedades se democratizan? ¿Qué instituciones y organizaciones específicas contribuyen a minimizar el impacto negativo de transiciones a la democracia?
+Para contribuir a responder estas preguntas, en este trabajo analizo el caso de Cuba. Investigo sobre instituciones y organizaciones específicas que pudieran minimizar el impacto negativo en seguridad e ilegalidad del actual proceso de liberalización económica y de un (hipotético) proceso de liberalización política en esta nación.
+**** Lucardi:
+Does the Early Bird always Get The Warm? How First-round Victories Affect the Chance of Winning the Second Round in Runoff Systems
+Adrián Lucardi (ITAM)
+Juan Pablo Micozzi (ITAM)
+Agustín Vallejo (Rice University)
+An extensive literature on electoral systems has investigated how runoff rules affect players’ strategic decisions regarding how many candidacies to run and whom to vote for in the first round. Yet another crucial feature of runoff systems is that they allow for a reversion of the first-round results –i.e., the plurality winner of the first round may be defeated in the second round. Does winning the first round increase the probability of winning the second round? Is there a threshold or a gap after which plurality winners should feel safe for winning the next round? In this paper we investigate these questions with data from national elections since 1945, as well as subnational elections from Argentina, Brazil and Mexico. Using a regression discontinuity design, we find that being the most voted candidate in the first round has a substantial causal effect on the probability of winning the second round.
+**** Francisco Cantú
+THE FINGERPRINTS OF FRAUD: EVIDENCE FROM MEXICO’S 1988 PRESIDENTIAL ELECTION
+This paper unpacks the formal and informal opportunities for fraud during the 1988 presidential election in Mexico. In particular, I study how the alteration of vote returns came after an electoral reform that centralized the vote-counting process. Using an original image database of the vote-tally sheets for that election, and applying Convolutional Neural Networks (CNN) to analyze the sheets, I find evidence of blatant alterations in about a third of the tallies in the country. The empirical analysis shows that altered tallies were more prevalent in polling stations where the opposition was not present and in states controlled by governors with grassroots experience of managing the electoral operation. This research has implications for understanding the ways in which autocrats control elections as well as introducing a new methodology to audit the integrity of vote tallies. 
+**** Felipe Curcó Cobos
+Querido Eric, mi artículo se publicó mucho más rápido de lo que yo pensaba. Sin embargo seguiré trabajando en el tema, así que la retroalimentación que reciba me será valiosa. Ese día cumple años mi madre. Si fuera posible, me vendría bien presentar al medio día, 11 o 12. Tú me dices. Aquí te anexo título y abstract. Abrazo y saludos, Felipe.
+The new Latin American constitutionalism: a critical review in the context of neo-constitutionalism
+SUMMARY
+The new Latin American constitutionalism (NLC) is the term that has been coined to refer to certain constitutional processes and constitutional reforms that have taken place relatively recently in Latin America. Constitutional theorists have not been very optimistic regarding the scope and nature of this new constitutionalism. I thoroughly agree with this critical skepticism as well as with the idea that this new phenomenon does not substantively  change the organic element of the different constitutions in the region. However, I argue that it is a mistake to focus analysis on this characteristic. My intention is to show that the NLC should be evaluated in the context of its relationship with contemporary neo-constitutional theory.
+**** Weldon--Nicolás Loza
+Senate in ex-leg
+**** Juan Cruz Olmeda y Lisandro Devoto
+Alianzas electorales en elecciones en los estados mexicanos (2000-2016): entendiendo su evolución a partir del análisis de redes
+En los últimos 20 años la formación de alianzas electorales se ha extendido como estrategia de competencia, y las podemos encontrar en elecciones en todos los niveles y por distintos cargos. La literatura que aborda esta temática para el caso mexicano ha abordado principalmente las elecciones federales y de gobernador, por lo que existe un vacío en lo que sucede a en el territorio de cada una de las entidades federativas en elecciones de diputados locales que impide ver la heterogeneidad en las estrategias partidistas en los distintos niveles de competencia y por los distintos cargos en disputa en los estados. Este artículo aborda la dinámica de la formación de coaliciones y su evolución, para conocer los patrones de competencia de los distintos partidos en las elecciones de diputados locales, a partir del análisis de las redes conformadas por los partidos durante los sucesivos procesos electorales entre 2000 y 2016.
+**** Allyson Benton
+Title: Does the @realDonaldTrump Really Matter to Financial Markets?
+Allyson Benton
+División de Estudios Políticos
+Centro de Investigación y Docencia Económicas
+Andrew Q. Philips
+Department of Political Science
+University of Colorado, Boulder
+Abstract: Does the @realDonaldTrump really matter to financial markets? Research suggests that economic policy statements made by US President Donald J. Trump via microblogging site Twitter---known as "tweets"---should not matter to financial markets, as they merely restate his well-known economic policy views. In contrast, we argue that Trump's economic policy tweets clarify the level of his commitment to his economic policy goals, thereby affecting financial markets. We test our argument using data on Trump's Mexico-related policy tweets and the US dollar/Mexican peso exchange rate. We find that Trump's Mexico-related policy tweets raised US dollar/Mexican peso exchange rate volatility while his views were first becoming known to investors, in line with prior research. However, we also find that Trump's Mexico-related policy tweets continued to affect US dollar/Mexican peso exchange rate volatility, even after his Mexico-related policy views were known. We attribute this to the clarifying effect that these tweets had for investors about the level of Trump's commitment to his Mexico-related policy goals.
+**** Fernanda Somuano and Fernando Nieto
+Subnational state capacity and citizen engagement in Mexico
+In the present study, we inquire whether different dimensions of state capacity at the subnational level in Mexico hold a relation with citizens’ political engagement. We test two general hypotheses. The first one proposes that strong subnational states (with bureaucratic cohesion, extractive capacity, extraterritorial recognition and capacity to steer key local social and economic factors) provide incentives and conditions favorable for conventional forms of participation. The second hypothesis claims that where subnational state capacities are weak, people expect poor or null performance of subnational policies, and therefore turn away from conventional participation, and instead turn to protest or community participation. To test these hypotheses, we use multilevel survey data from N=11,000 Mexican citizens in the 32 Mexican states in 2013. We test whether individuals’ propensity to engage in different forms of participation (conventional participation, political protest, or community participation) are moderated by differences in subnational state capacities.
+This study makes three contributions to extant research. First, we complement previous research on citizens’ involvement in policy, and extend it in order to understand consequences of strong or weak capacities at the subnational level. Second, we empirically study different types of citizens’ participation. This allows for a more fine-tuned analysis of individual-level political consequences of subnational state capacities. In particular, this approach allows for a comparison of citizens’ responses to differences in local policy, as well as local institutional and bureaucratic differences. Third, we empirically test our arguments using cross-sectional data from a large sample of Mexican citizens combined with independently collected data on state capacity for all Mexican states.
+**** Javier Márquez
+Predicciones preelectorales y el día de la elección
+**** Alejandra Ríos Cázares
+Gestión documental y archivos gubernamentales. Sobre las premisas del buen gobierno
+Todo acto de instituciones gubernamentales genera un documento de sustento. Estos documentos son evidencia de las responsabilidades de las instituciones públicas y de los derechos ciudadanos. Esa es su relevancia. ¿Cómo organizan las instituciones la información que generan de manera cotidiana? ¿qué dice la organización (o falta de ella) sobre la calidad de las instituciones? Presento evidencia sobre la situación de la gestión documental en México para iniciar una discusión sobre cómo el estudio de los archivos gubernamentales puede ser un indicador de la calidad de los gobiernos y la calidad de la rendición de cuentas.
+**** Alejandro Díaz Domínguez y Guillermina Benavides Rincón
+Título: "Entre el suelo pegajoso y el techo de cristal: acceso (¿y ascenso?) de las mujeres investigadoras al Sistema Nacional de Investigadores en México".
+Resumen: Para analizar si existe un efecto de las barreras visibles e invisibles en el avance en el escalafón en investigación de las académicas mexicanas, se emplean las aproximaciones teóricas sobre "suelo pegajoso" y "techo de cristal", es decir, aquellas condiciones que impiden tanto el despegue profesional de las mujeres como las que prácticamente imposibilitan su llegada a los niveles más altos.
+En la verificación empírica se empleó la base de beneficiarios del Sistema Nacional de Investigadores 2017, teniendo como variable dependiente los niveles dentro del sistema y como principal variable explicativa de interés la dicotomía mujer / hombre. Adicionalmente se incluyeron controles por grado de estudios, nacionalidad, universidad y área de conocimiento, además de controles por zona geográfica. 
+La evidencia disponible sugiere que en efecto, el ser mujer incrementa, todo lo demás constante, la probabilidad de acceder al sistema, pero también reduce el acceso a los niveles más altos.
+En el futuro muy cercano se planea levantar un sondeo entre una submuestra de integrantes del SNI, ello para conocer aquellos factores que ayudarían a explicar de manera específica los efectos hallados en esta exploración preliminar.
+MANDARON PAPER
+
+**** Simpser ecopol
+**** Joy Langston PRI
+**** Eric Coahuila
+*** Programa
+**** 8:45--9:15 Café
+**** 9:15-9:30  Presentación
+**** 9:30-11:00 Mesa de legistaturas y judicial
+***** Adriana Alfaro Altamirano (ITAM), Adriana Ortega Ortiz (SCJN) y Valentina Fix Martínez (ITAM)
+Las variedades de la empatía judicial: el caso del nuevo sistema de justicia penal en México
+***** Álvaro F. López Lara (UAM-Xochimilco)
+Partidos y coaliciones en la Asamblea Constituyente de la Ciudad de México
+La Asamblea Constituyente de la Ciudad de México es un caso de estudio crucial para comprender la dinámica de la ideología y las estrategias de los partidos políticos en un espacio común de votación. Tomando como base un conjunto de 361 votaciones nominales -emitidas en las sesiones en las que se discutieron y aprobaron los artículos del proyecto de Constitución- se estimaron los puntos ideales de los diputados electos y de los diputados designados por las Cámaras del Congreso, así como los representantes del Jefe de Gobierno y del Poder Ejecutivo Federal. Los hallazgos preliminares muestran que las dimensiones básicas de votación contienen un paquete de artículos constitucionales sobre el matrimonio igualitario, familias diversas, derechos de las personas LGBTTTI, el derecho a una muerte digna y autorización del uso medicinal del cannabis, que dividieron a los constituyentes en la dimensión izquierda-derecha. Mientras que las votaciones sobre los artículos constitucionales relacionados con aspectos del régimen político y el equilibrio de poderes, como el diseño del Congreso local, el sistema de alcaldías, la revocación del mandato y la creación del Tribunal Constitucional, ubicaron a los diputados constituyentes en una segunda dimensión de votación en la que se observan coaliciones estratégicas entre partidos políticos con mayor distancia ideológica.
+***** Eric Magar (ITAM) y Alejandro Moreno (ITAM)
+Coahuila
+***** Nicolás Loza (FLACSO) y Jeffrey Weldon (ITAM)
+Why the Senate? Exeutive strategic bill initiation in a Mexico's bicameralism
+
+**** 11:15-12:45 Mesa de constituciones, capacidad estatal y buen gobierno
+***** Felipe Curcó Cobos (ITAM) 11am o 12
+The new Latin American constitutionalism: a critical review in the context of neo-constitutionalism
+The new Latin American constitutionalism (NLC) is the term that has been coined to refer to certain constitutional processes and constitutional reforms that have taken place relatively recently in Latin America. Constitutional theorists have not been very optimistic regarding the scope and nature of this new constitutionalism. I thoroughly agree with this critical skepticism as well as with the idea that this new phenomenon does not substantively  change the organic element of the different constitutions in the region. However, I argue that it is a mistake to focus analysis on this characteristic. My intention is to show that the NLC should be evaluated in the context of its relationship with contemporary neo-constitutional theory.
+***** Alejandra Ríos Cázares (CIDE)
+Gestión documental y archivos gubernamentales. Sobre las premisas del buen gobierno
+Todo acto de instituciones gubernamentales genera un documento de sustento. Estos documentos son evidencia de las responsabilidades de las instituciones públicas y de los derechos ciudadanos. Esa es su relevancia. ¿Cómo organizan las instituciones la información que generan de manera cotidiana? ¿qué dice la organización (o falta de ella) sobre la calidad de las instituciones? Presento evidencia sobre la situación de la gestión documental en México para iniciar una discusión sobre cómo el estudio de los archivos gubernamentales puede ser un indicador de la calidad de los gobiernos y la calidad de la rendición de cuentas.
+***** Fernanda Somuano (Colmex) y Fernando Nieto (Colmex)
+Subnational state capacity and citizen engagement in Mexico
+In the present study, we inquire whether different dimensions of state capacity at the subnational level in Mexico hold a relation with citizens’ political engagement. We test two general hypotheses. The first one proposes that strong subnational states (with bureaucratic cohesion, extractive capacity, extraterritorial recognition and capacity to steer key local social and economic factors) provide incentives and conditions favorable for conventional forms of participation. The second hypothesis claims that where subnational state capacities are weak, people expect poor or null performance of subnational policies, and therefore turn away from conventional participation, and instead turn to protest or community participation. To test these hypotheses, we use multilevel survey data from N=11,000 Mexican citizens in the 32 Mexican states in 2013. We test whether individuals’ propensity to engage in different forms of participation (conventional participation, political protest, or community participation) are moderated by differences in subnational state capacities.
+This study makes three contributions to extant research. First, we complement previous research on citizens’ involvement in policy, and extend it in order to understand consequences of strong or weak capacities at the subnational level. Second, we empirically study different types of citizens’ participation. This allows for a more fine-tuned analysis of individual-level political consequences of subnational state capacities. In particular, this approach allows for a comparison of citizens’ responses to differences in local policy, as well as local institutional and bureaucratic differences. Third, we empirically test our arguments using cross-sectional data from a large sample of Mexican citizens combined with independently collected data on state capacity for all Mexican states.
+***** Vidal Romero (ITAM)
+¿Cómo reducir impactos negativos en orden de los procesos de democratización? El caso de Cuba
+Los procesos de liberalización económicos y políticos generan nuevas demandas por redistribución y derechos que previamente no existían. Usualmente, las instituciones se adaptan a un ritmo más lento a estas demandas y los recursos son insuficientes para satisfacerlas. Algunos individuos y grupos en estas circunstancias buscarán satisfacer sus demandas violando el estado de derecho. El Estado será incapaz para establecer un nivel aceptable de orden en estas circunstancias. Existe, sin embargo, variación en el nivel de orden que observamos post-transición. ¿Qué determina el nivel de orden que observamos conforme las sociedades se democratizan? ¿Qué instituciones y organizaciones específicas contribuyen a minimizar el impacto negativo de transiciones a la democracia?
+Para contribuir a responder estas preguntas, en este trabajo analizo el caso de Cuba. Investigo sobre instituciones y organizaciones específicas que pudieran minimizar el impacto negativo en seguridad e ilegalidad del actual proceso de liberalización económica y de un (hipotético) proceso de liberalización política en esta nación.
+**** 12:45-14:00 Lunch
+**** 14:00-15:30 Mesa de instituciones y prácticas electorales
+***** Adrián Lucardi (ITAM), Juan Pablo Micozzi (ITAM) y Agustín Vallejo (Rice University)
+Does the Early Bird always Get The Warm? How First-round Victories Affect the Chance of Winning the Second Round in Runoff Systems
+An extensive literature on electoral systems has investigated how runoff rules affect players’ strategic decisions regarding how many candidacies to run and whom to vote for in the first round. Yet another crucial feature of runoff systems is that they allow for a reversion of the first-round results –i.e., the plurality winner of the first round may be defeated in the second round. Does winning the first round increase the probability of winning the second round? Is there a threshold or a gap after which plurality winners should feel safe for winning the next round? In this paper we investigate these questions with data from national elections since 1945, as well as subnational elections from Argentina, Brazil and Mexico. Using a regression discontinuity design, we find that being the most voted candidate in the first round has a substantial causal effect on the probability of winning the second round.
+***** Javier Márquez (BLA y Oraculus)
+Predicciones preelectorales y el día de la elección
+***** Juan Cruz Olmeda y Lisandro Devoto
+Alianzas electorales en elecciones en los estados mexicanos (2000-2016): entendiendo su evolución a partir del análisis de redes
+En los últimos 20 años la formación de alianzas electorales se ha extendido como estrategia de competencia, y las podemos encontrar en elecciones en todos los niveles y por distintos cargos. La literatura que aborda esta temática para el caso mexicano ha abordado principalmente las elecciones federales y de gobernador, por lo que existe un vacío en lo que sucede a en el territorio de cada una de las entidades federativas en elecciones de diputados locales que impide ver la heterogeneidad en las estrategias partidistas en los distintos niveles de competencia y por los distintos cargos en disputa en los estados. Este artículo aborda la dinámica de la formación de coaliciones y su evolución, para conocer los patrones de competencia de los distintos partidos en las elecciones de diputados locales, a partir del análisis de las redes conformadas por los partidos durante los sucesivos procesos electorales entre 2000 y 2016.
+***** Francisco Cantú (University of Houston)
+THE FINGERPRINTS OF FRAUD: EVIDENCE FROM MEXICO’S 1988 PRESIDENTIAL ELECTION
+This paper unpacks the formal and informal opportunities for fraud during the 1988 presidential election in Mexico. In particular, I study how the alteration of vote returns came after an electoral reform that centralized the vote-counting process. Using an original image database of the vote-tally sheets for that election, and applying Convolutional Neural Networks (CNN) to analyze the sheets, I find evidence of blatant alterations in about a third of the tallies in the country. The empirical analysis shows that altered tallies were more prevalent in polling stations where the opposition was not present and in states controlled by governors with grassroots experience of managing the electoral operation. This research has implications for understanding the ways in which autocrats control elections as well as introducing a new methodology to audit the integrity of vote tallies. 
+
+**** 15:45-17:15 Mesa de economía política y organizaciones
+***** Alejandro Díaz Domínguez (ITESM) y Guillermina Benavides Rincón
+Título: "Entre el suelo pegajoso y el techo de cristal: acceso (¿y ascenso?) de las mujeres investigadoras al Sistema Nacional de Investigadores en México".
+Resumen: Para analizar si existe un efecto de las barreras visibles e invisibles en el avance en el escalafón en investigación de las académicas mexicanas, se emplean las aproximaciones teóricas sobre "suelo pegajoso" y "techo de cristal", es decir, aquellas condiciones que impiden tanto el despegue profesional de las mujeres como las que prácticamente imposibilitan su llegada a los niveles más altos.
+En la verificación empírica se empleó la base de beneficiarios del Sistema Nacional de Investigadores 2017, teniendo como variable dependiente los niveles dentro del sistema y como principal variable explicativa de interés la dicotomía mujer / hombre. Adicionalmente se incluyeron controles por grado de estudios, nacionalidad, universidad y área de conocimiento, además de controles por zona geográfica. 
+La evidencia disponible sugiere que en efecto, el ser mujer incrementa, todo lo demás constante, la probabilidad de acceder al sistema, pero también reduce el acceso a los niveles más altos.
+En el futuro muy cercano se planea levantar un sondeo entre una submuestra de integrantes del SNI, ello para conocer aquellos factores que ayudarían a explicar de manera específica los efectos hallados en esta exploración preliminar.
+MANDARON PAPER
+***** Alberto Simpser (ITAM)
+***** Allyson L. Benton (CIDE) y Andrew Q. Philips (University of Colorado, Boulder)
+Does the @realDonaldTrump Really Matter to Financial Markets?
+Abstract: Does the @realDonaldTrump really matter to financial markets? Research suggests that economic policy statements made by US President Donald J. Trump via microblogging site Twitter---known as "tweets"---should not matter to financial markets, as they merely restate his well-known economic policy views. In contrast, we argue that Trump's economic policy tweets clarify the level of his commitment to his economic policy goals, thereby affecting financial markets. We test our argument using data on Trump's Mexico-related policy tweets and the US dollar/Mexican peso exchange rate. We find that Trump's Mexico-related policy tweets raised US dollar/Mexican peso exchange rate volatility while his views were first becoming known to investors, in line with prior research. However, we also find that Trump's Mexico-related policy tweets continued to affect US dollar/Mexican peso exchange rate volatility, even after his Mexico-related policy views were known. We attribute this to the clarifying effect that these tweets had for investors about the level of Trump's commitment to his Mexico-related policy goals.
+***** Brian Palmer-Rubin, Candelaria Garay y Mathias Poertner
+Incentives for Organizational Participation: A Recruitment Experiment
+This paper experimentally analyzes the conditions under which Mexican join interest organizations. As part of the 2017 Mexico Organizational Survey we presented 1,400 citizens in two Mexican states with flyers that describe a fictitious local interest organization (/Lazos Comunitarios/) and provided them with an opportunity to sign up to receive information about joining the organization. These posters contain one of four randomly selected types of appeals to encourage member recruitment, including: assisting members in accessing disaggregable state resources, offering self-generated services to members, contributing to local public goods, and appealing to civic duty, as well as a placebo control with no direct appeal. By comparing the rates at which different treatment groups sign up to receive membership information we can estimate the effectiveness of different modes of selective and non-selective recruitment appeals, furthering understanding of the conditions under which citizens are intrinsically motivated to participate in politics. This approach builds on recent experimental research on the effect of various appeals on participation in contentious events (McClendon 2014) and signing a petition (Kuziemko et al. 2013), but is the first of its kind that predicts participation in interest organizations. 
+HAY PAPER
+**** 17:15-17:30 Palabras finales
+**** 17:30-19:30 Cervezas *heladas* y tacos
+***** Laura Flamand
+***** Joy Langston PRI
+*** Mail final
+Estimados colegas, mando las instrucciones finales para el taller del viernes entrante. 
+
+Encontrarán el programa preliminar en https://emagar.github.io/programa-taller/. Avisen si quisieran hacer algún ajuste. 
+
+Las mesas se llevarán a cabo en La Casa de la Marquesa del ITAM, la misma sede que en años anteriores. Si salen a la calle por la entrada principal, deben caminar en dirección del estacionamiento de profesores. La casa que está en la esquina empedrada es el destino.
+
+Tendrán *12 minutos* para presentar su trabajo. Esto dejará tiempo suficiente para la discusión (45 minutos por mesa). Si quisieran circular algo del taller, manden el paper o apuntes para subirlos al sitio web.
+
+Si traerán coche por favor manden placas/modelo para que les den acceso al estacionamiento de profesores (de lo contrario, les cobrarán el boleto en el estacionamiento de alumnos).
+
+Y, para contabilizar, estoy dando por hecho que todos se quedarán al almuerzo y la taquiza/cervezas, que nadie es vegetariano ni requiere alimentos especiales. Manden una nota si esto no fuera correcto. 
+
+Los espero este viernes.
+
+*** Comen
+|                              | lunch | cena |
+| Adriana Alfaro               | SI    | SI   |
+| Adriana Ortega Ortiz (SCJN)  | NO?   | NO?  |
+| Valentina Fix Martínez       | SI    | SI   |
+| Álvaro F. López Lara         | SI    | SI   |
+| Eric Magar                   | SI    | SI   |
+| Alejandro Moreno             | ??    | ??   |
+| Nicolás Loza                 | SI    | SI   |
+| Jeffrey Weldon               | SI    | SI   |
+| Felipe Curcó Cobos           | NO    | NO   |
+| Alejandra Ríos Cázares       | NO    | NO   |
+| Fernanda Somuano             | SI    | SI   |
+| Fernando Nieto               | NO?   | NO?  |
+| Vidal Romero                 | SI    | SI   |
+| Adrián Lucardi               | SI    | SI   |
+| Juan Pablo Micozzi           | NO    | NO   |
+| Agustín Vallejo              | NO    | NO   |
+| Javier Márquez               | SI    | SI   |
+| Juan Cruz Olmeda             | SI    | SI   |
+| Lisandro Devoto              | SI    | SI   |
+| Francisco Cantú              | SI    | SI   |
+| Alejandro Díaz Domínguez     | SI    | SI   |
+| Guillermina Benavides Rincón | NO    | NO   |
+| Alberto Simpser              | SI    | SI   |
+| Allyson L. Benton            | SI    | SI   |
+| Andrew Q. Philips            | NO    | NO   |
+| Brian Palmer-Rubin           | SI    | SI   |
+| Candelaria Garay             | NO    | NO   |
+| Mathias Poertner             | NO    | NO   |
+** DONE Edición 2017 <2017-05-26 Fri>
+*** Programa (para exportar en html)
+#+TITLE: Taller /La ciencia política desde México/
+#+SUBTITLE: viernes 26 de mayo 2017
+#+OPTIONS: toc:nil
+#+ATTR_HTML: :alt logo :title logoITAM! :align center :width 7%
+[[./logoitam.gif]]
+#+ATTR_HTML: :align center 
+Campus Río Hondo, [[./mapaRHanotado.pdf][Casa de la Marquesa]]
+#+ATTR_HTML: :align center 
+([[./2016/][Programa de 2016]])
+#+ATTR_HTML: :alt pic :title Foto :align center :width 90%
+[[./LUPrxj9V.jpg]]
+**** Café (8:45-9:15)
+**** Presentación (9:15-9:30)
+**** El ámbito electoral (9:30-11:10)
+*Cristian Challú*, *Enrique Seira* y *Alberto Simpser*  (ITAM)   [[./ErrorsPaperPresentationMay2017v1.pdf][It isn't vote counters who count, but how many votes they have to count: evidence on the quality of vote counting in Mexican elections]]
+
+*Alvaro López Lara* (UAM-X)    [[./Taller_Cipol_2017_Lopez_Lara.pptx][De la hegemonía a la fragmentación: La difusión de los sistemas electorales mixtos y el pluralismo en los congresos locales de México]]
+
+*Alonso Ahumada*, *JR Enríquez* y *Emilio Gutiérrez*  (ITAM) [[./presentacion_ITAM_EmilioGtz.pdf][Identification of Dynastic Power in Contexts with Spanish Naming Conventions]]
+
+*Juan Cruz Olmeda* y *Lisandro Devoto* (Colmex)  [[./AssesingSuccessElectoralCoaltionsMexico_TallerITAM.pdf][Evaluating the success of electoral coalitions at the subnational level. Evidence from legislative elections in Mexico 2000-16]]
+**** Economía política (11:25-12:45)
+     # **** Costos de agencia en democracia (14:00-15:30)
+*Adrián Lucardi* (ITAM)     [[./lucardi_essay0210.pdf][Strength in Expectation Elections, Economic Performance and Authoritarian Breakdown]]
+
+*Allyson Benton* (CIDE)     [[./BentonSpatialStateDebt17itam.pdf][Indebted to Your Friends and Enemies: The Mechanics of Subnational Debt Policy Diffusion in Mexico]]
+
+*Mireia Vilar Compte*   (UIA)      Inseguridad alimentaria en México desde un enfoque de economía política y utilizando modelos jerárquicos
+**** Almuerzo (12:45-14:15)
+**** Delegación en cortes y legislaturas (14:15-15:45)
+*Eric Magar*          (ITAM)   [[./urge07.pdf][Restrictive rules in the Chilean Congress (con Valeria Palanza y Gisela Sin)]]
+
+*Juan Pablo Micozzi*  (ITAM)   [[./PML-Gender&Cosponsorship.pptx][Gender Quotas, Women's Substantive Representation, and Cosponsorship Activity in Argentina]]
+
+*Karina Ansolabehere* (FLACSO) [[./AnsolabehereKproyectoInvestigacion.pdf][Fidelidad concentrada: Difusión de innovaciones sobre derechos humanos de la SCJN en las instancias inferiores del poder judicial]]
+**** El monopolio de la violencia (16:00-17:30)
+*Brian Phillips*    (CIDE)     [[./phillipsdirtywarITAMmay2017.pdf][Indiscriminate vs. selective repression: Evidence from Argentina's Dirty War]]
+
+*Fernanda Somuano*  (Colmex)   Capacidades estatales y participación política en México: un análisis subnacional
+
+*Vidal Romero*      (ITAM)     [[./Cuba_VidalRomero_Paper_v2-1.pdf][The Perils to Order and Security in Cuba's Transition to Democracy]]
+**** Comentarios finales (17:30-17:45)
+**** Cervezas _heladas_ y parrillada mexicana (17:45-19:30)
+*** Lista de mails de participantes
+Alberto Simpser <asimpser@gmail.com>,
+Alvaro Fernando Lopez Lara <llaf4385@correo.xoc.uam.mx>,
+Emilio Gutierrez <emilio.gutierrez.f@gmail.com>,
+José Ramón Enríquez González <mon_6262@hotmail.com>
+Juan Cruz Olmeda <jcruzo@colmex.mx>,
+lisandro.devoto@gmail.com,
+Juan Pablo Micozzi <juanpmicozzi@gmail.com>,
+"Jeffrey A. Weldon" <jweldon@itam.mx>,
+Karina Ansolabehere <kansola@flacso.edu.mx>,
+Adrián Lucardi <adrianlucardi@gmail.com>,
+Allyson Benton <allyson.benton@gmail.com>,
+Laura Flamand <laura.flamand@gmail.com>,
+Mireia Vilar Compte <mvc213@nyu.edu>,
+brian.phillips@cide.edu,
+Fernanda Somuano Ventura <fsomuano@colmex.mx>,
+"luis.delacalle@cide.edu" <luis.delacalle@cide.edu>,
+Vidal Romero <Vromero@itam.mx>,
+Julio Rios-Figueroa <julio.rios@cide.edu>,
+Federico Estévez <festevez@itam.mx>,
+Alejandro Moreno <almorenoal@gmail.com>,
+
+out
+
+José Merino <pepe@data4.mx>,
+
+Ana Carolina Garriga <carolina.garriga@cide.edu>,
+"alejandrodiaz05@gmail.com" <alejandrodiaz05@gmail.com>,
+Joy Langston <joy.langston@cide.edu>,
+Javier Marquez <javier.marquezp@gmail.com>,
+sergio.silva@itam.mx,
+Alejandro Poiré <alejandro.poire@itesm.mx>,
+Melina Altamirano <maltamirano@colmex.mx>,
+GABRIEL LEONARDO NEGRETTO <gabriel.negretto@cide.edu>,
+Willibald Sonnleitner <wsonnleitner@colmex.mx>,
+
+*** Preferencias fecha
+x no puede 1,2,3a
+| nom     | 19may | 26may |  2jun |
+|---------+-------+-------+-------|
+| Vidal   |     x |     1 |     1 |
+| Moreno  |     1 |     1 | elec! |
+| Simpser |     1 |     2 |     3 |
+| Lucardi |     1 |     1 |     1 |
+
+*** Mail invitación
+Estimados colegas, escribo con un mes de atraso para convocarlos al taller *La ciencia política desde México* en su edición 2017. Sé que mencionamos la posibilidad de una sede itinerante pero nunca le di seguimiento al plan. Por ende, repetiremos en la Casa de la Marquesa y su lindo jardín. La fecha será el viernes 26 de mayo de 2017.
+
+Para quienes no participaron el año pasado, el taller contempla reunir a un grupo pequeño de politólogos con orientación empírica y establecidos en el DF. A lo largo de un día, presentaremos y discutiremos trabajos recientes, preferiblemente en sus etapas iniciales. Además de un ejercicio intelectualmente estimulante, el taller del año pasado fue una oportunidad para estrechar lazos entre académicos con afinidades en el método. 
+
+Les ruego que me hagan saber si les interesa participar y si les gustaría hacerlo en calidad de presentador, de comentarista, de ambos o sólo como público. En cuanto tenga una masa crítica de respuestas les escribiré con una propuesta concreta. Les deseo una buena noche.
+
+-e
+
+[[http://ericmagar.com/taller][Vínculo al evento pasado]]
+
+*** Mail 3 semanas
+Estimados colegas, estamos a menos de tres semanas de nuestro taller y con mucha expectativa de verlos. Escribo con información logística para el evento. Como describí en la invitación, el plan es juntar a un grupo de investigadores con inclinación empírica basados en la ciudad. La reunión permitirá, espero, estrechar relaciones y enterarnos de lo que estamos trabajando. El taller hará hincapié en la retroalimentación temprana hacia los proyectos, razón por la que los invité a enviar trabajos en sus etapas iniciales (también habrá trabajos más avanzados, dependiendo de lo cada invitado ha podido preparar en estos meses). 
+
+Arián Montiel (a quien copio) posiblemente les escribirá para afinar detalles particulares. 
+
+El taller está programado para el viernes 26 de mayo en las instalaciones del ITAM en Río Hondo (https://www.itam.mx/es/ubicacion/ubicacion.php). Arrancaremos a las 9am (habrá café desde las 8:15) y trabajaremos hasta las 5:30pm (con un almuerzo después del medio día). Para cerrar, nos trasladaremos al jardín para tomar unas cervezas y comer una parrillada después de la larga jornada. 
+
+Encontrarán el programa provisional en http:/ericmagar.com/taller/index.html. He organizado los trabajos en temas (más o menos) afines. No he incluido a quienes no enviaron un título, pero su presencia en el público enriquecerá la discusión.  
+
+Se desprende lo anterior que no espero que circulen un paper. Bastará un borrador que incluya la pregunta de investigación y los detalles del diseño. Obvio, si tuvieran ya un paper, mándenlo. Subiré todo a la red para la distribución.
+
+Como el año pasado, cada presentador contará con 12 minutos para presentar las líneas centrales de su trabajo, de modo que queden tiempo para la discusión.
+
+Les pido que por favor me manden lo siguiente *en el transcurso de esta semana*:
+(1) confirmación de si se quedarán al almuerzo, a las cervezas/parrillada, a ambas o a ninguna para contar porciones;
+(2) visto bueno del título de su trabajo que he puesto en el programa provisional, para cambiarlo si fuera necesario;
+(3) si vendrán en coche, su modelo y placas, para que no les cobren el estacionamiento.
+
+Y, *a más tardar el 24 de mayo*: 
+(4) el paper o apuntes que deseen circular entre los participantes, para subirlos a la página del evento y tener tiempo de leerlo.
+
+Hasta pronto. 
+
+-Eric
+
+*** Mail 1 semana 
+Estimados colegas,
+Van un par de anuncios finales para nuestro Taller de este viernes. 
+El evento será en la Casa de la Marquesa, a un costado del ITAM de Río Hondo. Encontrarán el mapa aquí.
+Hice un par de cambios al programa (que pueden ver aquí). 1. Atrasé el inicio media hora, para arrancar a las 9:15 en vez de las 8:45. Habrá café en el vestíbulo desde las 8:30 para quienes lleguen temprano. 2. E invertí el orden de las segunda y tercera mesas para que alguien pueda partir antes del almuerzo. 
+Igual que el año pasado, tendrán *10 minutos* para presentar su trabajo. Esto dejará tiempo suficiente para la discusión (50 minutos por mesa). Si quieren circularlo antes del taller, manden el paper o apuntes para subirlo al sitio web.
+Si traerán coche y no lo han hecho, por favor manden placas/modelo para que les den acceso al estacionamiento de profesores (de lo contrario, les cobrarán el boleto en el estacionamiento de alumnos).
+Y, para contabilizar, estoy dando por hecho que todos los que no me han avisado se quedarán al almuerzo y la taquiza/cervezas, y que nadie es vegetariano o requiere alimentos especiales. Manden una nota si esto no fuera correcto. 
+Los espero este viernes
+*** Invitados
+*Allyson Benton*                      (CIDE)
+*Carolina Garriga*                    (CIDE)
+*Juan Cruz Olmeda*                    (COLMEX)
+*Alberto Simpser*                     (ITAM)
+*Alejandro Díaz*                      (Tec)
+*Luis de la Calle*                    (CIDE)
+*Vidal Romero*                        (ITAM)
+*Fernanda Somuano*                    (COLMEX)
+*Alvaro López Lara*                   (UAM-X)
+*Joy Langston*                        (CIDE)
+*Juan Pablo Micozzi*                  (ITAM)
+*Julio Ríos*                          (IIJ/CIDE)
+*Javier Márquez*                      (Buendía Laredo y Asocs.)
+*Eric Magar*                          (ITAM)
+*Adrián Lucardi*
+*Sergio Silva*
+*Alejandro Poiré*
+*Jeff Weldon*
+*Federico Estévez*
+*Pepe Merino*
+*Karina Ansolabehere*
+*Mireya Vilar*
+*Christina Wagner* (ITAM)
+*Melina Altamirano* (COLMEX) maltamirano@colmex.mx
+*Alejandro Moreno*
+*Gabriel Negretto*
+*Laura Flamand*                       (COLMEX)
+*Willibald Sonnleitner*               (COLMEX)
+Quizás no
+*Sandra Ley*
+*Alejandra Ríos*                      (CIDE)
+2nd round?
+*Emilio Gutiérrez*
+*** Respuestas
+| nombre                 | coche                    | lunch | cena  | paper                                                                                                                                                |
+|------------------------+--------------------------+-------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Julio Ríos             |                          | Sí    | Sí    |                                                                                                                                                      |
+| Federico Estévez       | No need                  | Sí    | Sí    |                                                                                                                                                      |
+| Alejandro Moreno       | No need                  |       |       |                                                                                                                                                      |
+|------------------------+--------------------------+-------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Adrián Lucardi         | No need (no queso)       | Sí    | Sí    | Strength in Expectation Elections, Economic Performance and Authoritarian Breakdown                                                                  |
+| Alberto Simpser        | No need                  | Sí    | Sí    | It isn't vote counters who count, but how many votes they have to count: evidence on the quality of vote counting in Mexican elections               |
+| Allyson Benton         | Subaru Forrester, 111XEX | Sí    | Sí    | Indebted to Your Friends and Enemies: The Mechanics of Subnational Debt Policy Diffusion in Mexico                                                   |
+| Alvaro López Lara      | Voyager Gris, 436TKU     | Sí    | Sí    | De la hegemonía a la fragmentación La difusión de los sistemas electorales mixtos y el pluralismo en los congresos locales de México                 |
+| Brian Phillips         |                          | Sí    | No    | Indiscriminate vs. selective repression: Evidence from Argentina’s Dirty War                                                                         |
+| Emilio Gutiérrez (2-3) | No need                  |       |       | (c Alonso Ahumada y JR Enríquez) Identification of Dynastic Power in Contexts with Spanish Naming Conventions                                        |
+| Eric Magar             | No need                  | Sí    | Sí    | Chile                                                                                                                                                |
+| Fernanda Somuano       |                          | No    | No    | Capacidades estatales y participación política en México: un análisis subnacional                                                                    |
+| Jeff Weldon            | No need                  | Sí    | Sí    | mail                                                                                                                                                 |
+| Juan Cruz Olmeda (2)   | Chevrolet Spark 191-XJL  | Sí(2) | Sí(2) | (c Lisandro Devoto) Evaluating the success of electoral coalitions at the subnational level. Evidence from legislative elections in Mexico 2000-2016 |
+| Juan Pablo Micozzi     | No need                  | Sí    | Sí    | Gender Quotas, Women’s Substantive Representation, and Cosponsorship Activity in Argentina                                                           |
+| Karina Ansolabehere    | Honda Pilot 526-YJA      | Sí    | Sí    | Fidelidad concentrada. Difusión de innovaciones sobre derechos humanos de la SCJ en las instancias inferiores del poder judicial.                    |
+| Mireya Vilar           |                          | No    | No    | Inseguridad alimentaria en México desde un enfoque de economía política y utilizando modelos jerárquicos                                             |
+| Pepe Merino            | No need                  | No    | No    | mail                                                                                                                                                 |
+| Vidal Romero           | No need                  | No    | Sí    | The Perils to Order and Security in Cuba's Transition to Democracy                                                                                   |
+| Arián                  | No need                  | Sí    | Sí    |                                                                                                                                                      |
+| Otra fac menor         | No need                  | Sí    | Sí    |                                                                                                                                                      |
+|------------------------+--------------------------+-------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Luis de la Calle       | No Pudo                  | No    | No    | Socialism, Civil War, and State Capacity (*POR LA TARDE*)                                                                                            |
+| Carolina Garriga       | No pudo                  |       |       |                                                                                                                                                      |
+| Joy Langston           | no pudo                  |       |       |                                                                                                                                                      |
+| Melina Altamirano      | no pudo                  |       |       |                                                                                                                                                      |
+| Willibald Sonnleitner  | no pudo                  |       |       |                                                                                                                                                      |
+| Laura Flamand          | cancel últHora           |       |       | c Lorena Moscovich (U S Andrés) Determinantes del desvío burocrático subnacional en la implementación de políticas públicas en Argentina y México    |
+|------------------------+--------------------------+-------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Christina Wagner       | No resp                  |       |       |                                                                                                                                                      |
+| Sergio Silva           | no resp                  |       |       |                                                                                                                                                      |
+| Alejandro Díaz         | no resp                  |       |       |                                                                                                                                                      |
+| Alejandro Poiré        | no resp                  |       |       |                                                                                                                                                      |
+| Gabriel Negretto       | no resp                  |       |       |                                                                                                                                                      |
+| Javier Márquez         | no resp                  |       |       |                                                                                                                                                      |
+|------------------------+--------------------------+-------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+*** DONE A Laura y Micaela les confirmé 18-22 participantes
+
+** DONE Edición 2016 <2016-05-13 Fri>
+# *** Programa (para exportar en html)
+# #+TITLE: Taller /La ciencia política desde México/
+# #+SUBTITLE: viernes 13 de mayo 2016
+# #+OPTIONS: toc:nil
+# #+ATTR_HTML: :alt logo :title logoITAM! :align center :width 7%
+# [[./logoitam.gif]]
+# #+ATTR_HTML: :alt logo :title logoITAM! :align center :width 90%
+# [[./fotoTodos.png]]
+
+# Campus Río Hondo, [[./mapaRHanotado.pdf][Casa de la Marquesa]]
+
+# *** Café (8:15-8:45)
+# *** Presentación (8:45-9)
+# *** Mesa de política subnacional (9-10:30)
+
+# *Alejandra Ríos*                      (CIDE)    [[./160513-Rios-Cazares.pptx][Condicionantes de la transparencia gubernamental: evidencia desde México estatal]]
+
+# *Allyson Benton*                      (CIDE)    [[./160322BentonCrime&Debt8.pdf][Crime and Capital Market Punishment: How Violent Crime Affects the Supply of Debt to Municipal Mexico]]
+
+# *Carolina Garriga*                    (CIDE)    [[./garrigaAbstract.pdf][Foreign Investors' Subnational Political Preferences in Mexico]]
+
+# *Laura Flamand y Juan Cruz Olmeda*    (COLMEX)  [[./BargainingTogetherOrNot-FlamandOlmeda-ITAM.pdf][Associations of governors in Latin America]]
+
+# *** Mesa de economía política (10:45-12:15)
+
+# *Alberto Simpser y Marc Grau*         (ITAM)    [[./simpserAbstract.pdf][Does corruption respond to political competition?]]
+
+# *Alejandro Díaz*                      (Tec)     [[./diaz-cct-programs-religious.pdf][Is there a Religious Coping Effect on Conditional Cash Transfer Programs Enrollment in Latin America?]]
+
+# *Luz Marina Arias y Luis de la Calle* (CIDE)    The Legacy of War Dynamics on Fiscal Capacity Building: Mexico during the 19th Century
+
+# *Vidal Romero*                        (ITAM)    [[./VidalRomero_MoneyLaundering_v2.0.pdf][La ropa sucia se lava en casa: Money laundering and incentives' disconnect between national and local authorities]]
+
+# *** Refrigerio (12:15-1:30)
+# *** Mesa de ideología y política legislativa (1:30-3)
+
+# *Fernanda Somuano y Juan Cruz Olmeda* (COLMEX)  [[./somuano.olmeda_LeftRightLA 9_05_2016.pdf][What does it mean to be in the Left or in the Right in Latin America?]]
+
+# *Alvaro López Lara*                   (UAM-X)   [[http://ericmagar.com/taller/Mapa_Ideologico_Lopez_Lara.pdf][El mapa ideológico de las legislaturas estatales en México]]
+
+# *Joy Langston*                        (CIDE)    [[./joyPres.pptx][Clientelist Parties and Congressional Campaigns]]
+
+# *Juan Pablo Micozzi*                  (ITAM)    [[./Aleman_Micozzi_Ramirez_mpsa_2016_v2.pdf][The Hidden Electoral Connection: Analyzing Information Requests in the Chilean Congress]]
+
+# *** Mesa de nuevas agendas: cortes y geografía electoral (3:15-4:45)
+
+# *Andrea Pozas y Julio Ríos*           (IIJ/CIDE) [[http://ericmagar.com/taller/pozas.riosJudicialClienteleNetworksv7.pdf][Birth and Development of Judicial Clientelistic Networks in Mexico, 1917-1994]]
+
+# *Javier Márquez*                      (BuendíaLaredo y Asocs.)     [[./presentacionMarquez.pdf][De votos a curules: Elección intermedia de 2015]]
+
+# *Willibald Sonnleitner*               (COLMEX)  [[./sonnleitnerAbstract.pdf][Dinámicas territoriales de la fragmentación del sistema de partidos mexicano]]
+
+# *Eric Magar*                          (ITAM)    [[http://ericmagar.com/taller/redMexPartyStrategy.pdf][Automated redistricting and partisan strategic interaction in Mexico]]
+
+# *** Comentarios finales (4:45-5)
+# *** Cervezas _heladas_ y parrillada mexicana (5-6:30)
+*** Título del evento: Taller *La ciencia política desde México*
+*** Pendientes 
+**** Isabel
+***** WAIT Investigar cómo le hacemos con el café
+**** WAIT Coordinar con Laura tipo de sándwiches
+**** WAIT Mandar mail pidiendo modelo/color/placas de auto de cada participante
+**** DONE Que organice 4 ó 5 mesas en el día (darle mi borrador y los nombres)
+     CLOSED: [2016-04-20 Wed 22:21]
+**** WAIT Que llame a la parrilla para pedir presupuesto, también de preparar las hamburguesas
+**** WAIT Que investigue como pedir café y su entrega con nombre --- Nespresso?
+**** Que haga relación sección-distrito local de nl, oax y ver
+*** Eric
+**** DONE Pedir lana con Vidal
+     CLOSED: [2016-04-14 Thu 12:55]
+**** DROPPED Decirle a FEE y a Jeff que sean comentaristas
+     CLOSED: [2016-04-20 Wed 22:21]
+**** DONE Pedir ayuda a Isabel el día del evento
+     CLOSED: [2016-04-14 Thu 12:55]
+**** DONE Pedir ayuda a Paola y Fac Menor el día del evento
+     CLOSED: [2016-04-14 Thu 12:55]
+**** DONE Preparar el programa para publicar
+     CLOSED: [2016-04-20 Wed 22:22]
+*** DONE Mail a Domínguez
+Hola Jorge,
+
+Valentina, mi esposa que trabaja en Colmex, me ha dicho que estás de visita sabática. Si tu agenda lo permite, nos encantaría invitarte a almorzar o a cenar próximamente.
+
+También quisiera preguntarte si aún estarás en DF el viernes 13 de mayo ya que estoy organizando un workshop para discutir investigación en sus etapas iniciales y me encantaría contar con tu participación. Si te interesara, podrías optar por ser presentador, comentarista, ambos o de estar solamente en el auditorio.
+
+Han confirmado su asistencia al workshop las siguientes personas:
+
+Alberto Simpser     (itam)
+Alejandra Ríos      (cide)
+Alejandro Díaz      (tec)
+Alejandro Poiré     (tec)
+Allyson Benton      (cide)
+Alvaro López Lara   (uam-x)
+Carolina Garriga    (cide)
+Fernanda Somuano    (colmex)
+Javier Márquez      (pollster)
+Joy Langston        (cide)
+Juan Cruz Olmeda    (colmex)
+Juan Pablo Micozzi  (itam)
+Julio Ríos Figueroa (cide)
+Laura Flamand       (colmex)
+Luis de la Calle    (cide)
+Rosario Aguilar     (cide)
+
+(Notarás en la lista que los nombres con A son más numerosos que los nombres con J --- tu inclusión determinaría el empate!)
+
+Aprovecho para mandarte un fuerte abrazo.
+-e
+
+*** DONE Mail invitación 
+Estimados colegas, Les escribo para sondear interés en juntarnos a finales del año escolar en un taller para discutir nuestra investigación. Varios de los incluidos en la lista hemos rebotado, desde hace algún tiempo, la idea de reunir un grupo pequeño de politólogos con orientación empírica y establecidos en el DF. A lo largo de un día, presentaríamos y discutiríamos trabajos recientes, preferiblemente en sus etapas iniciales. Sería un ejercicio intelectualmente estimulante y una oportunidad para fortalecer lazos entre académicos con afinidades en el método. Les ruego que expresen su preferencia de fecha entre los viernes 6 o 13 de mayo de 2016, o si de plano no pueden esos días. Digan también si les interesaría participar en calidad de presentador, de comentarista, de ambos o sólo en el auditorio. En cuanto tenga una masa crítica de respuestas les escribiré con una propuesta concreta. Les deseo un buen jueves,
+*** DONE Estimados colegas, escribo para dar seguimiento a nuestro taller del 13 de mayo. 
+Quienes aún no lo hayan hecho, les ruego que me envíen un título y breve descripción de lo que presentarán para organizar mesas temáticas. 
+El evento durará todo el día. Por el número de participantes confirmados, tendremos cinco segmentos (8:45am-10:15, 10:30-12pm, 12:15-1:45, sandwiches, 2:45-4:15 y 4:30-6). Cerraremos con un barbecue y cervezas en el jardín del itam a la conclusión de la maratónica sesión.
+Aún falta tomar algunas decisiones acerca del formato de cada segmento, que les haré llegar pronto. 
+Les deseo una feliz Semanta Santa. 
+
+*** DONE Mail 3 sem  
+   CLOSED: [2016-04-22 Fri 18:10]
+Estimados colegas, estamos a tres semanas de nuestro taller y con mucha expectativa de verlos. Escribo con información logística para el evento. Como describí en la invitación, el plan es juntar a un grupo de investigadores con inclinación empírica basados en la ciudad. La reunión permitirá, espero, estrechar relaciones y enterarnos de las agendas que estamos trabajando. Haremos hincapié en el diseño de investigación, por lo cual los invité a enviar trabajos en sus etapas iniciales (también habrá trabajos más avanzados, dependiendo de lo cada invitado ha podido preparar en estos meses). 
+
+Isabel Mejía Fontanot (a quien copio) posiblemente les escribirá para afinar detalles particulares. 
+
+El taller está programado para el viernes 13 de mayo en las instalaciones del ITAM en Río Hondo (https://www.itam.mx/es/ubicacion/ubicacion.php). Arrancaremos a las 9am (habrá café desde las 8:15) y trabajaremos hasta las 5pm (con un refrigerio después del medio día). Para cerrar, nos trasladaremos al jardín para tomar unas cervezas y comer unas hamburguesas de la parrilla después de la larga jornada. 
+
+Encontrarán el programa provisional en http:/ericmagar.com/taller/index.html. He organizado los trabajos en temas (más o menos) afines. No he incluido a aquellos de ustedes que no me enviaron un título, pero su presencia en el público enriquecerá la discusión.  
+
+Se desprende lo anterior que no espero que circulen un paper. Un borrador que incluya un diseño de investigación detallado debería de bastar. Obvio, si tuvieran ya un paper, mándenlo. Subiré todo a la red para la distribución.  
+
+Les pido que por favor me manden lo siguiente *en el transcurso de la próxima semana*:
+(1) confirmación de si se quedarán a la cervezas/hamburguesas, para contar porciones;
+(2) visto bueno del título de su trabajo que he puesto en el programa provisional, para cambiarlo si fuera necesario;
+(3) si vendrán en coche, su modelo y placas, para que no les cobren el estacionamiento.
+
+Y, *a más tardar el 6 de mayo*: 
+(4) el paper o apuntes que deseen circular entre los participantes, para subirlos a la página del evento y tener tiempo de leerlo.
+
+Que tengan un buen día.
+
+-Eric
+*** DONE Mail 1 sem
+   CLOSED: [2016-05-05 Thu 17:20]
+Queridos colegas,
+Escribo a una semana y media de nuestro taller para dar algunas instrucciones finales.
+- El evento será en la Casa de la Marquesa (Gómez Farías 54, aledaña a nuestro campus de Río Hondo). El mapa anexo indica la ubicación de la casa: hay que salir del campus y cruzar la calle. 
+- Si vendrán en coche y no lo han hecho aún, manden el modelo y placas. Hacerlo les dará dos ventajas: acceso al estacionamiento de profesores (más cercano al evento, marcado con círculo rojo en el mapa) y no tendrán que pagar la tarifa de estacionamiento de visitantes. 
+- He subido los papers/diseños/abstracts recibidos a http://ericmagar.com/taller/. Si quisieran circular algo previo al taller, mándenlo a la brevedad, por favor, para subirlo.
+- En una vuelta de destino inesperada (y, quizás, afortunada, ya que permite anticiparnos al resurgimiento de las coaliciones nacionalistas que anuncia la conducta del electorado estadunidense), el menú de hamburguesas al carbón cambiará por una parrillada mexicana con cerveza bien fría. Si no lo han hecho, confirmen si se quedarán, por favor.
+Me dará gusto verlos el viernes 13.
+*** DONE El mail que mandaron desde Austin Zach
+   CLOSED: [2016-04-21 Thu 09:34]
+We look forward to seeing each of you in Austin in April.  We wanted to brief you on our plans for the workshop.  As we described in our invitation to you, our idea is to bring together an empirically-minded group of scholars interested in Latin America and political institutions.  Our goal is to contribute to evidence-based work on constitutions and constitutional design in the region, with the background assumption that *some* of what we do in April will ultimately be of use to those drafting constitutions.  We are also very interested in research design, and for that reason we are interested in discussing work that is in its infancy (as well as more advanced work, depending upon what you have prepared or can do in two months!).  The workshop will be small (and private), which we hope will be conducive to airing exploratory work. 
+Roles.  We imagine that some of you would present, some would discuss, and some might do both, depending upon needs and your willingness.  Clearly, April is almost upon us, so we do not expect anyone to generate anything entirely new.  Rather, we assume (!) that each of you has some research idea that you might work into a short proposal/memo that you could share *or*, failing that, a paper in a more advanced state that would still benefit from feedback.  We are most interested in designs and papers that would analyze original data or analyze existing datasets in original ways.  In terms of fidelity to the topic, we recognize that – like democracy – almost all papers lead back to constitutionalism in some way and so we are amenable to anything that, you believe, falls in that area.  If you are unsure which of your papers/projects would be most appropriate, we would be happy to give you our opinion.
+Logistics.  Paloma Diaz (copied here) will be in touch this week regarding travel.  The events will take place entirely on Friday, April 27, concluding with dinner that evening.  For those of you who will present, we ask that you send your paper/memo by Monday, April 16, so that discussants will have adequate time to digest them.
+We will be in touch in the next several weeks with a schedule (and Paloma will be in touch about logistics).  In the meantime, could you please respond to us with answers to the following questions:
+ 
+*** DONE Confirmados para Laura
+   CLOSED: [2016-04-18 Mon 12:34]
+Hola Laura, te mando el número de participantes confirmados para el evento del viernes 13 de mayo. Tengo 27 contabilizados, 19 presentadores y 8 invitados en el público. Sospecho que se juntarán un puñado más en el público de aquí al evento. Aún espero que me confirmen quienes se quedarán para la parrillada --- dudo mucho que puedan todos.  
+Presentadores: Alberto Simpser, Alejandra Ríos, Alejandro Díaz, Alejandro Poiré, Allyson Benton, Alvaro López Lara, Carolina Garriga, Eric Magar, Fernanda Somuano, Javier Márquez, Joy Langston, Juan Cruz Olmeda, Juan Pablo Micozzi, Julio Ríos Figueroa, Laura Flamand, Luis de la Calle, Luz Marina Arias, Vidal Romero, Willi Sonnleitner, 
+Público: Federico Estévez, Jeff Weldon, Pepe Merino, Horacio Vives, Luis Godoy, Isabel-Paola-Patricia (asistentes)
+
+*** Formato 1: Para incluir a quince presentadores y cinco comentaristas, páneles de 3 papers y 1 comentarista de 8:45-10:15 10:30-12 12:15-1:45 (sandwiches) 2:45-4:15 y 4:30-6pm (barbecue/chelas en el jardín del itam)
+*** Formato 2: Para incluir a diecisiete presentadores sin comentaristas, 3 páneles de 4 papers y 1 de 5 de 8:45-10:15 10:30-12 12:15-1:45 (sandwiches) 2:45-4:15 y 4:30-6pm (barbecue/chelas en el jardín del itam)
+*** Diecisiete papers y diecinueve nombres:
+|----+----+--------------------------------------------+---------+----------------------------------------------------------------------------------------------------------+-----------------|
+|    |    | *Mesa 1: política subnacional*             |         |                                                                                                          |                 |
+|  2 |    | Alejandra Ríos                             | cide-ap | Condicionantes de la transparencia gubernamental: evidencia desde México estatal                         | trans - fed     |
+|  7 |    | Carolina Garriga                           | cide    | Foreign Investors’ Subnational Political Preferences in Mx                                               | ecoPol - fed    |
+| 14 |    | Laura Flamand  y Juan Cruz Olmeda          | colmex  | Associations of governors in Latin America                                                               | Fed - sop       |
+|  5 |    | Allyson Benton                             | cide    | Crime and Capital Market Punishment: How Violent Crime Affects the Supply of Debt to Municipal Mexico    | ecopol - fed    |
+|    |    | *Mesa 2: economía política*                |         |                                                                                                          |                 |
+|  1 |    | Alberto Simpser                            | itam    | Does corruption respond to political competition? (abstract)                                             | ecoPol          |
+|  3 |    | Alejandro Díaz                             | tec     | Is there a Religious Coping Effect on Conditional Cash Transfer Programs Enrollment in Latin America?    | ecoPol - amlat  |
+| 15 |    | Luis de la Calle y Luz Marina Arias        | cide    | The Legacy of War Dynamics on Fiscal Capacity Building: Mexico during the 19th Century                   | ecopol - fiscal |
+| 16 |    | Vidal Romero                               | itam    | Dirty laundry is washed at home: Money laundering and incentives’ disconnect between nat-loc authorities |                 |
+|    |    | *Mesa 3: ideología y política legislativa* |         |                                                                                                          |                 |
+|  9 |    | Fernanda Somuano y Juan Cruz Olmeda        | colmex  | Opinión pública e ideología en América Latina                                                            | opub -ideol     |
+|  6 |    | Alvaro López Lara                          | uam-x   | El mapa ideológico de las legislaturas estatales en México                                               | leg - ideol     |
+| 11 |    | Joy Langston                               | cide    | Clientelist Parties and Congressional Campaigns                                                          | leg - client    |
+| 12 |    | Juan Pablo Micozzi                         | itam    | The Hidden Electoral Connection: Analyzing Information Requests in the Chilean Congress                  | leg - amlat     |
+|    |    | *Mesa 4: nueva agenda: geografía y cortes* |         |                                                                                                          |                 |
+| 13 |    | Julio Ríos Figueroa                        | cide    | Clientelism/merit in Mx federal courts 1917--94                                                          | Crts patrong    |
+| 10 |    | Javier Márquez                             | bla     | Cómo ganó el PRI más diputados en 2015 con menos votos                                                   | leg - elec      |
+| 17 |    | Willi Sonnleitner                          | colmex  | Dinámicas territoriales de la fragmentación del sis part mx                                              | Els geo         |
+|  8 |    | Eric Magar                                 | itam    | Redistritación y estrategia partidista                                                                   | leg             |
+|    |    | *Dónde*                                    |         |                                                                                                          |                 |
+|  4 |    | Alejandro Poiré                            | tec     | TBA                                                                                                      |                 |
+|----+----+--------------------------------------------+---------+----------------------------------------------------------------------------------------------------------+-----------------|
+*** Confirmados hamburguesa y coche
+|---------------------+-------+-------+------------+-----------------+-----------------|
+| Quien               | paper | sandw | parrillada | coche           | status          |
+|---------------------+-------+-------+------------+-----------------+-----------------|
+| Alberto Simpser     | abs   | Sí    | Sí?        | NA              | llamar          |
+| Alejandra Ríos      |       | Sí    | No         | jeep MCE-7686   | ok              |
+| Alejandro Díaz      |       | Sí    | Sí?        |                 | llamar          |
+| Allyson Benton      | ok    | Sí    | Sí         | Subaru 111-XEX  | ok              |
+| Alvaro López Lara   | abs   | Sí    | Sí         | Voyager 436-TKU | ok              |
+| Andrea Pozas        | ok    | No?   | No?        |                 | espero resp     |
+| Carolina Garriga    | abs   | Sí    | Sí         |                 | ok              |
+| Eric Magar          | ok    | Sí    | Sí         | NA              | ok              |
+| Fernanda Somuano    | ok    | Sí    | Sí         |                 | ok              |
+| Javier Márquez      | ok    | Sí    | Sí?        |                 | ok              |
+| Joy Langston        |       | Sí    | Sí?        |                 | llamar          |
+| Juan Cruz Olmeda    | ok    | Sí    | Sí         | Spark 191-XJL   | ok              |
+| Juan Pablo Micozzi  | ok    | Sí    | Sí         | NA              | ok              |
+| Julio Ríos Figueroa | ok    | Sí    | Sí         | Scala 792-XYH   | ok              |
+| Laura Flamand       | ok    | Sí    | Sí         | Suzuki 515-ZNZ  | veget ovoláctea |
+| Luis de la Calle    |       | Sí    | Sí         | taxi            | ok              |
+| Luz Marina Arias    |       | Sí    | No         | taxi            | ok              |
+| Vidal Romero        | ok    | Sí    | Sí         | NA              | ok              |
+| Willi Sonnleitner   | abs   | Sí    | Sí         | Corolla 987-YMC | ok              |
+|---------------------+-------+-------+------------+-----------------+-----------------|
+| Alejandro Poiré     | NA    | No    | No         | No              | ok              |
+| Federico Estévez    | NA    | Sí    | Sí         | NA              | ok              |
+| Jeff Weldon         | NA    | Sí    | Sí         | NA              | ok              |
+| Pepe Merino         | NA    | No    | No         | NA              | ok              |
+| Alexa Uribe         | NA    | No    | No         | NA              | ok              |
+| Marta Cebollada     | NA    | Sí    | No         | NA              | ok              |
+| Felipe Curcó        | NA    | No    | No         | NA              | ok              |
+| Sergio Silva        | NA    | No    | No         | NA              | ok              |
+| Gema Santamaría     | NA    | No    | No         | NA              | ok              |
+| Christina Faegri    | NA    | Sí    | No         | NA              | ok              |
+|---------------------+-------+-------+------------+-----------------+-----------------|
+| Isabel Mejía F.     | NA    | Sí    | Sí         | NA              | ok              |
+| Paola López         | NA    | Sí    | Sí         | NA              | ok              |
+| Aída Bustos         | NA    | Sí    | Sí         | NA              | ok              |
+|---------------------+-------+-------+------------+-----------------+-----------------|
+
+*** Invitados a la mesa como público
+**** DONE Federico Estévez 
+**** DONE Jeff Weldon
+    CLOSED: [2016-04-21 Thu 09:49]
+**** DONE Isabel
+    CLOSED: [2016-04-21 Thu 09:49]
+**** Paola
+**** Pepe Merino (por mandar mail)
+**** Gema Santamaría (por mandar mail)
+**** 
+**** Invitados en 2a ronda
+1. Enviados
+   - Jorge Domínguez          :: no puede
+2. Por enviar
+   - Karina Ansolabehere flacso
+3. Posibles extras/remplazos:
+   - Francisco Cantú uh/itam
+   - Guillermo Rosas washU/itam
+   - Pepe Merino itam
+   - Gilles Serra cide
+   - Javier Aparicio cide
+   - Reynaldo Ortega colmex
+**** Dijeron que no / no reply:
+   - Negreto :: no reply
+   - Alejandro Moreno :: sólo puede el 6
+   - Federico Estévez :: no reply
+   - Jeff Weldon :: no reply
+   - Rosario Aguilar :: canceló <2016-03-28 Mon>
+*** DONE Posible keynote speaker
+   CLOSED: [2016-04-22 Fri 18:10]
+   - Domínguez :: no puede
+   - Estévez
+   - Loaeza (!)
+*** Calendario para evento
+- <2016-03-04 Fri> reservar Sta Teresa just in case no sale la casa marquesa
+- <2016-03-21 Fri> mandar mail con petición de tema/título de paper
+- <2016-04-01 Fri> hacer presupuesto para pedir fondos itam: sandwiches, café, hamburguesas, chelas
+- <2016-04-01 Fri> investigar como se registra en conacyt
+- <2016-04-20 Wed> fecha envío papers/borradores
+- <2016-05-13 Fri> evento
+*** DONE Flier para Laura
+   CLOSED: [2016-04-22 Fri 18:10]
+Título del evento: Taller La ciencia política desde México
+Fecha del evento: viernes 13 de mayo de 2016
+Organizador: Dr. Eric Magar Meurs, Depto. de Ciencia Política
+Descripción. El evento reunirá en las instalaciones del ITAM, a lo largo de un día entero, a un grupo pequeño de politólogos de instituciones de la ciudad. He invitado a investigadores con orientación empírica y áreas de especialización diversas. El formato será tipo /workshop/ para que cada participante tenga oportunidad de presentar investigación reciente, preferiblemente en sus etapas iniciales, y reciba críticas y sugerencias de los demás. Sera un ejercicio intelectualmente estimulante y una oportunidad para tejer y fortalecer lazos entre académicos con afinidades en el método. 
+Si el evento saliera bien, podría repetirse periódicamente y, quizás, ser la semilla de una organización profesional. 
+Formato: Para incluir a quince presentadores y cinco comentaristas, habrá 5 páneles de 3 papers y 1 comentarista. Los horarios tentativos serán los siguientes. 
+8:45-10:15 pánel 1
+10:30-12 pánel 2
+12:15-1:45 pánel 3
+1:45-2:45 Almuerzo ligero (sándwiches) 
+2:45-4:15 pánel 4 
+4:30-6 pánel 5
+6-7:30 hamburguesas asadas y cervezas en el jardín del itam
+Invitados que han confirmado su participación:
+Alberto Simpser     (itam)
+Alejandra Ríos      (cide)
+Alejandro Díaz      (tec)
+Allyson Benton      (cide)
+Eric Magar          (itam)
+Fernanda Somuano    (colmex)
+Javier Márquez      (buendía-laredo)
+Joy Langston        (cide)
+Juan Cruz Olmeda    (colmex)
+Juan Pablo Micozzi  (itam)
+Julio Ríos Figueroa (cide)
+Laura Flamand       (colmex)
+Luis de la Calle    (cide)
+Rosario Aguilar     (cide)
+Vidal Romero        (itam)
+Habrá también 5 comentaristas (por confirmar) e invitaremos a algunos alumnos avanzados con interés en la investigación al auditorio (por los exámenes finales, anticipo que pocos puedan asistir).
+
+*** notas
+**** alej rios
+- acceso a la info en el mundo, legislacion adoptada en mundo
+- emm dar derecho neq acceso efectivo neq trasparecnia
+- procesos
+- emm poder *replicar el proceso*
+- emm correl gracias a outlier sw
+**** allyson violent crime n debt 
+- emm crime lowers supply only at *constant int rate* control ok for yr?
+- emm crime n punishment *simultaneity* additional pbm
+- *finer-grained data*: rate of next loan after kick in homicide 
+**** carolina fdi pref pty
+- emm brasil, arg, alemania, canadá, australia, eeuu
+- emm *pbma izq der subnacional en mx*
+- controlas por *nivel?* quizás atenúe el efecto prd
+**** laura y juan conagos
+- qué casos puedes añadir para ver más varianza en contexto? brasil
+- *más DVs?* acciones, procedimientos
+
+**** simpser y grau
+- 2 obs x 149 munic, encuestas
+- pierde pri --> baja experiencia corrupcion
+- 1st dif? efectos
+**** alej diaz
+- muy religiosos se encomiendan a dios o tienen welfare privado?
+- cuál es *baseline* de dummies catol, prot, ev
+**** de la calle y arias
+- arg tillyano
+- simult: quizas estallamiento es exóg, pero sitios que *recupera* Virrey parecen endógenas
+- cómo controlas *potencial fiscal*? pirámides?
+- finer-grained data?
+**** vidal
+- p/a framework
+- *drop* aca mty post intervencion fed? perverse result?
+- quizás crecim no es lavado, y atrae violencia?
+
+**** somuano cruz
+- *aldrich-mckelvey* to the rescue
+- *estévez-magaloni* beyond l/r
+- anclas eeuu cuba Saiegh
+- cruzar c salamanca
+**** lopez lara
+- roll calls 12 estados, 2 legislaturas
+- cómo *anclas* izq-der - mejor common space
+- *usar puentes*
+**** joy
+- count DV
+- look at *recently split priistas*, should remain above avg
+**** micozzi
+- beyond roll calls
+- *Question time a la Cox*
+- oficios = written parl Q, free for all
+- emm haz conexion Cox: QT surge con auge del partido y muerte del private MP
+- *proposiciones Mx*
+
+**** andrea julio
+- inst endogenas
+- merito vs conexiones
+**** javier
+- 2018
+
+simulaciones
+who's the party
+rage vs machine --> secc 
+cj pref maq --> need 2 understand how discard pty
+cabeceras --> chg apport, check
+100 --> tipo GRE
+ante fragmentacion, importa redistritacion
+
+*** DONE Mail para retardatarios: 
+Hola Alejandro, escribo para pedirte un título o tema de lo que presentarás en el taller del 13 de mayo. Quiero organizar mesas (más o menos) temáticas. Aún no he decidido el formato exacto del taller, pero anticipo que circular un paper no será necesario --- bastará con un diseño de investigación o incluso una serie de intuiciones que permitan distutir el potencial del proyecto. Obvio, mientras más desarrollado esté lo que mandes, será más fácil dar recomendaciones concretas. Mandaré instrucciones pronto. Mientras, espero tu título. Espero que todo vaya bien detrás de la máscara de gas mostaza. Saludos, -e
+* Fin
+
