@@ -1,6 +1,39 @@
 #+SEQ_TODO: TODO WAIT TEST URGENT! | DONE DROPPED
 
-
+* ToDo general
+** TODO Cómo se mete una slide en un itemize de presentación LaTeX (digresión que regrese al siguiente item)
+** TODO Cómo se mete un cronómetro/reloj en la presentación LaTeX
+** TODO Retomar INE
+** TODO rc57, rc58, rc59
+** TODO rc62, rc63 (comparten mapa distrital con 60 y 61, hechas)
+** TODO Que Vala arregle pasar por escrituras de la casa
+** DONE Cita Dr Lipkau para preguntarle si sustituye a Washington
+** TODO Cita Dra Ma Cristina Mtz que dejó Hidalgo en su consultorio: conocerla 5584-2133
+** DONE Urólogo
+** DONE Testamentos, recogerlos y cambiar a Cristina por Val!
+** TODO Terminar draft Brasil MPs
+** TODO Terminar draft Brasil Scheduling
+** TODO Mail a Gary
+** TODO Brasil: www.neci.fflch.usp.br
+** TODO Brasil: Andréa Freitas buscar su trabajo de coalición
+** TODO Brasil: Buscar tesis USP Fernanda Maquiavelli sobre MPs antes/desp reforma
+** TODO Uruguay: constructive veto's fit in book
+** TODO México: ALDF's fit in book
+** TODO Chile: mapa distritos antes/hoy, población distrital antes/hoy
+** TODO Chile: enviar datos/código Urgencias a Ges y Valeria
+** DONE Cita Paris Starbucks Altavista <2016-03-10 Thu> 4pm
+* VAIL 2022
+- [X] Renovar e.firma
+- [X] Maleta de Iza
+- [X] Pruebas covid
+- [ ] Buscar sábanas
+- [X] Marco para Iza
+- [X] Clases de yoga para Iza
+- [X] Envolver regalos
+- [X] Toño Puebla: $ y posponer 1 semana
+- [X] Mail a María
+- [X] Empacar
+- [X] renta coche
 * org-agenda bindings
 ** C-c [     add current file to list of agenda files
 ** C-c ]     drop current file to list of agenda files
@@ -29,11 +62,21 @@
 - [ ] grin
 - [ ] bicis verdes
 - [ ] bicis naranja
-* Eventos mis 50
+* Eventos mis cincuenta y dos 52
 ** Peregrinación a Chalma
 ** Viaje a Ensenada
 ** Viaje al Peyote
-
+** Velero en el Mar de Cortés
+** Campamento
+** Gatherings
+*** DONE Comida Milore, Juan, Jesús <2020-01-11 Sat>
+*** DONE Caminata Ajusco con Dwight <2020-02-15 Sat>
+*** DONE Cena con Tortolero, Ivabelle, Rodrigo, Cristina <2020-01-23 Thu>
+*** DONE Cena con Vanesa <2020-03-03 Tue>
+*** Comida con Papús, Rafis, Adriana y Jacobo Lieberman
+*** Cena con Danielle y Bernardo
+*** Visitar a Paulit, Abe, Emily
+*** Visitar a Verónica y Douglas
 * Cap Moreno
 - Opción 1: fin de la partidocracia y la incógnita del formato para el nuevo árbitro
 - Opción 2: 
@@ -41,23 +84,17 @@
 - Incumbency advantage en elecciones municipales
 - Usar la medida de voto normal vía residuales como expectativa
 - Controles clásicos, patrones de alternancia, core/swing, dIncumbentRunning
-* MPSA
-Title: Electoral rules and the geography of policy
-Authors: Adrián Lucardi and Eric Magar
-Abstract: We investigate the geographic policy implications of electoral systems. Specifically, splitting a multi-member district into multiple single-member districts will spread the geographic locus of representation, and therefore create incentives to reallocate some policy from the densely populated center towards the periphery. We rely on a diff-in-diff matching design to gauge the effects of such reform with data on public good provision in Mexican municipalities in recent decades. Preliminary evidence appears to back our central claims. 
-
 * Pendientes recurrentes
 ** Clases del semestre
-# *** ElecPúb3 <2018-01-16 Tue 10:00-11:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
-# *** PolComp3 <2018-01-16 Tue 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
-# *** ElecPúb3 <2018-01-18 Thu 10:00-11:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
-# *** PolComp3 <2018-01-18 Thu 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w>
+*** ElecPúb3 <2020-08-05 Wed 13:00-14:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+*** PolComp2 <2020-08-05 Wed 17:30-19:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+*** ElecPúb3 <2020-08-10 Mon 13:00-14:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+*** PolComp2 <2020-08-10 Mon 17:30-19:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
 ** Cumples
 *** *Aniversario* boda <2007-06-09 Sat +10y +11y +12y +13y +14y +15y +16y +17y +18y +19y +20y +21y>
      :PROPERTIES:
      :LAST_REPEAT: [2017-06-12 Mon 11:20]
      :END:
-
 *** Cumple *Adriana* <2018-01-27 Sat +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
 *** Cumple *Aurelia* <2011-07-05 Tue +7y +8y +9y +10y +11y +12y +13y +14y +15y +16y>
 *** Cumple *Iza* <1949-02-28 Mon +69y +70y +71y +72y +73y +74y +75y +76y +77y +78y +79y +80y>
@@ -67,7 +104,7 @@ Abstract: We investigate the geographic policy implications of electoral systems
 *** Cumple *Vala* <1975-08-30 Sat +42y +43y +44y +45y +46y +47y +48y +49y +50y +51y>
 *** Cumple *Yvonne* <2017-04-26 Wed +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
      :PROPERTIES:
-     :LAST_REPEAT: [2018-01-24 Wed 13:13]
+     :LAST_REPEAT: [2018-04-07 Sat 13:13]
      :END:
      - State "DROPPED"    from ""           [2018-01-24 Wed 13:13]
      - State "DONE"       GENT!"    [2018-01-19 Fri 08:09]
@@ -75,12 +112,119 @@ Abstract: We investigate the geographic policy implications of electoral systems
      - State "DONE"       from "URGENT!"    [2018-01-19 Fri 08:09]
      - State "DONE"       from "URGENT!"    [2018-01-19 Fri 08:09]
 *** Cumple *Ges* <1973-05-28 Mon + 45y + 46y +47y +48y +49y +50y +51y +52y +53y +54y +55y +56y>
+*** Cumple *Paula* <1968-12-31 Tue +52y +53y +54y +55y +56y>
+
+*** Cumple *Vala* <1975-08-30 Tue +45y +46y +47y +48y +49y + 50y +51y +52y +53y +54y +55y +56y>
 ** Recordatorios
 *** Backup físico <2019-12-02 Mon +1m +2m +3m +4m +5m +6m +7m +7m +8m +9m +10m +11m +12m +13m>
+*** * * -> Inyección de Aurelia <- * * <2020-12-21 Mon>
+*** * * -> Inyección de Aurelia <- * * <2021-03-04 Sun +12w +24w>
 * Pendientes caducos
-** DONE Examen Lorea Urrutxua SA-1 <2019-08-23 Fri 12:00>
-** Comida depto <2020-01-28 Tue 14:30>
-** DONE De Erice <2020-01-20 Mon 15:00>
+** Lista <2021-07-06 Tue>
+- [ ] Código incumbents: pegar race.before a votos -> dincumb_ran
+- [X] Mail Simpser
+- [ ] Llamar a Simpser
+- [-] CBTI
+  - [X] Posponer Elvira 1 semana
+  - [ ] Trabajar en método con 1 hora para mail
+  - [ ] Esbozar contrato conmigo e incentivos
+- [X] Empacar
+- [ ] Mandar gatita con Marichi
+- [X] compras nyse 
+** Lista incumbent reelection
+- [-] Compute elect histories para 2021
+  - [X] Adds dip2021 casilla-level
+  - [X] Verificar v5: major party coalitions 2021 -- split proportionately
+  - [X] Duplicate v21m, one w/coal aggregates for winners, another split for regressions
+  - [ ] Duplicate other yrs too, one w/coal aggregates for winners, another split for regressions
+  - [X] Add 2021 blocks to code
+  - [X] Hunt for new secciones
+  - [ ] AMGE 2018
+  - [ ] Marta: secciones 1991
+** Fériés EFAD
+*** 2021
+**** Férié EFAD <2021-02-05 Fri>
+**** Férié EFAD <2021-02-15 Mon>--<2021-02-19 Fri>
+**** Férié EFAD <2021-03-29 Mon>--<2021-04-02 Fri>
+**** Férié EFAD <2021-05-17 Mon>--<2021-05-21 Fri>
+**** Fin année scolaire EFAD <2021-07-02 Fri>
+** Inyecciones de Aurelia
+*** DONE 1a inyección A fue alrededor de esta fecha <2020-12-19 Sat>
+*** DONE Cita Aurelia Dr Calzada -- inyección <2021-03-04 Thu 17:00>
+*** Se cumplen 12 semanas de inyección de Aurelia <2021-05-27 Thu>
+** Compañía de agua cambio de nombre
+- boleta
+- ine
+- predial 2021
+** DONE Dentista <2021-02-26 Fri 11:30>
+** Tesistas pendientes
+*** DONE Read Cuevas <2020-09-16 Wed 12:00>
+*** DONE Samuel <2020-09-29 Tue 10:30>
+*** DONE Mónica <2021-03-04 Thu>
+** 56 1880 5014 José Manuel Duarte arreglatodo
+** OAS <2020-12-15 Tue>
+** Tesis Mónica <2020-12-11 Fri>
+** Transparency paper <2020-12-10 Thu>
+** TODO Reunión tranparency paper <2020-12-12 Sat 07:00>--<2020-12-11 Fri 09:00>
+** Old
+*** DONE Cita urólogo Fdo Ugarte (55 5564 7837 metropolitano) Tuxpan 10-104 <2020-01-23 Thu 17:00> 
+*** DONE Examen Grimaldi <2020-11-05 Thu 13:00>
+*** DONE Clase git <2020-09-14 Mon 16:00>
+   - aplicación 1: goed
+   - aplicación 2: muertes en ay-incumbents
+*** DONE Aplicación git a goed <2020-09-29 Tue 10:00>
+*** DONE Reporte SNI <2020-09-15 Tue 12:00>
+**** Actividades de investigación
+***** Recopilación de datos
+- Recopilación sistemática de los alcaldes de México y parte de sus biografías para integrar los datos para el análisis de la reelección de partidos (desde 1997) y de alcaldes (desde 2016) en México.
+***** Dictamen de trabajos académicos
+- Sep. 2020, artículo para la revista The Journal of Politics. 
+- Feb. 2020, artículo para la revista Política y Gobierno.
+- Nov. 2019, artículo para la revista The Journal of Politics. 
+***** Comités académicos
+- Nov. 2019--Mar. 2020, miembro del comité de selección del Evan Ringquist Award for best paper in the topic of political institutions, Midwest Political Science Association (la entrega del premio se pospuso para el año entrante por la pandemia). 
+**** Actividades docentes
+***** Cursos impartidos
+- Otoño 2020, Política Comparada II, lic.\ en ciencia política ITAM (48 horas).
+- Otoño 2020, Elección Pública III, lic.\ en ciencia política ITAM (48 horas).
+- Primavera 2020, Política Comparada II, lic.\ en ciencia política ITAM (48 horas).
+- Primavera 2020, Elección Pública III, lic.\ en ciencia política ITAM (48 horas).
+- Otoño 2019, Política Comparada II, lic.\ en ciencia política ITAM (48 horas).
+- Otoño 2019, Elección Pública III, lic.\ en ciencia política ITAM (48 horas).
+***** Asesor de tesis
+- Ago. 2020, Daniel Velasco Chávez "Las elecciones federales de 2018: estudio de una elección crítica
+y el provenir de la democracia mexicana", caso de titulación, ITAM.
+***** Sinodal en exámenes profesionales
+- 3 sep. 2020, José Manzur Lizárraga ``Sesgo de género y efecto partidista en las elecciones federales de 2018'', licenciatura en ciencia política, ITAM. 
+- 3 sep. 2020, Fernanda Garc\'ia S\'anchez ``Liberaci\'on econ\'omica y el crecimiento de la industria cinematogr\'afica mexicana (1980--2019)'', licenciatura en ciencia política, ITAM. 
+- 18 ago. 2020, Daniel Velasco Chávez ``Las elecciones federales de 2018: estudio de una elección crítica y el porvenir de la democracia mexicana'', licenciatura en ciencia política, ITAM. 
+- 12 ago. 2020, Marisol Torres Arroyo ``Desarrollo, bienes públicos y violencia: captura social o captura de élites en los usos y costumbre de Oaxaca'', licenciatura en ciencia política, ITAM. 
+- 12 dic. 2019, Óscar Alcántara Vidaña ``Posición relativa, desigualdad económica y preferencias por redistribución'', licenciatura en ciencia política, ITAM. 
+**** Actividades de apropiación social del conocimiento 
+***** Entradas de blog
+- "La medición de la historia electoral 1994–2018" El blog de CiPol, 6 de nov. 2019.
+***** Bases de datos públicas
+- Repositorio "Recent Mexican Election Vote Returns", https://github.com/emagar/elecRetrns,
+GitHub (última actualización 11 de sep. 2020).
+- Repositorio "Recent Mexican electoral geography", https://github.com/emagar/mxDistritos,
+GitHub (última actualización 26 de nov. 2019).
+**** Publicaciones arbitradas
+***** En revista académica
+- "Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules" con Valeria Palanza y Gisela Sin, The Journal of Politics (por publicarse, https://www.journals.uchicago.edu/doi/abs/10.1086/710015). 
+***** Capítulo en volumen colectivo dictaminado
+- "Floor access in Mexico's Cámara de Diputados" en The Politics of Legislative Debate around the
+World, coord. por Hanna Bäck, Marc Debus y Jorge M. Fernandes (Oxford: Oxford University
+Press, por publicarse en 2021).
+*** DONE Rutina para homologar fechas en aymu a partir de calendarioConcurrencias <2020-09-15 Tue 17:00>
+*** DONE Examen José Manzur <2020-09-03 Thu 10:00>
+*** DONE Examen Fda García  <2020-09-03 Thu 12:00>
+*** DONE Examen Marisol Torres <2020-08-12 Wed 11:15>
+*** DONE Examen Daniel Velasco <2020-08-18 Tue 16:00>
+*** DONE Examen José Roberto del Valle <2020-08-21 Fri 10:00>
+*** DONE Cita Bourse MEX20200300040001 <2020-02-04 Tue 11:30>
+*** DONE Examen prof <2020-03-25 Wed 15:00>
+*** DONE Examen Lorea Urrutxua SA-1 <2019-08-23 Fri 12:00>
+*** DONE Observaciones a De Erice <2020-01-20 Mon 15:00>
 - Intro: elabora muy brevemente por qué esperas lo que dicen tus tres hipótesis 
 - Intro: deberás incluir una hipótesis sobre algún efecto político del delta gasto y su lógica
 - Cuadro 1: usa también datos censo 2010 para contrastar (a) contra encuesta y (b) hogares urbanos vs rurales en estos indicadores
@@ -93,30 +237,13 @@ Abstract: We investigate the geographic policy implications of electoral systems
 - Cuadro 12: Las celdas vacías no representan 0 por ciento sino un valor omitido/censurado. ¿Cómo deberías ajustar los dem'as porcentajes para evitar sesgos?
 - Nuevo cap. que extraiga conclusiones a partir de los tres experimentos contrafactuales que llevaste a cabo. La idea es proyectar tus hallazgos a la cancelación programas sociales que AMLO ha puesto en marcha, y su efecto en hogares rurales. Faltaría discitir como se podría  controlar el efecto de sus nuevos programas. 
 - Lee Díaz Cayeros, Estévez, Magaloni (axexo) en busca de la lógica política del gasto social. Esto te permitirá proponer algunas implicaciones políticas del tema que puedas analizar en otro capítulo nuevo. Cuando tengas esto, pasa a verme para que me explique aspectos que no he entendido y que me propongas tus nuevos capítulos. Mucha suerte. 
-** Tesis Fernanda García <2019-11-28 Thu 17:00> 
-** DONE Cita sueño Marifer <2019-12-11 Wed 8:10>
-** DROPPED Cita Arturo itam <2019-11-25 Mon 19:00>
-** URGENT! Juntar documentos bourse francesa <2020-01-24 Fri>
-** URGENT! Juntar documentos CFE/ASFE <2020-01-24 Fri>
-** DONE Yoga <2020-01-21 Tue 8:30>
-** Clase meditación <2020-01-21 Tue 17:00> <2020-01-28 Tue 17:00> <2020-02-04 Tue 17:00> <2020-02-11 Tue 17:00> <2020-02-18 Tue 17:00> <2020-02-25 Tue 17:00>
-** DONE Cita Daniel <2020-01-23 Thu 13:00>
-** Cita Arturo <2020-01-27 Mon 19:00>
-** Releer Why we sleep <2020-01-21 Tue 11:00>
-** WAIT check vuelos vail <2020-01-24 Fri 11:00>
-** Vuelo mx-denver AM658 <2020-02-21 Fri 9:20>
-** Vuelo denver-mx AM659 <2020-02-29 Sat 13:55>
-** Seminario CiPol <2020-01-23 Thu> <2020-02-06 Thu>  <2020-02-27 Thu> <2020-03-12 Thu>  <2020-03-19 Thu>  <2020-04-23 Thu> 
-** DONE Examen Oscar A <2019-12-12 Thu 10:00>
-** DROPPED Cita Dr Salomón García <2020-01-14 Tue 18:30>
+*** DONE Examen Oscar A <2019-12-12 Thu 10:00>
+*** DROPPED Cita Dr Salomón García <2020-01-14 Tue 18:30>
    CLOSED: [2020-01-15 Wed 09:54]
-** DONE Cita Dr López López Dalinde 701 <2019-12-03 Tue 17:30>
-** Fiesta M <2020-01-18 Sat 12:00>
-** Goûter collectif M <2020-02-12 Wed>
-** Preguntar sabático itam <2020-01-15 Wed 12:00>
-** DONE Examen Daniel <2019-07-01 Mon 13:00>
-** DONE Examen Patricia B-3 <2019-06-13 Thu 11:00>
-** DONE mail CFE benoit@expat-assurance.com <2019-03-06 Wed>
+*** DONE Cita Dr López López Dalinde 701 <2019-12-03 Tue 17:30>
+*** DONE Examen Daniel <2019-07-01 Mon 13:00>
+*** DONE Examen Patricia B-3 <2019-06-13 Thu 11:00>
+*** DONE mail CFE benoit@expat-assurance.com <2019-03-06 Wed>
 Monsieur, 
 Je voudrais des renseignements pour inscrire maman et, possiblement, son mari à la CFE. 
 Maman vient d'avoir 70 ans. Le nouveau tarif de leur assureur-santé au Mexique est devenu bien trop cher. 
@@ -134,12 +261,8 @@ Sincères remerciements,
 - nGanó pan pri prd morena (dipFed)
 ** En emacs, estudiar C-h i d m reftex <2020-01-14 Tue>
 ** Taller acoso <2020-01-15 Wed 13:15>
-** Bajada rápida <2020-01-29 Wed 7:30>
-** Bajada rápida <2020-02-06 Thu 07:30>
-** DONE Cita urólogo Fdo Ugarte (55 5564 7837 metropolitano) Tuxpan 10-104 <2020-01-23 Thu 17:00> 
-** Hacer Prueba de antígeno prostático <2020-07-06 Mon>
-** Hacer Prueba de antígeno prostático y ultrasonido de próstata <2021-01-13 Wed>
-** axtel 01 800 515 1414
+** Hacer Prueba de antígeno prostático y ultrasonido de próstata <2023-01-05 Thu>
+** Reunión Sonia-Dani <2021-02-04 Thu 8:05 +1w>
 ** Para letrero Sn Agustinillo <2018-02-24 Sat>
 PELIGRO / DANGER
 *No* nade entre las dos banderas rojas
@@ -190,7 +313,6 @@ Pedí tablas de 3" x 1/2" x 1m
 * Notes on proyBr.r code <2016-10-03 Mon>
 ** line where f+l2 data loaded is 1234
 
-
 (setq org-agenda-span 15)
 
 * Carta para los padres de Sn Agus
@@ -202,8 +324,63 @@ Cuando te vi entrar una mañana a la pâtisserie me congelé. No consigo recorda
 
 Veo que también eres 
 
-* vocho 1991
-** Gastos
+* Proyectos
+** Académicos
+*** Contact with academic presses
+*** pegar aquí las respuestas recibidas por mail
+*** TODO postate                                                   :edit:eric:
+- [ ] Finish conclusion
+- [ ] Finish appendix
+- [ ] Print pdf with text and appendices separate
+- [ ] Note for editors
+Dear Editors of the Quarterly Journal od Political Science: Attached please find a manuscript on veto and veto override incidence.
+The paper builds upon and extends the work of Romer and Rosenthal, Kiewiet and McCubbins, Cameron, Groseclose and McCarty, and many others.
+It is an example of Empirical Implications of Theoretical Models.
+- [ ] [[http://nowpublishers.com/journals/Quarterly%20Journal%20of%20Political%20Science/author-instructions][Check instructions]]
+- [ ] Send to QJPS Administrator admin@qjps.com
+*** TODO overrides and supermajorities
+*** DROPPED entry for mpsa -- read Cox                             :read:eric:
+   CLOSED: [2017-01-20 Fri 11:22] DEADLINE: <2013-10-04 Fri>
+*** TODO Book proposal to Stanford UP
+**** [[http://www.press.umich.edu/authors][web site]]
+**** Editora: Melodie Herr mrherr@umich.edu 734-763-6419
+**** New chapter possibilities:
+- Presidential involvement in Congress' agenda in Chile (urgencias, Navia)
+- Decrees in Argentina vs Executive orders in US
+- Executive coalition in Uruguay (with Juan Andrés Moraes) and
+  pre-Chávez Venezuela (with Octavio Amorim Neto).
+- Overrides with Q=1/2 in Brazil, (Lucio Renno)
+- Read Cheibub
+- Unidad Popular deadlock
+- Position taking in Mexico's Congress (proposiciones)
+
+*** DROPPED Common space in LatAm (Jesse)
+- [ ] Hablar con Armando sobre uso/costo Facebook
+- [ ] Hablar con Gerson y con Ch: busco RAs
+re: posiciones ciudadanas en votaciones legislativas
+Hola Gerson, espero que este mail te encuentre bien. Quiero ver si te interesaría colaborar en un proyecto que arrancaré pronto con colegas. 
+
+El objetivo es mapear a legisladores y ciudadanos en el mismo espacio ideológico. Para ello, seleccionaremos una muestra de iniciativas 
+que hayan sido votadas recientemente en las cámaras y le pediremos a una muestra de entrevistados, por internet, cómo habrían votado si 
+hubiesen tenido oportunidad. El cuestionario les presentará, en términos claros y sencillos, las implicaciones de aprobar la ley, cuál 
+es el status quo, y les preguntará si votarían a favor o en contra. 
+
+Quiero ver la posibilidad de que nos ayudes con la selección de casos y la sustancia de la legislación. Tenemos un pequeño presupuesto
+
+Quisiera 
+
+*** DONE Redistricting
+   CLOSED: [2017-01-20 Fri 11:22]
+*** Rules in LatAm
+*** Veto in Brazil
+*** TODO IFEdyn
+*** TODO IFE monograph?
+   
+*** TODO Facebook survey
+   
+** Extra-profesionales
+*** DONE vocho 1991
+**** Gastos
 - $40,000 coche             
 - $11,000 taller            
 -    $550 gato              
@@ -225,162 +402,28 @@ Veo que también eres
 -    $150 encendedor
 -  $1,100 herramientas
 -  $2,500 arreglo turbina
+-    $500 luces frenos
+-  $1,500 nuevas calaveras
+-  $3,500 asientos, pintura interior
 - --------
-- $83,590 total
-* Projects
-** TODO postate                                                   :edit:eric:
-- [ ] Finish conclusion
-- [ ] Finish appendix
-- [ ] Print pdf with text and appendices separate
-- [ ] Note for editors
-Dear Editors of the Quarterly Journal od Political Science: Attached please find a manuscript on veto and veto override incidence.
-The paper builds upon and extends the work of Romer and Rosenthal, Kiewiet and McCubbins, Cameron, Groseclose and McCarty, and many others.
-It is an example of Empirical Implications of Theoretical Models.
-- [ ] [[http://nowpublishers.com/journals/Quarterly%20Journal%20of%20Political%20Science/author-instructions][Check instructions]]
-- [ ] Send to QJPS Administrator admin@qjps.com
-** TODO overrides and supermajorities
-** DROPPED entry for mpsa -- read Cox                             :read:eric:
-   CLOSED: [2017-01-20 Fri 11:22] DEADLINE: <2013-10-04 Fri>
-** TODO Book proposal to Stanford UP
-*** [[http://www.press.umich.edu/authors][web site]]
-*** Editora: Melodie Herr mrherr@umich.edu 734-763-6419
-*** New chapter possibilities:
-- Presidential involvement in Congress' agenda in Chile (urgencias, Navia)
-- Decrees in Argentina vs Executive orders in US
-- Executive coalition in Uruguay (with Juan Andrés Moraes) and
-  pre-Chávez Venezuela (with Octavio Amorim Neto).
-- Overrides with Q=1/2 in Brazil, (Lucio Renno)
-- Read Cheibub
-- Unidad Popular deadlock
-- Position taking in Mexico's Congress (proposiciones)
-
-** DROPPED Common space in LatAm (Jesse)
-- [ ] Hablar con Armando sobre uso/costo Facebook
-- [ ] Hablar con Gerson y con Ch: busco RAs
-re: posiciones ciudadanas en votaciones legislativas
-Hola Gerson, espero que este mail te encuentre bien. Quiero ver si te interesaría colaborar en un proyecto que arrancaré pronto con colegas. 
-
-El objetivo es mapear a legisladores y ciudadanos en el mismo espacio ideológico. Para ello, seleccionaremos una muestra de iniciativas 
-que hayan sido votadas recientemente en las cámaras y le pediremos a una muestra de entrevistados, por internet, cómo habrían votado si 
-hubiesen tenido oportunidad. El cuestionario les presentará, en términos claros y sencillos, las implicaciones de aprobar la ley, cuál 
-es el status quo, y les preguntará si votarían a favor o en contra. 
-
-Quiero ver la posibilidad de que nos ayudes con la selección de casos y la sustancia de la legislación. Tenemos un pequeño presupuesto
-
-Quisiera 
-
-** DONE Redistricting
-   CLOSED: [2017-01-20 Fri 11:22]
-** Rules in LatAm
-** Veto in Brazil
-** TODO IFEdyn
-** TODO IFE monograph?
-   
-** TODO Facebook survey
-   
-* Contact with academic presses
-** pegar aquí las respuestas recibidas por mail
-
-* Invitables CiPol
-** Pablo Beramendi, Duke **
-** Leslie Schwindt-Bayer, Rice **
-** Royce Carroll, Rice **
-** Taeko Hiroi, UT-El Paso *
-** Mark Jones
-** Jon Rogowski
-** Margit Tavits
-** Brian Crisp
-** Dawn Brancati
-** Andrew Reeves
-** Maggie Penn and John Patty
-** Sergio Wals
-** Cantú *
-** Dan Brinks UT-Austin *
-** Eduardo Alemán
-** Ernesto Calvo
-** José Antonio Cheibub
-** Gisela Sin
-** Pablo Pinto
-** Michelle Taylor-Robinson
-** Amanda Driscoll Florida State *
-** Lydia Tiede UH *
-** Dan Butler, Wash U
-** Drew Linzer, Emory
-      
-** Sunita Parikh (no invité)
-** Schofield (no invité)
-** Becky Morton (no he invitado)
-** Stanley Winer (Carleton University)
-* Invitables a conferencia Redistritación/constituency-level election analysis 04/24/2016??? Escribir a Silvia Millán (2-day)
-** co-organize with Micah? Memo?
-** Aparicio
-** Márquez
-** Memo
-** Joy
-** Micozzi
-** Weldon
-** Gomberg
-** Cantú
-** Calvo
-** Sandra Ley
-** Cheibub
-** Alemán
-** Grofman
-** Stanley Winer
-** Mike McDonald
-** Trelles (
-** Cox
-** Morgenstern
-** Pachón
-** Magar (Chilean redistricting)
-** Ges
-** Valeria
-** Beramendi
-** Ana de la O
-** Michigan constituency-level crowd
-** CSES crowd
-** Aldrich
-** Engstrom
-* ToDo general
-** TODO Cómo se mete una slide en un itemize de presentación LaTeX (digresión que regrese al siguiente item)
-** TODO Cómo se mete un cronómetro/reloj en la presentación LaTeX
-** TODO rc57, rc58, rc59
-** TODO rc62, rc63 (comparten mapa distrital con 60 y 61, hechas)
-** TODO Que Vala arregle pasar por escrituras de la casa
-** TODO Cita Dr Lipkau para preguntarle si sustituye a Washington
-** TODO Cita Dra Ma Cristina Mtz que dejó Hidalgo en su consultorio: conocerla y próstata 5584-2133
-** TODO Urólogo
-** TODO Testamentos, recogerlos y cambiar a Cristina por Val!
-** TODO Terminar draft Brasil MPs
-** TODO Terminar draft Brasil Scheduling
-** TODO Call Wells Fargo to register phone address:  1-800-869-3557
-** TODO Mail a Gary
-** TODO Brasil: www.neci.fflch.usp.br
-** TODO Brasil: Andréa Freitas buscar su trabajo de coalición
-** TODO Brasil: Buscar tesis USP Fernanda Maquiavelli sobre MPs antes/desp reforma
-** TODO Uruguay: constructive veto's fit in book
-** TODO México: ALDF's fit in book
-** TODO Chile: mapa distritos antes/hoy, población distrital antes/hoy
-** TODO Chile: enviar datos/código Urgencias a Ges y Valeria
-** DONE Cita Paris Starbucks Altavista <2016-03-10 Thu> 4pm
-* Proyectos extra-profesionales
-** Thread pitch counts / pas de vis
-*** Dérauilleur hanger:
-**** La que entra: outer diam=25/64"=9.82mm (inner diam=23/64"=9.12mm) 25 threads per inch --> 25/64" x 25tpi (lo más cercano en tablas es 3/8" x 24tpi)
-**** A la que quiero llegar: outer diam=10mm (inner diam=9.22mm, usa broca 9mm) pas 1mm --> M10 x 1 (en Francia también se llama M10 100)
-*** Shift lever:
-**** La que entra: outer diam=3/16"=4.6mm (inner diam=5/32"=3.9mm) 24 threads per inch --> 3/16" x 24tpi
-**** A la que quiero llegar: outer diam=5mm (inner diam=4.5mm, usa broca 4.2mm) pas 0.8mm --> M5 x 0.8 (en Francia también se llama M5 80)
-*** Para el medidor que compré: "Stahlwille 12665/52 Metric and Whitworth, Thread Gauge. This gauge will check metric threads from .25 to 6mm. And Whitworth threads from 4 to 62 tpi. The G is German for "gewinde" meaning "thread". So a blade marked 32G5/32"  would be a Whitworth  5/32" inch diameter bolt, with 32 Threads per Inch, and 55 degree angle of the threads"
-*** Nomenclatura: "taraud" en inglés es "tap" y en español "macho de roscar" o "machuelo"
-** Rain-water barrel con plásticos reciclados
-*** TODO Buscar modelos/diseño en web
-*** TODO Filtro para la mugre de entrada
-** Armar bici francesa
-*** DONE Comprar Sturmey Archer: Axle dropouts on frame 126mm (30mm extra axle length needed, ie 156mm axis) (el que tengo es AW-3spd overlocknut spacing 114mm y axle length 146mm)
+- $89,090 total
+*** DONE Thread pitch counts / pas de vis
+**** Dérauilleur hanger:
+***** La que entra: outer diam=25/64"=9.82mm (inner diam=23/64"=9.12mm) 25 threads per inch --> 25/64" x 25tpi (lo más cercano en tablas es 3/8" x 24tpi)
+***** A la que quiero llegar: outer diam=10mm (inner diam=9.22mm, usa broca 9mm) pas 1mm --> M10 x 1 (en Francia también se llama M10 100)
+**** Shift lever:
+***** La que entra: outer diam=3/16"=4.6mm (inner diam=5/32"=3.9mm) 24 threads per inch --> 3/16" x 24tpi
+***** A la que quiero llegar: outer diam=5mm (inner diam=4.5mm, usa broca 4.2mm) pas 0.8mm --> M5 x 0.8 (en Francia también se llama M5 80)
+**** Para el medidor que compré: "Stahlwille 12665/52 Metric and Whitworth, Thread Gauge. This gauge will check metric threads from .25 to 6mm. And Whitworth threads from 4 to 62 tpi. The G is German for "gewinde" meaning "thread". So a blade marked 32G5/32"  would be a Whitworth  5/32" inch diameter bolt, with 32 Threads per Inch, and 55 degree angle of the threads"
+**** Nomenclatura: "taraud" en inglés es "tap" y en español "macho de roscar" o "machuelo"
+*** Rain-water barrel con plásticos reciclados
+**** TODO Buscar modelos/diseño en web
+**** TODO Filtro para la mugre de entrada
+*** DONE Armar bici francesa
+**** DONE Comprar Sturmey Archer: Axle dropouts on frame 126mm (30mm extra axle length needed, ie 156mm axis) (el que tengo es AW-3spd overlocknut spacing 114mm y axle length 146mm)
 Before I bid, I need some information on the hub. Can you please measure, in milimiters, the length of the overlocknut distance? A picture of what this means appears here http://sheldonbrown.com/frame-spacing.html . Thank you! 
-*** http://sheldonbrown.com/sturmey-archer_3-spd.html
-*** Lo que he gastado en bici roja
+**** http://sheldonbrown.com/sturmey-archer_3-spd.html
+**** Lo que he gastado en bici roja
 | part              | paid (US$) | comment   |
 |-------------------+------------+-----------|
 | frame             |        177 | tot $1046 |
@@ -419,21 +462,21 @@ Before I bid, I need some information on the hub. Can you please measure, in mil
 |-------------------+------------+-----------|
 | TOTAL             |            |           |
 
-*** Cambios para hacerla una bici de ruta
-**** Compras para NYC: llamar a Dave en big shark y hacer el pedido --- que lo mande a NYC el 15 de mayo, yo lo pedí el
-***** WAIT Rear wheel: 700c sunrims, shimano tiagra hub, 36 spokes cross-3; 6-7 speed max 26 (campi dérailleurs/cranks: nuovo record 3rd 1976, front 42-53T, rear can handle max 26T... aim at 13-25 6/7-speed thread-on freewheel, chain width 3/32
-***** On eBay: necesito un casette shimano que tenga 24, p.ej: 12-14---21-24-28
-***** WAIT Chain for that freewheel
-***** WAIT 36+ spokes for 27inch wheel (have pic) with 3-speed sturmey archer hub. According to the calculator I used, for cross-3 pattern: ERD=630, L/R flange diameter= 65mm, width from center to R/L flanges=27mm --> 314mm 
-***** TEST bolt for shift levers                                                 *MEASURE*
-***** TEST bolt for dérailleur                                                   *MEASURE*
-***** TODO Speed/distance computer
-***** TODO Clip pedals road *OR* softer pedals that can handle my cages 
-***** DONE steel crank dust caps 
+**** Cambios para hacerla una bici de ruta
+***** Compras para NYC: llamar a Dave en big shark y hacer el pedido --- que lo mande a NYC el 15 de mayo, yo lo pedí el
+****** WAIT Rear wheel: 700c sunrims, shimano tiagra hub, 36 spokes cross-3; 6-7 speed max 26 (campi dérailleurs/cranks: nuovo record 3rd 1976, front 42-53T, rear can handle max 26T... aim at 13-25 6/7-speed thread-on freewheel, chain width 3/32
+****** On eBay: necesito un casette shimano que tenga 24, p.ej: 12-14---21-24-28
+****** WAIT Chain for that freewheel
+****** WAIT 36+ spokes for 27inch wheel (have pic) with 3-speed sturmey archer hub. According to the calculator I used, for cross-3 pattern: ERD=630, L/R flange diameter= 65mm, width from center to R/L flanges=27mm --> 314mm 
+****** TEST bolt for shift levers                                                 *MEASURE*
+****** TEST bolt for dérailleur                                                   *MEASURE*
+****** TODO Speed/distance computer
+****** TODO Clip pedals road *OR** softer pedals that can handle my cages 
+****** DONE steel crank dust caps 
       CLOSED: [2016-04-20 Wed 10:40]
-***** TODO Torque wrench
-***** TODO Wall- or bench-mount bike stand
-**** DONE Mail to Robert/Dave
+****** TODO Torque wrench
+****** TODO Wall- or bench-mount bike stand
+***** DONE Mail to Robert/Dave
     CLOSED: [2016-04-20 Wed 11:45]
 Hi Robert/Dave, I hope you remember me, I lived in St Louis last year and ordered a bunch of stuff from Big Shark for a bike renovation. I now wish to change rear wheels in two bikes and want to ask for a special order to be shipped to a friend's place. I need four items. 
 (1) One built rear wheel, 700c, 36 spokes cross-3, ideally sunrims with shimano tiagra hub (so that it matches the front); 
@@ -445,68 +488,120 @@ Eric Magar c/o Marco Morales
 425 Prospect Pl, apt 4A
 Brooklyn, NY 11238
 
-**** rear hub
-**** DONE cassette
+***** rear hub
+***** DONE cassette
      CLOSED: [2016-04-20 Wed 10:41]
-**** spokes
-**** DONE campi dérailleurs/cranks: nuovo record 3rd 1976, front 42-53T, rear can handle max 26T... aim at 13-15-17-19-22-25 6-speed, chain width 3/32
-**** TEST Necesito "vis de fixation du dérailleur" "upper pivot bolt" con cuerda *francesa*... info?
-**** TEST Upper pivot bolt de un diagrama campagnolo lleva el num de parte 3506... "Hanger threads are 10mm x 1mm for pretty much all bikes, except maybe some obscure French bike from the 1960s or something like that. I very much doubt you will have luck mixing brands."
-**** TEST Necesito tornillos para los shift levers con cuerda *francesa*... "friction adjusting wing nut" num de parte 604/1
-*** Cambios para dejar la fuji de uso diario
-**** pintura
-**** rearmar rueda con sturmey archer
-**** WAIT spokes
-**** DROPPED cambiar por ruedas de 700c
-**** DONE comprar nuevos frenos long reach
-*** DONE Armado de ruedas que compré en St Louis
-**** Me vendieron rayos de 290. Para hub trasero, permitieron cross-3 pattern. Para la delantera, permiten cross-2 pattern solamente (bajé hoja excel). Para lograr un cross-3 adelante, necesitaría rayos de 298.
-** Hacer un bike stand casero http://youtu.be/4rgVuzaeaE8
-** Aprender a hacer sidra
-** Construir trailer para bici, replicar el thule
-** Compras bici
-*** NYC
+***** spokes
+***** DONE campi dérailleurs/cranks: nuovo record 3rd 1976, front 42-53T, rear can handle max 26T... aim at 13-15-17-19-22-25 6-speed, chain width 3/32
+***** TEST Necesito "vis de fixation du dérailleur" "upper pivot bolt" con cuerda *francesa*... info?
+***** TEST Upper pivot bolt de un diagrama campagnolo lleva el num de parte 3506... "Hanger threads are 10mm x 1mm for pretty much all bikes, except maybe some obscure French bike from the 1960s or something like that. I very much doubt you will have luck mixing brands."
+***** TEST Necesito tornillos para los shift levers con cuerda *francesa*... "friction adjusting wing nut" num de parte 604/1
+**** Cambios para dejar la fuji de uso diario
+***** DONE pintura
+***** DONE rearmar rueda con sturmey archer
+***** DONE spokes
+***** DROPPED cambiar por ruedas de 700c
+***** DONE comprar nuevos frenos long reach
+**** DONE Armado de ruedas que compré en St Louis
+***** Me vendieron rayos de 290. Para hub trasero, permitieron cross-3 pattern. Para la delantera, permiten cross-2 pattern solamente (bajé hoja excel). Para lograr un cross-3 adelante, necesitaría rayos de 298.
+*** DONE Hacer un bike stand casero http://youtu.be/4rgVuzaeaE8
+*** Aprender a hacer sidra
+*** Construir trailer para bici, replicar el thule
+*** Compras bici
+**** NYC
 Bike Works NYC
 106 Ridge St. (Lower East? Mo Essex St (JMZ) or Delancey St (F)
 212-388-1077
-**** 2nd chromed bottle holder, with installation "straps"
-**** WAIT pedals? campi old fashioned look-alike or hard-shoe & clip type?
-**** saddle bag? handlebar bag? something nice, canvas or leather
-**** DONE handlebar tape
+***** 2nd chromed bottle holder, with installation "straps"
+***** WAIT pedals? campi old fashioned look-alike or hard-shoe & clip type?
+***** saddle bag? handlebar bag? something nice, canvas or leather
+***** DONE handlebar tape
      CLOSED: [2016-05-27 Fri 11:12]
-**** night light for 2nd bike
-**** DONE handlebar for fuji: Stem diam steerer=22mm, diam handleb=25.4mm
+***** night light for 2nd bike
+***** DONE handlebar for fuji: Stem diam steerer=22mm, diam handleb=25.4mm
      CLOSED: [2016-05-27 Fri 11:12]
-**** DONE brake levers
+***** DONE brake levers
      CLOSED: [2016-05-27 Fri 11:12]
-**** DONE Sturmey Archer 3spd lever
+***** DONE Sturmey Archer 3spd lever
      CLOSED: [2016-05-27 Fri 11:12]
-*** DONE Measure bottom bracket cup = 35.9mm, buy wrench (Park tool hcw-4)
-*** DONE Wrench for other end of bottom bracket          (Park tool hcw-5)
-*** DONE Spoke tension meter                             (Park tool TM-1)
-*** DONE Brake levers para la bici negra
-*** DONE Difference British, French, Italian threads BB? 
-*** DONE Llave que se me rompió (foto)
-*** DONE Juego de frenos para la bici negra, long reach
-*** DONE Buy grease
-*** DONE Night front light for 2nd bike
-*** DONE Bottle cage
-*** DONE Pedal cages
-*** DONE May order Campagnolo Nuovo Record component set (minus cassette: 6-7 speed, max 26)
-*** DONE Seat tube francés (cuadro), diám interno=26mm aprox. <- compré un poste de 25.8mm
-*** DONE Seat tube que compré en StL diám 26.4mm 
-*** DONE Fork steerer bici francesa diám interno=21.9mm diám externo=
-*** DONE Stem cinelli       diam poste=22mm, diám manub=26.4mm <- compré manubrio cinelli
-*** DONE Stem en bici negra diám poste=22mm, diám manub=25.4mm
-*** DONE Fork: el actual tiene 175mm del extremo sup del anillo hasta fin de threads
-*** DONE Dérailleur
-*** WAIT Cranks japonesa: núm dientes 40 & 52
-*** DONE Shift levers
-**** Compré, al parecer, Campagnolo Record 1013/5
-**** [[http://velobase.com/ViewComponent.aspx?ID=7984896a-93ff-4f44-bb9d-080c4df0aaab][Link en Vélo base]]
-*** DONE Diámetro ejes down shifters = 9mm
-** DONE Diseñar modelo de salpicaderas con botes plásticos de desecho 
-   
+**** DONE Measure bottom bracket cup = 35.9mm, buy wrench (Park tool hcw-4)
+**** DONE Wrench for other end of bottom bracket          (Park tool hcw-5)
+**** DONE Spoke tension meter                             (Park tool TM-1)
+**** DONE Brake levers para la bici negra
+**** DONE Difference British, French, Italian threads BB? 
+**** DONE Llave que se me rompió (foto)
+**** DONE Juego de frenos para la bici negra, long reach
+**** DONE Buy grease
+**** DONE Night front light for 2nd bike
+**** DONE Bottle cage
+**** DONE Pedal cages
+**** DONE May order Campagnolo Nuovo Record component set (minus cassette: 6-7 speed, max 26)
+**** DONE Seat tube francés (cuadro), diám interno=26mm aprox. <- compré un poste de 25.8mm
+**** DONE Seat tube que compré en StL diám 26.4mm 
+**** DONE Fork steerer bici francesa diám interno=21.9mm diám externo=
+**** DONE Stem cinelli       diam poste=22mm, diám manub=26.4mm <- compré manubrio cinelli
+**** DONE Stem en bici negra diám poste=22mm, diám manub=25.4mm
+**** DONE Fork: el actual tiene 175mm del extremo sup del anillo hasta fin de threads
+**** DONE Dérailleur
+**** WAIT Cranks japonesa: núm dientes 40 & 52
+**** DONE Shift levers
+***** Compré, al parecer, Campagnolo Record 1013/5
+***** [[http://velobase.com/ViewComponent.aspx?ID=7984896a-93ff-4f44-bb9d-080c4df0aaab][Link en Vélo base]]
+**** DONE Diámetro ejes down shifters = 9mm
+*** DONE Diseñar modelo de salpicaderas con botes plásticos de desecho 
+* Invitables CiPol
+** DONE Pablo Beramendi, Duke
+** Royce Carroll
+** Taeko Hiroi, UT-El Paso
+** Jon Rogowski
+** Brian Crisp
+** Dawn Brancati
+** Andrew Reeves
+** Maggie Penn and John Patty
+** Cantú
+** Dan Brinks UT-Austin
+** Eduardo Alemán
+** Ernesto Calvo
+** José Antonio Cheibub
+** Pablo Pinto
+** Michelle Taylor-Robinson
+** Amanda Driscoll Florida State
+** Lydia Tiede UH
+** Dan Butler, Wash U
+** Drew Linzer, Emory
+** Sunita Parikh (no invité)
+** Becky Morton (no he invitado)
+** Stanley Winer (Carleton University)
+* Invitables a conferencia Redistritación/constituency-level election analysis 04/24/2016??? Escribir a Silvia Millán (2-day)
+** co-organize with Micah? Memo?
+** Aparicio
+** Márquez
+** Memo
+** Joy
+** Micozzi
+** Weldon
+** Gomberg
+** Cantú
+** Calvo
+** Sandra Ley
+** Cheibub
+** Alemán
+** Grofman
+** Stanley Winer
+** Mike McDonald
+** Trelles (
+** Cox
+** Morgenstern
+** Pachón
+** Magar (Chilean redistricting)
+** Ges
+** Valeria
+** Beramendi
+** Ana de la O
+** Michigan constituency-level crowd
+** CSES crowd
+** Aldrich
+** Engstrom
 * Libros leídos
 ** Leïla Slimani Chanson Douce  <2017-08-26 Sat>
 ** Maalouf Les Désorientés <2017-09-26 Tue>
@@ -531,6 +626,18 @@ Bike Works NYC
 ** Carrère L'Adversaire <2020-01-11 Sat>
 ** Pagnol Jean de Florette <2020-01-15 Wed>
 ** Pagnol Manon des Sources <2020-01-19 Sun>
+** Jessica Díaz Happy Endings <2020-01-28 Tue>
+** Von Saenger Años de elecciones <2020-02-01 Sat>  
+*** Papús, finalmente me di el tiempo de leer Años de elecciones. Un caballero azteca plus elimina a la crema y nata de nuestra élite inmunda. El aseo no puede más que dejar buen sabor de boca. (Plus porque no se contenta con el corazón, colecciona miembros y extremidades varias, faltará el pintor que retrate al monstruo reconstituido.) Muy divertido y lleno de tu aguda sabiduría. Lo disfruté mucho, gracias por el regalo.
+** Ibargüengoitia Las muertas <2020-02-08 Sat>
+** Molière Le bourgeois gentilhomme <2020-04-02 Thu>
+** Maurois Disraëli <2020-07-11 Sat>
+** John Barry The Great Influenza <2020-12-29 Tue>
+** Dahl Relatos escalofriantes <2021-03-27 Sat>
+** Leblanc Arsène Lupin <2021-07-24 Sat>
+** Christie Les pendules <2021-07-25 Sun>
+** Benjamin Gaspard <2022-02-13 Sun>
+** Andrey Kurkov Death and the Penguin <2022-03-19 Sat> 
 * Encuestólogos
 ** David Crow para encuesta de Berumen post publicación
 ** Le ofrecemos vetar de la lista
@@ -547,19 +654,30 @@ Bike Works NYC
 9. Cantú
 10. Ulises 
 
+* WAIT Fundación ciencia en México 
+** WAC
+As you know, amlo has been restructuring conacyt and sni. They are making research in private universities ineligible for support. In particular, that killed sni monthly stipends---between 10 and 20 % depending on salary and seniority. They are paying for that useless train in the Yucatán peninsula.
+
+While the substitution looks stupid, it is not clear that research deserved monthly stipends of the sort. Eligibility and advancement criteria were arbitrary and gave few incentives to do solid research. The reform offers the opportunity to cut another umbilical chord with the government.
+
+Problem: amlo has also changed the status of not-for-profit orgs, tax-deductible donations may be off-limits. If so, funding could coe from abroad, donations made in the US. Foundations with focus on Mexico could pool matching resources.  
 * Arreglos casa
-** DONE Francisco vino <2015-09-19 Sat> aprox 2 horas --- le pagué $400
-*** DONE Desarmar y limpiar llaves de dos regaderas
-*** DONE Ir a comprar y cambiar pato de la taza de atrás
-*** DONE Sellar fuga en nuestra taza
-*** DONE Apretó cerradura del saguán
-** Arreglar salitre en muros planta baja con cemento blanco
+** Old
+*** DONE Francisco vino <2015-09-19 Sat> aprox 2 horas --- le pagué $400
+**** DONE Desarmar y limpiar llaves de dos regaderas
+**** DONE Ir a comprar y cambiar pato de la taza de atrás
+**** DONE Sellar fuga en nuestra taza
+**** DONE Apretó cerradura del saguán
+*** DONE Arreglar salitre en muros planta baja con cemento blanco
+*** DROPPED Instalar módem con corriente desde lámpara clóset Vala
+*** DONE Humedad (?) plafón escalera
+*** DONE Instalar luz sobre cafetera
 ** Raspar óxido y pintar herrería
-** Instalar módem con corriente desde lámpara clóset Vala
-** Humedad (?) plafón escalera
-** DONE Instalar luz sobre cafetera
-** WAIT Cablear lámpara de la jardinera del garage
-** Hola Aura, veo con alguna preocupación el monto del presupuesto del Ing. Alvarez
+** Toño Puebla
+- Cambiar control de la bomba de atrás
+- Buscar el origen del voltaje cambiante en la casa
+- Cablear lámpara de la jardinera del garage
+*** DROPPED Hola Aura, veo con alguna preocupación el monto del presupuesto del Ing. Alvarez
 
 135000 antes
 
@@ -584,90 +702,50 @@ Bike Works NYC
 | sobrepones veto | C decreto           | D orr       |
 | evitas veto     | E rentas facultades | F coalición |
 |-----------------+---------------------+-------------|
-* Casagrana acoso <2018-10-08 Mon>
-** Mis dudas
-*** Directoras y profes no bastan
-    - desconfías de que es colega (profe otra carrera?)
-    - Personal administrativo? de intendencia?
-*** Caso donde víctima NO quiere denunciar y viste evidencia
-    - dónde termina la responsabilidad de confidencialidad (tipo sicólogo, confesor, etc.)
-    - lavarse manos
-    - responsablidad de saber q acosador puede seguir haciendo daño (aquí o más allá)
-    - potencial explosivo (caso Kavanaugh, que se diga que itam no hizo nada)
-    - casos pre-protocolo
-*** Caso: el que denuncia es el acosador
-    - cómo procede el profe con protocolo?
-    - cómo lidias cuando sospechas falsa denuncia?
-
-** Cómo llevar entrevista
-1 te voy a escuchar --- cultivar confianza
-  - al borde ataque nervios = pospones
-2 indagas --- reconstruyes los hechos
-  - invitar a superar "deseabilidad social" (quizás por pudor)
-  - estoy para escucharte y ayudarte
-  - pasos 
-    0 empiezas por establecer cómo se va a proceder
-    a expresa sentimientos y pensamientos
-    b describe hechos conretos, fecha, lugar, testigos (burla?), quién sabe?, qué tan atrás en tiempo?
-    c pedir en forma concreta lo que queremos
-    d especificar consecuencias
-  - ninguna suposición, volver a preguntar
-3 cierras --- cóme se llegó hasta aquí, qué implicaciones tiene, qué alternativas de solución
-** Sólo hay que tranquilizar y escuchar, no juzgar: reconstruir los hechos	
-4 Protocolo
-1 Direc escolar
- biblio
-admiva y finan
-* DONE Reunión com Micaela Alterio, Tatiana, Juan Bertomeu, Xisca, Adriana AA, yo <2019-01-23 Wed>
-** Protocolo itam
-*** Dificultad fundamental: inquisición vs complicidad
-*** Directoras y profes no bastan
-    - desconfías de que es colega (profe otra carrera?)
-    - Personal administrativo? de intendencia?
-    - Conflicto de interés: Organo externo para recibir denuncia?
-    - Hotline, anónimo?
-*** Caso donde víctima NO quiere denunciar y viste evidencia
-    - dónde termina la responsabilidad de confidencialidad (tipo sicólogo, confesor, etc.)
-    - lavarse manos
-    - responsablidad de saber q acosador puede seguir haciendo daño (aquí o más allá)
-    - potencial explosivo (caso Kavanaugh, que se diga que itam no hizo nada)
-    - casos pre-protocolo
-*** Caso: el que denuncia es el acosador
-    - cómo procede el profe con protocolo?
-    - cómo lidias cuando sospechas falsa denuncia?
-*** UniAndes:
-    - puede denunciar tercero (obligación)
-    - múltiples vías para denunciar
-* Sabático 2021
+* Sabático 2022
 ** año start  end
-**       ago  jul
-** ---------------
-**   1  2000 2001
-**   2  2001 2002
-**   3  2002 2003
-**   4  2003 2004
-**   5  2004 2005
-**   6  2005 2006
-**   7  2006 2007 <-- sab (lo tomé ene-dic 2007)
-**   1  2007 2008
-**   2  2008 2009
-**   3  2009 2010
-**   4  2010 2011
-**   5  2011 2012
-**   6  2012 2013
-**   7  2013 2014 <-- sab (lo tomé ago 2014-jul 2015)
-**   1  2014 2015
-**   2  2015 2016
-**   3  2016 2017
-**   4  2017 2018
-**   5  2018 2019
-**   6  2019 2020
-**   7  2020 2021 <-- sab ???
+     ago  jul
+--------------
+ 1  2000 2001
+ 2  2001 2002
+ 3  2002 2003
+ 4  2003 2004
+ 5  2004 2005
+ 6  2005 2006
+ 7  2006 2007 <-- sab (lo tomé ene-dic 2007)
+ 1  2007 2008
+ 2  2008 2009
+ 3  2009 2010
+ 4  2010 2011
+ 5  2011 2012
+ 6  2012 2013
+ 7  2013 2014 <-- sab (lo tomé ago 2014-jul 2015)
+ 1  2014 2015
+ 2  2015 2016
+ 3  2016 2017
+ 4  2017 2018
+ 5  2018 2019
+ 6  2019 2020
+ 7  2020 2021 <-- sab ???
+ 8  2021 2022
+** Dónde?
 - INSTITUTE FOR ADVANCED STUDY IN TOULOUSE deadline ~30nov2019
-- UK?
-- Irl?
+- UK -- muy caro
+- Irl
+- Boulder?
+- Vanderbilt
+  - Bartells
+  - Hiskey
+  - Lupu
+  - Liz (escribí 8-3-2022)
 * taller casa de la Marquesa
-** Edición 2020
+** Edición 2022
+*** Checar disponibilidad de la Casa de la Marquesa
+*** Fin de semana en un hotel en Oax? Lana?
+*** Otra locación fuera del ITAM, que no parece dar luz verde
+- jardín de Itzel
+- hacienda de amiga vala en izamal
+- ensenada, hotel de viento
 *** Notas
 - Invitar a Alexa y Horacio
 - Sin botellitas de plástico
@@ -1685,5 +1763,149 @@ ante fragmentacion, importa redistritacion
 
 *** DONE Mail para retardatarios: 
 Hola Alejandro, escribo para pedirte un título o tema de lo que presentarás en el taller del 13 de mayo. Quiero organizar mesas (más o menos) temáticas. Aún no he decidido el formato exacto del taller, pero anticipo que circular un paper no será necesario --- bastará con un diseño de investigación o incluso una serie de intuiciones que permitan distutir el potencial del proyecto. Obvio, mientras más desarrollado esté lo que mandes, será más fácil dar recomendaciones concretas. Mandaré instrucciones pronto. Mientras, espero tu título. Espero que todo vaya bien detrás de la máscara de gas mostaza. Saludos, -e
+* Regalos 
+** navidad 2021
+- [X] 3 daily planners / notebooks lechtturm (Iza, Val, Juan)
+- [X] filtro de agua (Juan)
+- [X] 1 falda impermeable (Val)
+- [X] cuaderno dibujo (Val) 215
+- [X] 1 jícara barro (Juan)
+- [X] 2 chiles (Juan)
+- [ ] 1 botella pintada de Olinalá (Iza)
+- [X] Maleta (Iza)
+- [ ] Marco con foto (Iza)
+- [X] 1 maleta (Iza)
+- [X] 1 botella pintada de Olinalá (Danielle)
+- [ ] 1 jarra de barro michoacana
+- [ ] 1 mini tortillero
+- [X] libro árboles (Vala)
+- [X] 1 juego nintendo Pokemon Shining Pearl (Martín) $1,200
+- [X] 1 juego nintendo Zelda Link's awakening (Martín) $1,500
+- [X] vocho playmobil (Martín) 
+- [ ] ideas para mí: ayuda bici montaña; ayuda compu; saco, pantalón
+- [X] Hilos de pulsera (Aure)
+- [X] Microscopio (Aure) $1,600
+- [X] Plumones Stabilo (Aure) 650
+- [X] Cuaderno colorear (A)
+- [X] Life (A)
+- [X] Juego no te enojes (M y/o A)
+- [X] Pistola Nerf (M) 200
+- [ ] Cuadro para Vala
+* Inventario compras Ensenada <2021-11-05 Fri>
+** Baño
+- [X] 4 toallas de mano
+- [X] 4 toallas de ducha
+- [X] 1 tapete de baño
+** Cocina
+- [X] jarra de barro mixteca
+- [X] Ensaladera barro patas de serpiente 
+- [X] 1 pocillo de lava con tapa
+- [X] 1 tarro de cobre
+- [X] 1 cuchara mescladora/ensaladera tefal
+- [X] 1 tijeras de cocina
+- [X] 1 servilletero de madera
+- [X] 1 cuchillo Laguiole de fuet
+- [X] 1 rebanador de queso delgado
+- [X] 1 cuchillo de pan
+- [X] 1 cuchillo de carne
+- [X] 2 egg coddlers
+- [X] 2 vasos térmicos café
+- [X] 2 vasos térmicos café express
+- [X] 10 vasos cortados para vino
+- [X] 6 vasos mezcaleros olmecas
+- [X] 2 vasos mezcaleros cortados
+- [X] 6 vasos nocilla
+- [X] 6 vasos de botella cortada para agua
+- [X] 1 bol mixteco
+- [X] 2 tazas de café mixtecas
+- [X] 3 platitos café mixtecos
+- [X] 1 jarra de agua plástica
+- [X] 1 olla para calentar chocolate de teflón
+- [X] 1 olla chica metal con vaporera
+- [ ] 2 ollas chicas wf 16cm (casa Iza)
+- [ ] 2 ollas medianas wf 20cm (casa Iza)
+- [ ] 1 olla grande wf 24cm (casa Iza)
+- [X] 1 coladera escurridora de ensalada
+- [ ] vajilla completa para 6 (casa Iza)
+- [X] juego de cubiertos completo
+- [X] 1 platón para servir mixteco chico
+- [ ] 1 platón cerámica horno 20cm (casa Iza)
+- [ ] 2 platones cerámica horno 24cm (casa Iza)
+- [X] molino de café
+- [X] 2 tablas de madera chicas
+- [X] 1 tablas de madera mediana
+- [ ] licuadora
+- [X] 2 mandiles
+- [X] molino de pimienta
+** Blancos
+- [X] 1 mantel
+- [X] Sábanas matrimonial (cajón, 2 almohadas)
+- [X] Sábanas matrimonial (cajón, plana, 2 almohadas)
+- [X] Sábanas matrimonial (cajón, duvet cover, 2 almohadas)
+- [X] 1 sarape de saltillo Nonno
+- [X] 2 sarapes de saltillo comunes
+- [X] 1 cubrecama matrimonial de algodón azul
+- [X] 1 cubrecama matrimonial de batik
+- [X] 2 cubrecamas chiapanecos de cama individual
+** Otros
+- [X] colgadores de escobas
+- [ ] biznaga
+- [ ] repisa/mesa
+- [ ] lámpara mini con guaje y dimmer
+- [X] vaso florero chico
+- [ ] Cuadro de Sputnik
+- [X] Candelabro de cristal
+* ITAM 2021
+** Rector
+- Sí soy crítico, me siento alienado (como muchos más)
+- Apoyo regreso presencial, pero deben tomarse en cuenta situaciones especiales
+- Pruebas en ITAM: "los escuchamos" + no hay más preguntas
+- Licencia sin goce de sueldo: Rivadeneira vs Larreguy 
+** Messmacher 
+Hola Miguel, escribo para felicitarte por en nombramiento en nuestra división, Enhorabuena. Si tuvieras tiempo, quisiera pasar a tu oficina para desearte suerte con el importante encargo. Buen Día de Muertos. --Eric 
+- mail: felicidades, suerte, cita
+- no busco colocarme, SQ insostenible desde suicidas y mucho antes
+- Soy crítico, me siento alienado (como muchos más)
+  - Apoyo regreso presencial, pero debe tomarse en cuenta situaciones especiales sin verdades a medias
+  - ITAM siempre vertical, no tiene que fingir no serlo (o si se horizontaliza, que sea en serio) -- ej. junta de facultad
+  - Pruebas en ITAM: "los escuchamos" + no hay más preguntas
+  - Licencia sin goce de sueldo: Rivadeneira vs Larreguy 
+- Qué ocurre con un gerente que afecta sin pensarlo a 25-40% de los clientes?
+- Lorenza Martínez, Jana Palacios, Mónica Aspe, Beatriz Magaloni
+* Latentes
+** Casagrana acoso <2018-10-08 Mon>
+*** Mis dudas
+**** Directoras y profes no bastan
+    - desconfías de que es colega (profe otra carrera?)
+    - Personal administrativo? de intendencia?
+**** Caso donde víctima NO quiere denunciar y viste evidencia
+    - dónde termina la responsabilidad de confidencialidad (tipo sicólogo, confesor, etc.)
+    - lavarse manos
+    - responsablidad de saber q acosador puede seguir haciendo daño (aquí o más allá)
+    - potencial explosivo (caso Kavanaugh, que se diga que itam no hizo nada)
+    - casos pre-protocolo
+**** Caso: el que denuncia es el acosador
+    - cómo procede el profe con protocolo?
+    - cómo lidias cuando sospechas falsa denuncia?
+
+*** Cómo llevar entrevista
+1 te voy a escuchar --- cultivar confianza
+  - al borde ataque nervios = pospones
+2 indagas --- reconstruyes los hechos
+  - invitar a superar "deseabilidad social" (quizás por pudor)
+  - estoy para escucharte y ayudarte
+  - pasos 
+    0 empiezas por establecer cómo se va a proceder
+    a expresa sentimientos y pensamientos
+    b describe hechos conretos, fecha, lugar, testigos (burla?), quién sabe?, qué tan atrás en tiempo?
+    c pedir en forma concreta lo que queremos
+    d especificar consecuencias
+  - ninguna suposición, volver a preguntar
+3 cierras --- cóme se llegó hasta aquí, qué implicaciones tiene, qué alternativas de solución
+*** Sólo hay que tranquilizar y escuchar, no juzgar: reconstruir los hechos	
+4 Protocolo
+1 Direc escolar
+ biblio
+admiva y finan
 * Fin
 
