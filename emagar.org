@@ -22,6 +22,10 @@
 ** TODO Chile: mapa distritos antes/hoy, población distrital antes/hoy
 ** TODO Chile: enviar datos/código Urgencias a Ges y Valeria
 ** DONE Cita Paris Starbucks Altavista <2016-03-10 Thu> 4pm
+* Hair growth (NYT https://www.nytimes.com/2022/08/18/health/minoxidil-hair-loss-pills.html)
+** https://pubmed.ncbi.nlm.nih.gov/29231239/: Objective: To report on a case series of women with pattern hair loss (PHL) treated with once daily minoxidil 0.25 mg and spironolactone 25 mg.
+** Take minoxidil orally, 1/40th of a pill
+** If stray hairs appear, "Dr. Sinclair, have added another drug — very low doses of spironolactone, a blood pressure drug that also blocks certain sex hormones called androgens — to try to prevent unwanted hair growth."
 * VAIL 2022
 - [X] Renovar e.firma
 - [X] Maleta de Iza
@@ -637,7 +641,10 @@ Bike Works NYC
 ** Leblanc Arsène Lupin <2021-07-24 Sat>
 ** Christie Les pendules <2021-07-25 Sun>
 ** Benjamin Gaspard <2022-02-13 Sun>
-** Andrey Kurkov Death and the Penguin <2022-03-19 Sat> 
+** Andrey Kurkov Death and the Penguin <2022-03-19 Sat>
+** Sheley Frankenstein <2022-07-10 Sun>
+** Henry James The Turn of the Screw <2022-07-25 Mon>
+** Walter Tevis The Queen's Gambit <2022-07-30 Sat>
 * Encuestólogos
 ** David Crow para encuesta de Berumen post publicación
 ** Le ofrecemos vetar de la lista
@@ -685,6 +692,10 @@ Problem: amlo has also changed the status of not-for-profit orgs, tax-deductible
  23000 piso
 167000
 
+* Info Cancún
+** [[https://www.youtube.com/watch?v=HfY71R1U4_Q][Operación del filtro de alberca]]
+** Piscina nueva tiene ~4500 litros de agua 4.5m de diámetro y 90cm de profundidad
+** Floculante: 5ml
 * Libro @ bird's eye view
 ** 1 A+D posmod: pleito para lucirte (no por disfuncionalidad)
 ** 2 A   stateveto: corrobora componente electoral del veto en estados eeuu
@@ -1812,16 +1823,19 @@ Hola Alejandro, escribo para pedirte un título o tema de lo que presentarás en
 - [X] 2 vasos térmicos café
 - [X] 2 vasos térmicos café express
 - [X] 10 vasos cortados para vino
+- [X] 6 vasos de botella cortada para agua
+- [X] 6 vasos nocilla
 - [X] 6 vasos mezcaleros olmecas
 - [X] 2 vasos mezcaleros cortados
-- [X] 6 vasos nocilla
-- [X] 6 vasos de botella cortada para agua
+- [X] 1 bol mixteco
 - [X] 1 bol mixteco
 - [X] 2 tazas de café mixtecas
 - [X] 3 platitos café mixtecos
-- [X] 1 jarra de agua plástica
+- [X] mini tortillero
+- [X] 1 jarra de agua plástica con tapa
 - [X] 1 olla para calentar chocolate de teflón
 - [X] 1 olla chica metal con vaporera
+- [X] couteau à huitres
 - [ ] 2 ollas chicas wf 16cm (casa Iza)
 - [ ] 2 ollas medianas wf 20cm (casa Iza)
 - [ ] 1 olla grande wf 24cm (casa Iza)
@@ -1837,6 +1851,12 @@ Hola Alejandro, escribo para pedirte un título o tema de lo que presentarás en
 - [ ] licuadora
 - [X] 2 mandiles
 - [X] molino de pimienta
+- [X] taza medidora
+- [X] enfriador de vino blanco
+- [X] Posa cosas calientes de corchos de vino
+- [X] Báscula
+- [X] Utencilios de cocina
+- [X] Toallas de cocina
 ** Blancos
 - [X] 1 mantel
 - [X] Sábanas matrimonial (cajón, 2 almohadas)
@@ -1850,11 +1870,16 @@ Hola Alejandro, escribo para pedirte un título o tema de lo que presentarás en
 ** Otros
 - [X] colgadores de escobas
 - [ ] biznaga
+- [X] Armadillo de terracota
 - [ ] repisa/mesa
-- [ ] lámpara mini con guaje y dimmer
+- [X] lámpara mini con dimmer
 - [X] vaso florero chico
 - [ ] Cuadro de Sputnik
-- [X] Candelabro de cristal
+- [X] Candelabro de cristal de techo
+- [X] Lámpara con vaso verde
+- [X] Rompecabezas
+- [X] Báscula
+ 
 * ITAM 2021
 ** Rector
 - Sí soy crítico, me siento alienado (como muchos más)
