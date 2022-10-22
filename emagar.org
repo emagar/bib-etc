@@ -26,18 +26,21 @@
 ** https://pubmed.ncbi.nlm.nih.gov/29231239/: Objective: To report on a case series of women with pattern hair loss (PHL) treated with once daily minoxidil 0.25 mg and spironolactone 25 mg.
 ** Take minoxidil orally, 1/40th of a pill
 ** If stray hairs appear, "Dr. Sinclair, have added another drug — very low doses of spironolactone, a blood pressure drug that also blocks certain sex hormones called androgens — to try to prevent unwanted hair growth."
-* VAIL 2022
-- [X] Renovar e.firma
-- [X] Maleta de Iza
-- [X] Pruebas covid
-- [ ] Buscar sábanas
-- [X] Marco para Iza
-- [X] Clases de yoga para Iza
-- [X] Envolver regalos
-- [X] Toño Puebla: $ y posponer 1 semana
-- [X] Mail a María
-- [X] Empacar
-- [X] renta coche
+* Paragüería París <2022-10-17 Mon 11:00>
+Belisario Domínguez 3-Local 3
+55 5512 6165
+Mandar paraguas <2023-01-16 Mon> a don Cuco
+* Tareas para el asistente Pepe Torrens <2022-09-23 Fri>
+- [ ] Pedir fichas biográficas de candidatos nayaritas <2022-10-17 Mon>
+- [ ] SOLICITADO WAIT Que obtenga de los resultados federales las listas nominales por casilla
+- [ ] Que reconstruya lisnom municipios y distritos
+- [ ] Que compare con lisnom en resultados municipales
+- [ ] Resultados de gobernadores recientes
+- [ ] gua 2000 gober
+- [ ] diputados 65: poner al día licencias, año nacimiento, partido
+- [ ] obtenga informes sesiones preparatorias 57-64 cdip y sen
+- [X] 1932: falta el distrito 11 de michoacan que sí eligió diputado --- calificaron paquetes de Maravatío y Senguio
+- [ ] Reseccionamiento 2020 https://www.ine.mx/sesion-extraordinaria-del-consejo-general-26-de-agosto-de-2020/
 * org-agenda bindings
 ** C-c [     add current file to list of agenda files
 ** C-c ]     drop current file to list of agenda files
@@ -90,10 +93,10 @@
 - Controles clásicos, patrones de alternancia, core/swing, dIncumbentRunning
 * Pendientes recurrentes
 ** Clases del semestre
-*** ElecPúb3 <2020-08-05 Wed 13:00-14:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
-*** PolComp2 <2020-08-05 Wed 17:30-19:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
-*** ElecPúb3 <2020-08-10 Mon 13:00-14:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
-*** PolComp2 <2020-08-10 Mon 17:30-19:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+*** ElecPúb3 <2020-08-05 Wed 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+*** PolComp2 <2020-08-05 Wed 11:30-13:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+*** ElecPúb3 <2020-08-10 Mon 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+*** PolComp2 <2020-08-10 Mon 11:30-13:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
 ** Cumples
 *** *Aniversario* boda <2007-06-09 Sat +10y +11y +12y +13y +14y +15y +16y +17y +18y +19y +20y +21y>
      :PROPERTIES:
@@ -266,7 +269,6 @@ Sincères remerciements,
 ** En emacs, estudiar C-h i d m reftex <2020-01-14 Tue>
 ** Taller acoso <2020-01-15 Wed 13:15>
 ** Hacer Prueba de antígeno prostático y ultrasonido de próstata <2023-01-05 Thu>
-** Reunión Sonia-Dani <2021-02-04 Thu 8:05 +1w>
 ** Para letrero Sn Agustinillo <2018-02-24 Sat>
 PELIGRO / DANGER
 *No* nade entre las dos banderas rojas
@@ -320,13 +322,12 @@ Pedí tablas de 3" x 1/2" x 1m
 (setq org-agenda-span 15)
 
 * Carta para los padres de Sn Agus
-** DONE Examen Julia <2019-03-22 Fri 13:00>
 Hola, 
 Cuando te vi entrar una mañana a la pâtisserie me congelé. No consigo recordar tu nombre, menos el de tu marido. Pero no olvidaré aquella tarde en San Agustinillo. Te he vuelto a ver y me incomoda no saber como narrarte lo que pasó. Prefiero escribirlo. 
 
-
-
 Veo que también eres 
+
+** DONE Examen Julia <2019-03-22 Fri 13:00>
 
 * Proyectos
 ** Académicos
@@ -1802,83 +1803,98 @@ Hola Alejandro, escribo para pedirte un título o tema de lo que presentarás en
 - [X] Juego no te enojes (M y/o A)
 - [X] Pistola Nerf (M) 200
 - [ ] Cuadro para Vala
-* Inventario compras Ensenada <2021-11-05 Fri>
+* Inventario compras Ensenada updated <2022-09-25 Sun>
 ** Baño
-- [X] 4 toallas de mano
-- [X] 4 toallas de ducha
-- [X] 1 tapete de baño
+- [X] 4 toallas de mano                                      CAJA 5
+- [X] 4 toallas de ducha                                     CAJA 5
+- [X] 1 tapete de baño                                       CAJA 3
 ** Cocina
+- [X] Destapator                                             CAJA 1
 - [X] jarra de barro mixteca
 - [X] Ensaladera barro patas de serpiente 
 - [X] 1 pocillo de lava con tapa
-- [X] 1 tarro de cobre
-- [X] 1 cuchara mescladora/ensaladera tefal
-- [X] 1 tijeras de cocina
-- [X] 1 servilletero de madera
-- [X] 1 cuchillo Laguiole de fuet
-- [X] 1 rebanador de queso delgado
-- [X] 1 cuchillo de pan
-- [X] 1 cuchillo de carne
-- [X] 2 egg coddlers
-- [X] 2 vasos térmicos café
-- [X] 2 vasos térmicos café express
-- [X] 10 vasos cortados para vino
-- [X] 6 vasos de botella cortada para agua
-- [X] 6 vasos nocilla
-- [X] 6 vasos mezcaleros olmecas
-- [X] 2 vasos mezcaleros cortados
-- [X] 1 bol mixteco
-- [X] 1 bol mixteco
-- [X] 2 tazas de café mixtecas
-- [X] 3 platitos café mixtecos
-- [X] mini tortillero
-- [X] 1 jarra de agua plástica con tapa
+- [X] 1 tarro de cobre                                       CAJA 3
+- [X] 1 cuchara mescladora/ensaladera tefal                  CAJA 6
+- [X] 1 tijeras de cocina                                    CAJA 4
+- [X] 1 servilletero de madera                               CAJA 4
+- [X] 1 cuchillo Laguiole de fuet                            CAJA 4
+- [X] 1 rebanador de queso delgado                           CAJA 1
+- [X] 1 cuchillo de pan                                      CAJA 6
+- [X] 1 cuchillo de carne                                    CAJA 6
+- [X] 1 cuchillo de cocina chico                             CAJA 6
+- [X] 2 egg coddlers                                         CAJA 6
+- [X] 4 vasos térmicos café                                  CAJA 4
+- [X] 2 vasos térmicos café express                          CAJA 1
+- [X] 10 vasos cortados para vino                            CAJA 1
+- [X] 6 vasos de botella cortada para agua                   CAJA 4
+- [X] 6 vasos nocilla                                        CAJA 1
+- [X] 6 vasos mezcaleros olmecas                             CAJA 4
+- [X] 2 vasos mezcaleros cortados                            CAJA 4
+- [X] 2 boles mixtecos                                       CAJA 6
+- [X] 2 tazas de café mixtecas                               CAJA 4
+- [X] 3 platitos café mixtecos                               CAJA 1
+- [X] mini tortillero                                        CAJA 6
+- [X] 1 jarra de agua plástica con tapa                      CAJA 4
+- [X] 1 olla chica metal con vaporera                        CAJA 6 en parte
 - [X] 1 olla para calentar chocolate de teflón
-- [X] 1 olla chica metal con vaporera
-- [X] couteau à huitres
 - [ ] 2 ollas chicas wf 16cm (casa Iza)
 - [ ] 2 ollas medianas wf 20cm (casa Iza)
 - [ ] 1 olla grande wf 24cm (casa Iza)
-- [X] 1 coladera escurridora de ensalada
 - [ ] vajilla completa para 6 (casa Iza)
-- [X] juego de cubiertos completo
-- [X] 1 platón para servir mixteco chico
 - [ ] 1 platón cerámica horno 20cm (casa Iza)
 - [ ] 2 platones cerámica horno 24cm (casa Iza)
-- [X] molino de café
-- [X] 2 tablas de madera chicas
-- [X] 1 tablas de madera mediana
+- [X] 1 coladera escurridora de ensalada
+- [X] juego de cubiertos completo                            CAJA 4
+- [X] 1 platón para servir mixteco chico                     CAJA 4
+- [X] molino de café                                         CAJA 3
+- [X] 2 tablas de madera chicas                              CAJA 3
+- [X] 1 tablas de madera mediana                             CAJA 4
+- [X] 2 mandiles                                             CAJA 1
+- [X] molino de pimienta                                     CAJA 4
+- [X] taza medidora                                          CAJA 2
+- [X] couteau à huitres                                      CAJA 6
+- [X] enfriador de vino blanco                               CAJA 2
+- [X] Posa cosas calientes de corchos de vino                CAJA 6
+- [X] Posa cosas calientes metálico                          CAJA 4
+- [X] Báscula                                                CAJA 6
+- [X] Utencilios de cocina                                   CAJA 6
+- [X] Toallas de cocina                                      CAJA 3
+- [X] Báscula                                                CAJA 6
 - [ ] licuadora
-- [X] 2 mandiles
-- [X] molino de pimienta
-- [X] taza medidora
-- [X] enfriador de vino blanco
-- [X] Posa cosas calientes de corchos de vino
-- [X] Báscula
-- [X] Utencilios de cocina
-- [X] Toallas de cocina
 ** Blancos
-- [X] 1 mantel
+- 6 sábanas de cajón individual
+- 4 fundas de edredón individual
+- 1 funda de edredón king size
+- 4 edredones individual
+- 1 edredón king size
+- [X] 1 mantel                                               CAJA 4
 - [X] Sábanas matrimonial (cajón, 2 almohadas)
-- [X] Sábanas matrimonial (cajón, plana, 2 almohadas)
-- [X] Sábanas matrimonial (cajón, duvet cover, 2 almohadas)
-- [X] 1 sarape de saltillo Nonno
-- [X] 2 sarapes de saltillo comunes
-- [X] 1 cubrecama matrimonial de algodón azul
-- [X] 1 cubrecama matrimonial de batik
-- [X] 2 cubrecamas chiapanecos de cama individual
+- [ ] Sábanas matrimonial (cajón, plana, 2 almohadas)
+- [ ] Sábanas matrimonial (cajón, duvet cover, 2 almohadas)
+- [X] 1 sarape de saltillo Nonno                             CAJA 3
+- [X] 2 sarapes de saltillo comunes                          CAJA 5
+- [X] 1 cubrecama matrimonial de algodón azul                CAJA 3
+- [X] 1 cubrecama matrimonial de batik                       CAJA 3
+- [X] 2 cubrecamas chiapanecos de cama individual            CAJA 4
 ** Otros
-- [X] colgadores de escobas
+- [X] colgadores de escobas                                  CAJA 4
 - [ ] biznaga
 - [X] Armadillo de terracota
-- [ ] repisa/mesa
-- [X] lámpara mini con dimmer
-- [X] vaso florero chico
+- [ ] Señor de terracota
+- [ ] Pelota Ferrari
+- [ ] Sun god de Eric Ledoux
+- [ ] Ballena de madera
+- [ ] Comal con puesta de sol
+- [ ] repisa que se hace mesa
+- [X] vaso florero chico                                     CAJA 5
+- [X] venado de terracota                                    CAJA 5
 - [ ] Cuadro de Sputnik
 - [X] Candelabro de cristal de techo
-- [X] Lámpara con vaso verde
-- [X] Rompecabezas
-- [X] Báscula
+- [X] Lámpara con vaso verde                                 CAJA 2
+- [X] Rompecabezas                                           CAJA 6
+- [ ] Sillas Van Beuren
+- [ ] Lámpara de plafón de mimbre
+- [X] Lámpara veladora onix                                  CAJA 3
  
 * ITAM 2021
 ** Rector
