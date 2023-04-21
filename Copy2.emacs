@@ -51,9 +51,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Remember cursor location from last edit ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(save-place-mode)             ; emacs 25+
-; (require 'saveplace)        ; emacs 24.5-
-; (setq-default save-place t) ; emacs 24.5-
+(save-place-mode)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; will allow you to type just "y" instead of "yes" when you exit ;;
@@ -139,12 +137,12 @@
 (set-face-attribute 'ac-candidate-face nil :background "#00222c"    :foreground "light gray")
 (set-face-attribute 'ac-selection-face nil :background "SteelBlue4" :foreground "white")
 (set-face-attribute 'popup-tip-face    nil :background "#003A4E"    :foreground "light gray")
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; smart underscore in R buffers ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(require 'ess-r-mode)
-(define-key ess-r-mode-map "_" #'ess-insert-assign)
-(define-key inferior-ess-r-mode-map "_" #'ess-insert-assign)
+;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; ;; smart underscore in R buffers ;;
+;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; (require 'ess-r-mode)
+;; (define-key ess-r-mode-map "_" #'ess-insert-assign)
+;; (define-key inferior-ess-r-mode-map "_" #'ess-insert-assign)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Call auctex macros ;;

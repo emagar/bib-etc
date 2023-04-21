@@ -1,19 +1,27 @@
 #+SEQ_TODO: TODO WAIT TEST URGENT! | DONE DROPPED
 
+* Viaje CdMx-Ensenada
+** Tequila 7h30
+- Hotel Plaza Jardín ~$1000
+** Comala drop
+- Hotel Casa Alvarada ~$1000
+- Quinta Comala $1250
+** VW issues
+*** Fuel pressure ressources
+- https://1967beetle.com/fuel-pressure/
+- Las piezas involucradas: lápiz o vástago, bomba mecánica y el "eje" engranado del distribuidor. 
 * ToDo general
+** TODO Buscar chamba post-itam
 ** TODO Cómo se mete una slide en un itemize de presentación LaTeX (digresión que regrese al siguiente item)
 ** TODO Cómo se mete un cronómetro/reloj en la presentación LaTeX
 ** TODO Retomar INE
 ** TODO rc57, rc58, rc59
 ** TODO rc62, rc63 (comparten mapa distrital con 60 y 61, hechas)
 ** TODO Que Vala arregle pasar por escrituras de la casa
-** DONE Cita Dr Lipkau para preguntarle si sustituye a Washington
 ** TODO Cita Dra Ma Cristina Mtz que dejó Hidalgo en su consultorio: conocerla 5584-2133
-** DONE Urólogo
-** DONE Testamentos, recogerlos y cambiar a Cristina por Val!
+** TODO Testamentos, recogerlos
 ** TODO Terminar draft Brasil MPs
 ** TODO Terminar draft Brasil Scheduling
-** TODO Mail a Gary
 ** TODO Brasil: www.neci.fflch.usp.br
 ** TODO Brasil: Andréa Freitas buscar su trabajo de coalición
 ** TODO Brasil: Buscar tesis USP Fernanda Maquiavelli sobre MPs antes/desp reforma
@@ -21,60 +29,59 @@
 ** TODO México: ALDF's fit in book
 ** TODO Chile: mapa distritos antes/hoy, población distrital antes/hoy
 ** TODO Chile: enviar datos/código Urgencias a Ges y Valeria
-** DONE Cita Paris Starbucks Altavista <2016-03-10 Thu> 4pm
-* Hair growth (NYT https://www.nytimes.com/2022/08/18/health/minoxidil-hair-loss-pills.html)
-** https://pubmed.ncbi.nlm.nih.gov/29231239/: Objective: To report on a case series of women with pattern hair loss (PHL) treated with once daily minoxidil 0.25 mg and spironolactone 25 mg.
-** Take minoxidil orally, 1/40th of a pill
-** If stray hairs appear, "Dr. Sinclair, have added another drug — very low doses of spironolactone, a blood pressure drug that also blocks certain sex hormones called androgens — to try to prevent unwanted hair growth."
-* Paragüería París <2022-10-17 Mon 11:00>
+* Paragüería París <2022-10-21 Fri 11:00>
 Belisario Domínguez 3-Local 3
 55 5512 6165
 Mandar paraguas <2023-01-16 Mon> a don Cuco
-* Tareas para el asistente Pepe Torrens <2022-09-23 Fri>
+* DONE Viaje Suiza Lausanne Aurelia
+  CLOSED: [2023-02-16 Thu 09:31]
+** Formato de Salida de Menores (SAM)
+1. Llena el formulario en línea e imprímelo.
+2. Para evitar contratiempos, te recomendamos acudir con anticipación a la Oficina de representación del INM más cercana o a los puntos de internación y salida al extranjero (aeropuertos, puertos marítimos y terrestres) con el Formato SAM debidamente lleno y la siguiente documentación:
+   - [X] Original y 3 copias del Pasaporte del menor
+   - [X] Original y 3 copias del acta de nacimiento del menor
+   - [X] Original y 3 copias de la identificación vigente de la persona que ejerce la patria potestad. 
+   - [ ] Original y 3 copias de la identificación vigente del acompañante del menor (en caso de que viaje con un tercero mayor de edad)
+3. Una vez en la Oficina de representación del INM, el Agente Federal de Migración revisará la documentación y, en caso de no existir irregularidades, procederá a sellar los formatos para darles validez oficial. Es muy importante mencionar que sólo los agentes del INM están autorizados para sellar el Formato SAM, sin este sello, las y los menores de edad no podrán salir de territorio mexicano aunque cuenten con su boleto de viaje.
+** Ropa térmica
+** Argent de poche para que invite a la familia
+* Tareas para Pepe Torrens <2022-11-22 Tue>
 - [ ] Pedir fichas biográficas de candidatos nayaritas <2022-10-17 Mon>
-- [ ] SOLICITADO WAIT Que obtenga de los resultados federales las listas nominales por casilla
+- [X] SOLICITADO WAIT Que obtenga de los resultados federales las listas nominales por casilla
 - [ ] Que reconstruya lisnom municipios y distritos
 - [ ] Que compare con lisnom en resultados municipales
-- [ ] Resultados de gobernadores recientes
-- [ ] gua 2000 gober
+- [X] gua 2000 gober
+- [ ] busque/capture 2021 2022 en go1961-oned
 - [ ] diputados 65: poner al día licencias, año nacimiento, partido
 - [ ] obtenga informes sesiones preparatorias 57-64 cdip y sen
 - [X] 1932: falta el distrito 11 de michoacan que sí eligió diputado --- calificaron paquetes de Maravatío y Senguio
 - [ ] Reseccionamiento 2020 https://www.ine.mx/sesion-extraordinaria-del-consejo-general-26-de-agosto-de-2020/
-* org-agenda bindings
+* org-agenda bindings http://orgmode.org/manual/Agenda-commands.html
 ** C-c [     add current file to list of agenda files
 ** C-c ]     drop current file to list of agenda files
 ** C-c a a   compile an agenda from files
-** http://orgmode.org/manual/Agenda-commands.html
 ** f [With agenda compiled]      one unit fwd
 ** b [With agenda compiled]      one unit backward
 ** . [With agenda compiled]      go to today
 ** j [With agenda compiled]      prompt for day to go to
-
-* Amex dorada
-** servicios domiciliados
-- [X] netflix
-- [X] axtel
-- [X] paypal nyt - dropped gold <- check again
-- [X] telcel
-- [X] economist, apple
-- [X] adt 01 800 2025 238
-- [X] save the children 01800 87 27692 | atencion.donantes@savethechildren.org
-** servicios que se cobran
-- [X] cabify (estaba con paypal:eric.magar@gmail.com)
-- [X] uber
-- [ ] farmacia
-- [ ] apsa (no automático)
-- [ ] mpsa (no automático)
-- [ ] grin
-- [ ] bicis verdes
-- [ ] bicis naranja
+** q [With agenda compiled]      close buffer
+* Amex verde servicios domiciliados
+- netflix
+- amazon prime
+- paypal nyt
+- telcel
+- economist
+- save the children 01800 87 27692 | atencion.donantes@savethechildren.org
 * Eventos mis cincuenta y dos 52
 ** Peregrinación a Chalma
 ** Viaje a Ensenada
 ** Viaje al Peyote
-** Velero en el Mar de Cortés
-** Campamento
+** Velero en el Mar de Cortés Marc Rosenfeld
+** Caminata Copalilla
+** Santa Rosalía
+** ballenas Sn Ignacio, Sierra de Guadalupe
+** DONE Campamento
+   CLOSED: [2022-10-29 Sat 16:33]
 ** Gatherings
 *** DONE Comida Milore, Juan, Jesús <2020-01-11 Sat>
 *** DONE Caminata Ajusco con Dwight <2020-02-15 Sat>
@@ -87,26 +94,35 @@ Mandar paraguas <2023-01-16 Mon> a don Cuco
 * Cap Moreno
 - Opción 1: fin de la partidocracia y la incógnita del formato para el nuevo árbitro
 - Opción 2: 
+* Reforma electoral AMLO 2022
+1) 500 -> 300 diputados y 128 -> 96 senadores
+2) Ambas cámaras electas por RP con listas cerradas estatales
+3) máx 9 regidores y máx 45 diputados locales
+4) 40 -> 33% para consulta vinculante
+5) Voto electrónico
+6) Financiamiento público sólo para campañas
+7) 11 -> 7 Consejo General
+8) Propuestos por 3 poderes, elección popular
 * Paper PyG 2018
 - Incumbency advantage en elecciones municipales
 - Usar la medida de voto normal vía residuales como expectativa
 - Controles clásicos, patrones de alternancia, core/swing, dIncumbentRunning
 * Pendientes recurrentes
 ** Clases del semestre
-*** ElecPúb3 <2020-08-05 Wed 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
-*** PolComp2 <2020-08-05 Wed 11:30-13:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
-*** ElecPúb3 <2020-08-10 Mon 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
-*** PolComp2 <2020-08-10 Mon 11:30-13:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+# *** ElecPúb3 <2020-08-05 Wed 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+# *** PolComp2 <2020-08-05 Wed 11:30-13:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+# *** ElecPúb3 <2020-08-10 Mon 16:00-17:30 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
+# *** PolComp2 <2020-08-10 Mon 11:30-13:00 +1w +2w +3w +4w +5w +6w +7w +8w +9w +10w +11w +12w +13w +14w +15w +16w>
 ** Cumples
 *** *Aniversario* boda <2007-06-09 Sat +10y +11y +12y +13y +14y +15y +16y +17y +18y +19y +20y +21y>
      :PROPERTIES:
      :LAST_REPEAT: [2017-06-12 Mon 11:20]
      :END:
 *** Cumple *Adriana* <2018-01-27 Sat +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
-*** Cumple *Aurelia* <2011-07-05 Tue +7y +8y +9y +10y +11y +12y +13y +14y +15y +16y>
+*** Cumple *Aurelia* <2011-07-05 Tue +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y +11y +12y +13y +14y +15y +16y>
 *** Cumple *Iza* <1949-02-28 Mon +69y +70y +71y +72y +73y +74y +75y +76y +77y +78y +79y +80y>
 *** Cumple *Juanito* <2017-04-14 Fri +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
-*** Cumple *León Martín* <2014-01-17 Fri +4y +5y +6y +7y +8y +9y +10y +11y +12y +13y>
+*** Cumple *León Martín* <2014-01-17 Fri +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y +11y +12y +13y>
 *** Cumple *Pili* <2017-04-13 Thu +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
 *** Cumple *Vala* <1975-08-30 Sat +42y +43y +44y +45y +46y +47y +48y +49y +50y +51y>
 *** Cumple *Yvonne* <2017-04-26 Wed +1y +2y +3y +4y +5y +6y +7y +8y +9y +10y>
@@ -120,13 +136,196 @@ Mandar paraguas <2023-01-16 Mon> a don Cuco
      - State "DONE"       from "URGENT!"    [2018-01-19 Fri 08:09]
 *** Cumple *Ges* <1973-05-28 Mon + 45y + 46y +47y +48y +49y +50y +51y +52y +53y +54y +55y +56y>
 *** Cumple *Paula* <1968-12-31 Tue +52y +53y +54y +55y +56y>
-
 *** Cumple *Vala* <1975-08-30 Tue +45y +46y +47y +48y +49y + 50y +51y +52y +53y +54y +55y +56y>
 ** Recordatorios
 *** Backup físico <2019-12-02 Mon +1m +2m +3m +4m +5m +6m +7m +7m +8m +9m +10m +11m +12m +13m>
 *** * * -> Inyección de Aurelia <- * * <2020-12-21 Mon>
-*** * * -> Inyección de Aurelia <- * * <2021-03-04 Sun +12w +24w>
+*** * * -> Inyección de Aurelia <- * * <2021-03-04 Sun +12w +2
 * Pendientes caducos
+** DONE Llamada Micah <2023-02-16 Thu 11:30>
+** DONE Visita a Aura <2023-02-16 Thu 13:00> Presa Nejapa 174
+** DONE Conversatorio LGBT para profes
+   CLOSED: [2022-11-21 Mon 09:52]
+<2022-11-16 Wed 14:30>--<2022-11-16 Wed 16:00>
+** DONE Brown bag: Coahuila
+   CLOSED: [2022-11-21 Mon 09:53]
+<2022-11-10 Thu 14:30>--<2022-11-10 Thu 16:00>
+*** Mail Adriana
+Hola Adriana, gracias por invitarme al brown bag. Adjunto el paper que presentaré en jueves con Alejandro. Tuvimos un rechazo reciente por una revista, ésta podría ser una oportunidad para aclarar objetivos, replantear el framing y recomponer el trabajo. Buen fin de semana, -e
+Título: The Personal Vote in Mexico: Separating Incumbency and Campaign Effects with Survey Evidence
+Autores: Eric Magar and Alejandro Moreno
+*** Mail Alejandro
+Hola Alejandro, Adriana Alfaro me pidió presentar en el brown bag del jueves 10 de noviembre y le mandé nuestro paper de Coahuila. 
+
+LSQ lo rechazó, y ésta podría ser una oportunidad para aclarar objetivos, replantear el framing y recomponer el trabajo. Adjunto los reportes recibidos, dan nociones de cómo reformar el trabajo. Adjunto también la versión actual del paper. 
+
+Ahora estoy fuera de la ciudad, te buscaré la semana entrante para afinar detalles. Buen fin de semana. -e  
+**** Referee reports LSQ submission reconoce04
+Rejected by LSQ
+Legislative Studies Quarterly: LSQ-07-2022-0062
+The Personal Vote in Mexico: Separating Incumbency and Campaign Effects with Survey Evidence
+# ########### #
+# Reviewer: 1 #
+# ########### #
+This article is innovative in using redistricting to test incumbency and campaign effects.  The survey measuring candidate name recognition in the different subsectors of the old and new districts is innovative and holds promise in helping to tease out the differences between the two effects.  The different effects, however, are not clearly articulated and the data does not include some of the key subsectors of the districts.  As a result, one of the main tests is between voters currently ( R)  or formerly (l) in the candidates district with those who are unrelated (N).  It is little surprise that voter recognition is low where the candidate is unconnected. Still, the comparison of R & L is potentially interesting, but the authors have, to my mind, not sufficiently explained the campaign vs incumbency hypotheses.  Some of the theory, further, is unconnected to the empirical analysis.
+ 
+The authors campaign hypothesis is that L<R, while the incumbency  hypothesis is L=R.  I do agree that campaigns should produce an effect where  R>L,  but I found the authors’ explanation hard to follow.  Still, I think it could be explained simply is that name recognition in R>L because R gets the benefit of campaign + incumbency while L only gets incumbency, and that for just part of the term.   Stated in this way the theoretical result is somewhat trivial, but the measurement might still be quite valuable.
+ 
+Two key descriptive concerns are that the paper does not report when the survey was taken in relation to the election, nor when the redistricting occurred.  If the legislator worked on constituency service throughout the (3-year) term, and redistricting occurred just before the election, then the incumbency should produce similar name recognition throughout the territory.  But if redistricting occurred earlier, then incumbency would have more limited effects.
+ 
+While it would not be pertinent for a study of a single election in one state, the timing of the redistricting could be a useful variable. If the legislator knows early in the term about the redistricting, then constituency service, as well as the later campaigning would focus on R and not L.  But if the districts are drawn later, then the incumbency and campaigning effects would still be similar.
+ 
+Another suggestion is that the authors rethink the incumbency effect.  Traditional studies measure the incumbency effect relative to challengers or against co-partisans who are not incumbents (see 1990s-era paper by Gelman and King, which uses a simple regression and codes for incumbency status).  In the current paper incumbency and campaigning are intertwined, so the authors are measuring the added benefit of a campaign on top of a baseline name recognition that is owed to a previous campaign plus incumbency effects. Again, the authors are thus measuring what the new campaign adds.  Note too that the measure is interesting in terms of the decay of name recognition. Each incumbent won at time t-1, thus showing that the recognition is considerably higher at time t is useful.
+ 
+It is unfortunate that the authors’ data does not include all potential areas of the redistricting, and they only have data on L in 3 districts.  As a result, the finding about how much campaigning adds to the name recognition is only supported by data on two of three districts.  It is perhaps noteworthy that these two districts are both where the candidate sought new offices (progressive ambition), but we cannot draw a statistically valid conclusion about that from 3 cases.
+ 
+There is no data on G, which is unfortunate since it could help distinguish the effects. It is also somewhat worrying that there were only 14 respondents in two of the three L categories.  Finally, N is not carefully defined;  while presumably the surveys are all within the state, “no man’s land” could be an area close to the district or somewhere much further away. 
+ 
+A final note is that I found the empirical section somewhat detached from the introductory discussion.  After reading about the “party lock” I had thought that the paper would focus on this important aspect of Mexican elections.  The issue, however, does not appear in the empirical part of the paper.
+ 
+In sum, I found the division of districts into their pre- and post-redistricting components very interesting, especially when matched with surveys that are coded according to those borders.  The data, however, was insufficient to test the most interesting hypotheses, and the theory was underdeveloped in relation to the empirics.
+# ########### #
+# Reviewer: 2 #
+# ########### #
+I thank the authors for the opportunity to read this manuscript, I have to recommend rejection, because the changes that I suggest are both substantial and extended. It is my hope that the authors find my suggestions helpful for future revisions of this manuscript.
+ 
+In the introduction of the paper, it is not entirely clear what the research question/the goal is. The authors state that they aim to investigate voters’ familiarity with state assembly representatives in the state of Coahuila, in northern Mexico. Do they attempt to compare the level of familiarity before and after the right to get reelected was approved? However, at the beginning of the article, it seems that the goal is to tackle the effects of changes in reelection rules. Immediately afterwards, the authors state that they aim to study familiarity. I suggest clarifying the main goal of the article in the introduction. It is also important to answer the “so what” question in this section. For instance, why is familiarity relevant? To what extent does it predict voting decisions? Is there any literature on this topic? Why is so important to distinguish personal vote from campaign effects?
+ 
+Tables 1 and 2 do not contribute to the understanding of the context. Since the legislature under study is subnational (state level), I suggest presenting/describing a context focusing on this level of government. Furthermore, a careful justification on why the authors chose Coahuila as a relevant case to analyze familiarity would be helpful for understanding the advantages of their research design. Is redistricting a phenomenon only affecting Coahuila? How was the redistricting in Coahuila? Is it a unique case? Are there other similar cases?
+Furthermore, it is not surprising that familiarity with incumbents or specific politicians would change as redistricting occurs. Overall, the theoretical section remains underdeveloped.  The authors should offer some theoretical explanations about changes in familiarity on the basis of the key independent variable (that is, changes in reelection rules or in redistricting). Perhaps media attention to the incumbents and flows of information to constituents might help understand the effects of redistricting on familiarity.
+ 
+The presentation and analysis of the empirical section also remains underdeveloped. What is the theoretical justification for the control variables? Moreover, it would also be advisable that the authors could take into account two points in time (i.e. panel survey?) to identify convincingly the effects of either changes in redistricting (before and after).  Is this possible?
+ 
+Finally, the construction of sentences requires revision. For instance, the authors present this sentence: “Hence members’ preference for particularistic goods,” which seems to be an incomplete statement. In addition, parts of the text remain confusing and hard to be read. For instance: “Or are voters familiar simply because of the campaign itself, which happens simultaneously and inevitably if the incumbent in on the ballot?” This final example needs clarification for the standard reader.
+# ########### #
+# Reviewer: 3 #
+# ########### #
+This manuscript studies the effects of incumbency advantage and campaign effects in a state assemby election in the state of Coahuila in northern Mexico in 2017. Studies of this nature face the difficult task of disentangling respondents’ potential name recognition as the result of incumbency effects from efforts to cultivate the personal vote by politicians. The authors exploit an interesting event – removal of single-term limits in Mexico – to partition the effects of incumbency (because politicians may now represent different districts) from the personal vote. The authors use a face- to-face survey to find evidence that some of the name recognition is the result of the personal vote.
+ 
+I have a few comments listed below because I generally support the manuscript and I hope that these comments will help the authors as they continue to revise.
+ Comments
+ 
+The authors assume that the removal of the single-term limit will increase the incentives for politicians to cultivate a personal vote, and they claim to see that name recognition arises to a higher degree in areas that remained within the district after redistricting. I think the argu- ment would be on a more solid foundation if the authors were to point to other (descriptive) evidence that shows that leaders had relatively low level of name recognition prior to the removal of term limits.
+ 
+The authors should be commended for their clear and concise descriptions of a few rela- tively complex topics (such as the simulations and Figure 1). However, I have a couple of comments that would improve the flow and impact of the manuscript.
+ 
+(a) Table 4 is quite confusing. This is a surprise because the text clearly describes the expectations for name familiarity related to campaign effects and incumbency on page 14. I read through the section a number of times and I still have no idea what the different rows represent in Table 4. This should either be reformatted to match the verbal description or removed.
+ 
+(b) The manuscript would benefit greatly from a professional proofreading by a native English speaker. In particular, the authors use a number of synonyms throughout that slightly change the meaning of sentences which makes it difficult to follow along.
+ 
+I’m concerned that the survey construction significantly limits the strength of the empirical test. Isn’t it a problem that the stratified sampling points remove those areas that are gained in redistricting? How can the authors provide a complete test of the expectations in Table 4 without having name familiarity data from those locations? Is it a problem that in two of the three incumbents in the Static Ambition category don’t have any respondents who were in areas lost? Are there actually enough residents in these areas to produce reliable estimates that the reader can believe?
+** DONE SD nov 2022
+*** DONE Coche uSave 1025 W LAUREL STREET
+    CLOSED: [2022-11-03 Thu 08:22]
+*** LegoLand
+<2022-11-03 Thu 10:00>--<2022-11-03 Thu 18:00>
+**** https://www.legoland.com/california/
+**** Confirmation Number 619072833
+*** A
+**** DONE esta Aure
+   CLOSED: [2022-11-01 Tue 04:55]
+**** Tokio world 8111 Balboa Ave, San Diego, CA 92111 (off 163)
+**** GUNNZO 3985 Harney St suite b, San Diego, CA 92110 (Old Town)
+*** M
+**** GameStop 1640 Camino Del Rio N #317A, San Diego, CA 92108 (8/163)
+**** GameRave 3545 Midway Dr STE K, San Diego, CA 92110 (by Sports Arena Bd)
+** otto: red, vende
+*** DROPPED email  
+    CLOSED: [2022-11-03 Thu 08:26]
+Hola Otto. Como esperaba, la charla ayer con Oscar dio noticias malas. Pero también aclaró temas importantes. Bad news: tendremos que esperar un semestre para que empiecen a escriturar la Torre A. O quizás más. Hay proveedores clave que no están entregando y frenan el avance. Es fácil desesperar.
+Per también hay que tener presente la posibilidad de vender el departamento. Las ventas recientes de Viento están arriba de US$4000/m2. Yo compré en US$1900/m2. Restando la multa por anular el contrato (20%), habría ganancia de 70%. No es fantástica para 6 años de espera, pero casi triplica lo que ha dejado mi fondo de inversión en el periodo. No pienso vender aún, pero da cierta tranquilidad saber que Oscar ha usado la opción con algunos clientes. 
+
+Sería deseable armar la lista de compradores de Viento y sus contactos para comunicarnos. Conozco a pocos. Si cada quien añadiera sus conocidos, conseguiríamos expandirla.  
+** Network Viento, acción colectiva
+- *Principal interés* es que concluya obra pronto
+*** Hay ~66 (O dijo 68) depas en torre A, conocemos a algunos
+- Otto Aussermeier
+- Manuel Turrent (dos depas)
+- Guillermo Mondragón 55 2653 0149
+- Alida Ramírez
+- Ana Laris
+- Eric Magar A171
+- Maureen Woolrich (también trabaja para Viento)
+*** DONE Contacto
+    CLOSED: [2022-11-06 Sun 11:12]
+<2022-11-06 Sun>
+Hola Alida. Claudia Turrent me pasó tus coordenadas. Escribo para tejer una red de compradores de Viento. Nos permitirá explorar alternativas para confrontar conjuntamente los eternos atrasos de la constructora para concluir la obra y entregarnos nuestros departamentos. La verdad no veo muchas, pero con coordinación podremos ejercer más presión. ¿Cómo ves?
+Te saludo, 
+-Eric Magar
+*** DROPPED Comunicado red-viento
+    CLOSED: [2022-11-21 Mon 09:53]
+<2022-11-20 Sun>
+Como dije, Claudia me pasó sus datos para comunicarnos.
+
+La semana pasada viajamos Valentina y un servidor a Ensenada. Visitamos la obra. Pudimos constatar que la entrega para diciembre 2022, que nos prometió Oscar antes del verano pasado, no se cumplirá. Después vimos a Oscar para pedirle explicaciones y manifestarle nuestra molestia en éste y otros temas.
+
+Nos dio una nueva fecha de entrega de la torre A: abril/mayo de 2023. Y quedamos en pedirle compensación adicional a las establecidas en el contrato y addendum (que nosotros, de buena fe pero muy desafortunadamente, firmamos). 
+
+Ayer le mandamos nuestra solicitud: que nos entregue como compensación un segundo cajón de estacionamiento y una segunda bodega. 
+
+Perfil financiero ok.
+
+Hablé con 
+
+
+- Tenemos poco margen de maniobra: abog dice q podríamos ganar una demanda, pero lo que obtendríamos a cambio es muy incierto. Quizás se frene la obra. O podríamos escriturar algo inconcluso. O quien sabe. 
+- Llamé a Eugenio Riquelme Turrent, q insiste en que fecha de entrega abril/mayo 2023 que promete Oscar es factible (la llamó conservadora). 
+- Nuevo addendum. A Oscar le propondré una compensación por los constantes atrasos y el tortuguismo. Abog desrecomienda penas en dinero, como las que hay en el contrato, porque complicadísimo cobrarlas. Mejor pedir otro cajón de estacionamiento o una bodega ms grande, o algo así. No sé qué sigue si lo rechaza todo. 
+- Queda el tema de los espacios comunes, que tardarán aún más. Ahí no se me ocurre qué poner. 
+- Oscar recorre constantemente la fecha prometida de entrega. En mayo pasado me dijo que harían entregas/escrituaciones escalonadas entre agosto y noviembre 2022. 
+- Ahora me dijo que en abril 2023. Sospecho que tampoco cumplirá. 
+- Visité el edificio la semana pasada. Avanza a paso de tortuga. Oscar pretexta que los distribuidores no le entregan materiales y equipo. Seguramente es parte de la historia, pero pareciera que están retrasando intencionalmente el progreso. 
+- Redactaré un nuevo addendum al contrato que suplante en anterior. Quedé en planteárselo para ver que acepta Viento.
+*** TODO Addendum dos
+<2022-11-11 Fri>
+**** DONE Mail a Oscar
+    CLOSED: [2022-11-10 Thu 09:07]
+<2022-11-10 Thu 09:00>
+Hola, Oscar.
+Valentina y yo hemos estado pensando mucho en la reunión que tuvimos contigo la semana pasada en Ensenada. Por eso nos hemos tardado en reaccionar, pero ya estamos listos. Como te dijimos, los atrasos, las promesas incumplidas, pero sobre todo el descuido hacia nosotros, al no informarnos con oportunidad el estatus de las cosas, nos han salido y seguirán saliendo muy caras. Queremos que Viento nos compense. Por ello, queremos firmar un nuevo adendum que establezca una compensación adicional de un segundo cajón de estacionamiento y una segunda bodega de 1x2m2 (o, en vez de dos bodegas de 1x2, una de 2x2m2). Muchas gracias, quedamos en espera de tu respuesta. 
+- Por otro lado, quisiéramos que le permitas a Ibeli, que remodela nuestro departamento, ver los acabados y equipamento de calidad superior que corresponden a los departamentos que firmamos el primer adendum, y los de calidad normal para departamentos que no lo firmaron. Así podremos compararlos. Muchas gracias.
+- ¿Cómo ves? ¿Podrías redactar el segundo adendum o lo hacemos nosotros?
+- Por otro lado, quisiéramos que le permitas a Ibeli, que remodela nuestro departamento, ver los acabados y equipamento de calidad superior que corresponden a los departamentos que firmamos el primer adendum, y los de calidad normal para departamentos que no lo firmaron. Así podremos compararlos. Muchas gracias. 
+** DONE Contabilidad Oscar
+   CLOSED: [2022-10-29 Sat 16:03]
+<2022-10-29 Sat 15:30>--<2022-10-29 Sat 16:00>
+** DONE Examen Sara Cid
+   CLOSED: [2023-03-08 Wed 07:58]
+<2022-12-08 Thu 13:00>--<2022-12-08 Thu 14:30>
+** DONE Conferencia FEE Premio Lujambio
+   CLOSED: [2022-11-21 Mon 09:52]
+<2022-11-17 Thu 19:00>--<2022-11-17 Thu 21:00>
+** DONE Ver obra c Axel y Claclis
+   CLOSED: [2022-10-30 Sun 23:08]
+<2022-10-30 Sun 11:00>--<2022-10-30 Sun 13:00>
+** DONE Lista pendientes con Oscar
+   CLOSED: [2022-11-14 Mon 08:23]
+<2022-10-31 Mon 12:30>--<2022-10-31 Mon 14:00>
+- Cómo lograrán la entrega prometida en diciembre cumpliendo todos los términos del contrato
+- Alberca, qué garantía de que la terminarán? Cuándo? --- compensación
+- Acabados --- addendum vale $144k se invalida, Otto tiene mismos acabados
+- Contabilidad de penas con/sin addendum
+- Renta/hotel en enero
+Hola, te escribí un mail sobre compensaciones el jueves 10. Confirma que lo recibiste y por favor dime cuándo tendré una respuesta. 
+Por favor, me confirmas que recibiste mi mail sobre compensaciones del jueves 10/11/22 y atenderlo?
+** DONE Buscar abogado -- Toni
+   CLOSED: [2023-03-08 Wed 07:59]
+   <2023-11-07 Tue>
+** WAIT Virgilio Muñoz
+<2022-11-11 Fri>
+** DONE Llamar a Lalo
+   CLOSED: [2022-10-27 Thu 10:15]
+<2022-10-27 Thu 10:15>
+** TODO Buscar a Tito Serrano
+<2022-10-25 Tue>
+** TODO Llamar a Juanito
+<2022-10-27 Thu>
+** DONE Llamada con Alicia
+   CLOSED: [2022-10-25 Tue 11:03]
+<2022-10-25 Tue 10:00>--<2022-10-25 Tue 11:00>
+** DONE Llamar a Toni
+   CLOSED: [2022-10-27 Thu 09:49]
+<2022-10-25 Tue 12:00>--<2022-10-25 Tue 12:30>
 ** Lista <2021-07-06 Tue>
 - [ ] Código incumbents: pegar race.before a votos -> dincumb_ran
 - [X] Mail Simpser
@@ -168,18 +367,8 @@ Mandar paraguas <2023-01-16 Mon> a don Cuco
 *** DONE Read Cuevas <2020-09-16 Wed 12:00>
 *** DONE Samuel <2020-09-29 Tue 10:30>
 *** DONE Mónica <2021-03-04 Thu>
-** 56 1880 5014 José Manuel Duarte arreglatodo
-** OAS <2020-12-15 Tue>
-** Tesis Mónica <2020-12-11 Fri>
-** Transparency paper <2020-12-10 Thu>
-** TODO Reunión tranparency paper <2020-12-12 Sat 07:00>--<2020-12-11 Fri 09:00>
 ** Old
 *** DONE Cita urólogo Fdo Ugarte (55 5564 7837 metropolitano) Tuxpan 10-104 <2020-01-23 Thu 17:00> 
-*** DONE Examen Grimaldi <2020-11-05 Thu 13:00>
-*** DONE Clase git <2020-09-14 Mon 16:00>
-   - aplicación 1: goed
-   - aplicación 2: muertes en ay-incumbents
-*** DONE Aplicación git a goed <2020-09-29 Tue 10:00>
 *** DONE Reporte SNI <2020-09-15 Tue 12:00>
 **** Actividades de investigación
 ***** Recopilación de datos
@@ -223,40 +412,6 @@ GitHub (última actualización 26 de nov. 2019).
 World, coord. por Hanna Bäck, Marc Debus y Jorge M. Fernandes (Oxford: Oxford University
 Press, por publicarse en 2021).
 *** DONE Rutina para homologar fechas en aymu a partir de calendarioConcurrencias <2020-09-15 Tue 17:00>
-*** DONE Examen José Manzur <2020-09-03 Thu 10:00>
-*** DONE Examen Fda García  <2020-09-03 Thu 12:00>
-*** DONE Examen Marisol Torres <2020-08-12 Wed 11:15>
-*** DONE Examen Daniel Velasco <2020-08-18 Tue 16:00>
-*** DONE Examen José Roberto del Valle <2020-08-21 Fri 10:00>
-*** DONE Cita Bourse MEX20200300040001 <2020-02-04 Tue 11:30>
-*** DONE Examen prof <2020-03-25 Wed 15:00>
-*** DONE Examen Lorea Urrutxua SA-1 <2019-08-23 Fri 12:00>
-*** DONE Observaciones a De Erice <2020-01-20 Mon 15:00>
-- Intro: elabora muy brevemente por qué esperas lo que dicen tus tres hipótesis 
-- Intro: deberás incluir una hipótesis sobre algún efecto político del delta gasto y su lógica
-- Cuadro 1: usa también datos censo 2010 para contrastar (a) contra encuesta y (b) hogares urbanos vs rurales en estos indicadores
-- Gráfica 1: incluye el ingreso total promedio para poder sacar porcentajes que representa cada forma de ingreso
-- Gráfica 2: confusa. Preferible un grupo de gráficos que muestren la variación (densidad) de ingresos PROGAN, PROCAMPO, PROSPERA, etc y la variación del total de ingresos gubernamentales de los hogares. 
-- Cuadro 4: compleméntalo con un ejemplo aplicado de la literatura, donde incluyas valores concretos de una MCS que te permitan discutir cómo se ha interpretado y por qué es una herramienta útil para el análisis. Un ejemplo sencillo del Reino Unido (o lo que presente la literatura) permitirá que los no expertos entendamos lo que busca y lo que encuentra este método de análisis. También permitirá entender mejor lo que obtienes en el cuadro 9.   
-- p. 42 dices que el anexo 1 presenta las preguntas de la encuesta que usaste para construir la MCS. El anexo lista todas las preguntas de la encuesta, de donde obtuviste los reactivos para la estimación. 
-- La distinción endógena vs exógena es confusa. Busca términos más claros para distinguir las categorías. Lo que llamas "instituciones endógenas" parecen más bien características estructurales de los hogares (propietarios de tierra, agricultores); las "instituciones exógnas" son más bien programas sociales.
-- Cuadro 11: por qué los hogares agrícolas propietarios reciben un porcentaje 5 veces mayor de ingreso relativo por programas sociales que los demás? La explicación del peso de las remuneraciones parece parcial (los otros rubros de ingreso deberíans usarlos en el denominador, ¿o no?)
-- Cuadro 12: Las celdas vacías no representan 0 por ciento sino un valor omitido/censurado. ¿Cómo deberías ajustar los dem'as porcentajes para evitar sesgos?
-- Nuevo cap. que extraiga conclusiones a partir de los tres experimentos contrafactuales que llevaste a cabo. La idea es proyectar tus hallazgos a la cancelación programas sociales que AMLO ha puesto en marcha, y su efecto en hogares rurales. Faltaría discitir como se podría  controlar el efecto de sus nuevos programas. 
-- Lee Díaz Cayeros, Estévez, Magaloni (axexo) en busca de la lógica política del gasto social. Esto te permitirá proponer algunas implicaciones políticas del tema que puedas analizar en otro capítulo nuevo. Cuando tengas esto, pasa a verme para que me explique aspectos que no he entendido y que me propongas tus nuevos capítulos. Mucha suerte. 
-*** DONE Examen Oscar A <2019-12-12 Thu 10:00>
-*** DROPPED Cita Dr Salomón García <2020-01-14 Tue 18:30>
-   CLOSED: [2020-01-15 Wed 09:54]
-*** DONE Cita Dr López López Dalinde 701 <2019-12-03 Tue 17:30>
-*** DONE Examen Daniel <2019-07-01 Mon 13:00>
-*** DONE Examen Patricia B-3 <2019-06-13 Thu 11:00>
-*** DONE mail CFE benoit@expat-assurance.com <2019-03-06 Wed>
-Monsieur, 
-Je voudrais des renseignements pour inscrire maman et, possiblement, son mari à la CFE. 
-Maman vient d'avoir 70 ans. Le nouveau tarif de leur assureur-santé au Mexique est devenu bien trop cher. 
-Maman est citoyenne Française, son mari citoyen Allemand. Tous deux vivent au Mexique depuis bien longtemps et n'ont jamais cotisé en France. 
-Pourriez-vous me donner une idée des plans disponibles, de leurs prix, et de démarches à suivre ? 
-Sincères remerciements,
 ** Seguro AXA <2020-01-16 Thu>
 ** Replication files polgeo
 ** Organización electoral: - pedir shapefile de casillas 2015 o 2018 <2019-03-04 Mon>
@@ -268,7 +423,7 @@ Sincères remerciements,
 - nGanó pan pri prd morena (dipFed)
 ** En emacs, estudiar C-h i d m reftex <2020-01-14 Tue>
 ** Taller acoso <2020-01-15 Wed 13:15>
-** Hacer Prueba de antígeno prostático y ultrasonido de próstata <2023-01-05 Thu>
+** Hacer Prueba de antígeno prostático y ultrasonido de próstata <2023-03-10 Fri>
 ** Para letrero Sn Agustinillo <2018-02-24 Sat>
 PELIGRO / DANGER
 *No* nade entre las dos banderas rojas
@@ -554,6 +709,37 @@ Bike Works NYC
 ***** [[http://velobase.com/ViewComponent.aspx?ID=7984896a-93ff-4f44-bb9d-080c4df0aaab][Link en Vélo base]]
 **** DONE Diámetro ejes down shifters = 9mm
 *** DONE Diseñar modelo de salpicaderas con botes plásticos de desecho 
+*** Carbon offset bonds
+- Armar grupo que reforeste regularmente el Ajusco/Desierto. 
+- ¿Qué se requiere para ganar lana con ello?
+- San Ignacio El Dátil
+- @wildcoast
+**** Recursos
+- https://www.aspiration.com/carbonprogram
+- https://www.aspiration.com/tree-planting
+- [[https://funds.aspiration.com/redwood][investing]]
+- https://www.aspiration.com/grants
+*** Salt water batteries
+**** Commercial Swiss https://www.innov.energy/en/home-storage/salidomo-9-18
+***** https://www.innov.energy/en/salt-technology
+**** How to make at home https://www.aquionenergy.com/technology/aqueous-hybrid-ion-ahi/
+- 
+**** Polarity electro-chem https://www.electricaltechnology.org/2020/07/battery-reverse-polarity-wiring.html
+**** https://www.electronicshub.org/salt-water-battery/
+***** The cathode is made with Manganese Oxide, and the anode is made with Carbon titanium phosphate. It also contains a separating fleece or synthetic divider that keeps the electrolytes separated.
+- Battery principles and voltage https://survivalistgear.co/how-to-make-a-battery/
+**** Ingredients
+- Epsom Salt = sulfato de magnesio
+- cable gordo de cobre o pennies?
+- 12 botes iguales
+**** Method to convert lead-acid battery to DV to AC 110v 
+*** Tienda fabricantes hi-fi en San Diego
+Wrensilva San Diego
+1995 Main St
+San Diego, CA 92113
+PHONE (800) 292-6353
+EMAIL hello@wrensilva.com
+wrensilva.com
 * Invitables CiPol
 ** DONE Pablo Beramendi, Duke
 ** Royce Carroll
@@ -646,6 +832,10 @@ Bike Works NYC
 ** Sheley Frankenstein <2022-07-10 Sun>
 ** Henry James The Turn of the Screw <2022-07-25 Mon>
 ** Walter Tevis The Queen's Gambit <2022-07-30 Sat>
+** Roberts Napoleon: A Life <2022-12-31 Sat>
+** Stine L'horloge maudite <2023-01-05 Thu>
+** Christie The Murder of Roger Ackroyd <2023-01-20 Fri>
+** Carrère Yoga <2023-02-24 Fri>
 * Encuestólogos
 ** David Crow para encuesta de Berumen post publicación
 ** Le ofrecemos vetar de la lista
@@ -662,7 +852,8 @@ Bike Works NYC
 9. Cantú
 10. Ulises 
 
-* WAIT Fundación ciencia en México 
+* DROPPED Fundación ciencia en México 
+  CLOSED: [2022-11-28 Mon 09:54]
 ** WAC
 As you know, amlo has been restructuring conacyt and sni. They are making research in private universities ineligible for support. In particular, that killed sni monthly stipends---between 10 and 20 % depending on salary and seniority. They are paying for that useless train in the Yucatán peninsula.
 
@@ -682,17 +873,15 @@ Problem: amlo has also changed the status of not-for-profit orgs, tax-deductible
 *** DONE Instalar luz sobre cafetera
 ** Raspar óxido y pintar herrería
 ** Toño Puebla
-- Cambiar control de la bomba de atrás
-- Buscar el origen del voltaje cambiante en la casa
-- Cablear lámpara de la jardinera del garage
+*** DONE Cambiar control de la bomba de atrás
+*** WAIT Buscar el origen del voltaje cambiante en la casa
+*** Cablear lámpara de la jardinera del garage
 *** DROPPED Hola Aura, veo con alguna preocupación el monto del presupuesto del Ing. Alvarez
-
 135000 antes
 
 144000 ahora
  23000 piso
 167000
-
 * Info Cancún
 ** [[https://www.youtube.com/watch?v=HfY71R1U4_Q][Operación del filtro de alberca]]
 ** Piscina nueva tiene ~4500 litros de agua 4.5m de diámetro y 90cm de profundidad
@@ -714,6 +903,10 @@ Problem: amlo has also changed the status of not-for-profit orgs, tax-deductible
 | sobrepones veto | C decreto           | D orr       |
 | evitas veto     | E rentas facultades | F coalición |
 |-----------------+---------------------+-------------|
+* Centro de elecciones
+** @MITelectionlab
+** https://happygitwithr.com/clone.html
+** CERN has both Open Data and CERN Analysis Preservation projects for storing data, all relevant information, and all software and tools needed to preserve an analysis at the large experiments of the LHC.
 * Sabático 2022
 ** año start  end
      ago  jul
@@ -1803,99 +1996,34 @@ Hola Alejandro, escribo para pedirte un título o tema de lo que presentarás en
 - [X] Juego no te enojes (M y/o A)
 - [X] Pistola Nerf (M) 200
 - [ ] Cuadro para Vala
-* Inventario compras Ensenada updated <2022-09-25 Sun>
-** Baño
-- [X] 4 toallas de mano                                      CAJA 5
-- [X] 4 toallas de ducha                                     CAJA 5
-- [X] 1 tapete de baño                                       CAJA 3
-** Cocina
-- [X] Destapator                                             CAJA 1
-- [X] jarra de barro mixteca
-- [X] Ensaladera barro patas de serpiente 
-- [X] 1 pocillo de lava con tapa
-- [X] 1 tarro de cobre                                       CAJA 3
-- [X] 1 cuchara mescladora/ensaladera tefal                  CAJA 6
-- [X] 1 tijeras de cocina                                    CAJA 4
-- [X] 1 servilletero de madera                               CAJA 4
-- [X] 1 cuchillo Laguiole de fuet                            CAJA 4
-- [X] 1 rebanador de queso delgado                           CAJA 1
-- [X] 1 cuchillo de pan                                      CAJA 6
-- [X] 1 cuchillo de carne                                    CAJA 6
-- [X] 1 cuchillo de cocina chico                             CAJA 6
-- [X] 2 egg coddlers                                         CAJA 6
-- [X] 4 vasos térmicos café                                  CAJA 4
-- [X] 2 vasos térmicos café express                          CAJA 1
-- [X] 10 vasos cortados para vino                            CAJA 1
-- [X] 6 vasos de botella cortada para agua                   CAJA 4
-- [X] 6 vasos nocilla                                        CAJA 1
-- [X] 6 vasos mezcaleros olmecas                             CAJA 4
-- [X] 2 vasos mezcaleros cortados                            CAJA 4
-- [X] 2 boles mixtecos                                       CAJA 6
-- [X] 2 tazas de café mixtecas                               CAJA 4
-- [X] 3 platitos café mixtecos                               CAJA 1
-- [X] mini tortillero                                        CAJA 6
-- [X] 1 jarra de agua plástica con tapa                      CAJA 4
-- [X] 1 olla chica metal con vaporera                        CAJA 6 en parte
-- [X] 1 olla para calentar chocolate de teflón
-- [ ] 2 ollas chicas wf 16cm (casa Iza)
-- [ ] 2 ollas medianas wf 20cm (casa Iza)
-- [ ] 1 olla grande wf 24cm (casa Iza)
-- [ ] vajilla completa para 6 (casa Iza)
-- [ ] 1 platón cerámica horno 20cm (casa Iza)
-- [ ] 2 platones cerámica horno 24cm (casa Iza)
-- [X] 1 coladera escurridora de ensalada
-- [X] juego de cubiertos completo                            CAJA 4
-- [X] 1 platón para servir mixteco chico                     CAJA 4
-- [X] molino de café                                         CAJA 3
-- [X] 2 tablas de madera chicas                              CAJA 3
-- [X] 1 tablas de madera mediana                             CAJA 4
-- [X] 2 mandiles                                             CAJA 1
-- [X] molino de pimienta                                     CAJA 4
-- [X] taza medidora                                          CAJA 2
-- [X] couteau à huitres                                      CAJA 6
-- [X] enfriador de vino blanco                               CAJA 2
-- [X] Posa cosas calientes de corchos de vino                CAJA 6
-- [X] Posa cosas calientes metálico                          CAJA 4
-- [X] Báscula                                                CAJA 6
-- [X] Utencilios de cocina                                   CAJA 6
-- [X] Toallas de cocina                                      CAJA 3
-- [X] Báscula                                                CAJA 6
-- [ ] licuadora
-** Blancos
-- 6 sábanas de cajón individual
-- 4 fundas de edredón individual
-- 1 funda de edredón king size
-- 4 edredones individual
-- 1 edredón king size
-- [X] 1 mantel                                               CAJA 4
-- [X] Sábanas matrimonial (cajón, 2 almohadas)
-- [ ] Sábanas matrimonial (cajón, plana, 2 almohadas)
-- [ ] Sábanas matrimonial (cajón, duvet cover, 2 almohadas)
-- [X] 1 sarape de saltillo Nonno                             CAJA 3
-- [X] 2 sarapes de saltillo comunes                          CAJA 5
-- [X] 1 cubrecama matrimonial de algodón azul                CAJA 3
-- [X] 1 cubrecama matrimonial de batik                       CAJA 3
-- [X] 2 cubrecamas chiapanecos de cama individual            CAJA 4
-** Otros
-- [X] colgadores de escobas                                  CAJA 4
-- [ ] biznaga
-- [X] Armadillo de terracota
-- [ ] Señor de terracota
-- [ ] Pelota Ferrari
-- [ ] Sun god de Eric Ledoux
-- [ ] Ballena de madera
-- [ ] Comal con puesta de sol
-- [ ] repisa que se hace mesa
-- [X] vaso florero chico                                     CAJA 5
-- [X] venado de terracota                                    CAJA 5
-- [ ] Cuadro de Sputnik
-- [X] Candelabro de cristal de techo
-- [X] Lámpara con vaso verde                                 CAJA 2
-- [X] Rompecabezas                                           CAJA 6
-- [ ] Sillas Van Beuren
-- [ ] Lámpara de plafón de mimbre
-- [X] Lámpara veladora onix                                  CAJA 3
- 
+** navidad 2022
+*** envuelto
+**** Calendario de New Yorker                                          :Juan:
+**** Portachunches de bici                                             :Juan:
+**** Rompecabezas mini                                                  :Val:
+**** Lamparita de teléfono                                              :Val:
+**** Dos mermeladas de frambuesa                                        :Iza:
+**** Lamparita de teléfono                                              :Iza:
+**** Foto enmarcada                                                     :Iza:
+**** Despachador de dúrex                                              :Vala:
+**** Collar TANE                                                       :Vala:
+**** Filtros café                                                      :Vala:
+**** School of Good and Evil                                           :Aure:
+**** Tableta de dibujo                                                 :Aure:
+**** Suéter japonés                                                    :Aure:
+**** Pin de kitty                                                      :Aure:
+**** Calendario gatitos                                                :Aure:
+**** Ajedrez                                                            :Mar:
+**** Guantes de fut                                                     :Mar:
+**** Balón de fut                                                       :Mar:
+**** Bat de beis                                                        :Mar:
+**** Carritos de armar                                                  :Mar:
+**** DONE Pantuflas de Chewbacca                                        :Mar:
+**** Juego Nintendo                                                     :Mar:
+**** Catán                                                         :Aure:Mar:
+* DONE Inventario compras Ensenada updated
+  CLOSED: [2023-03-13 Mon 11:21]
+PASO a formato excel: mudanza.ods
 * ITAM 2021
 ** Rector
 - Sí soy crítico, me siento alienado (como muchos más)
@@ -1948,5 +2076,9 @@ Hola Miguel, escribo para felicitarte por en nombramiento en nuestra división, 
 1 Direc escolar
  biblio
 admiva y finan
+** Hair growth (NYT https://www.nytimes.com/2022/08/18/health/minoxidil-hair-loss-pills.html)
+*** https://pubmed.ncbi.nlm.nih.gov/29231239/: Objective: To report on a case series of women with pattern hair loss (PHL) treated with once daily minoxidil 0.25 mg and spironolactone 25 mg.
+*** Take minoxidil orally, 1/40th of a pill
+*** If stray hairs appear, "Dr. Sinclair, have added another drug — very low doses of spironolactone, a blood pressure drug that also blocks certain sex hormones called androgens — to try to prevent unwanted hair growth."
 * Fin
 
