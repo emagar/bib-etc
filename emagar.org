@@ -685,6 +685,28 @@ San Diego, CA 92113
 PHONE (800) 292-6353
 EMAIL hello@wrensilva.com
 wrensilva.com
+*** Calendrier LFM 2025-26
+Vacances automne <2025-10-22 Wed>--<2025-11-02 Sun>
+<2025-09-16 Tue>
+<2025-11-17 Mon>
+Vacances noël    <2025-12-17 Wed>--<2026-01-04 Sun>
+<2026-02-02 Mon>
+Vacances hiver   <2026-02-14 Sat>--<2026-02-22 Sun>
+<2026-03-16 Mon>
+Pâques           <2026-03-28 Sat>--<2026-04-12 Sun>
+<2026-05-01 Fri>
+Vacances mai     <2026-05-23 Sat>--<2026-05-31 Sun>
+*** Savon maison
+- [[http://lesrecettesdejuliette.fr/2019/03/savons-maison-mode-d-emploi-et-recettes-saponification-a-froid.html][Saponification à froid]]
+- "Faire ses savons naturels, c'est facile", de Cyrille Saura Zellweger, aux éditions Jouvence
+- [[https://elogedelacuriosite.com/diy-astuces/recette-savon-alep-maison/][Recette savon d'Alep]]
+- [[https://www.youtube.com/watch?v=4QoNJNJVvJM][Vidéo savon d'Alep]]
+- [[https://ileauxepices.com/blog/2015/10/21/recette-faire-du-savon-de-marseille-maison-soi-meme/wpid9656/][Savon de Marseille maison]]
+- [[https://www.flow-savonnerie.com/dossier/soude-caustique-savon/#google_vignette][Soude caustique = hydroxide de sodium]]
+- [[http://soapcalc.net/calc/soapcalcwp.asp][Soap calc]]
+- [[https://mexico.pochteca.net/conoce-que-es-la-sosa-caustica-y-para-que-sirve/][Pochteca vende al mayoreo]]
+- [[https://listado.mercadolibre.com.mx/sosa-caustica][Mercado libre]]
+- [[https://fr.wikihow.com/fabriquer-de-la-soude][Soude de potassium maison]] (marche pour savon liquide)
 * Libros leídos
 ** Leïla Slimani Chanson Douce  <2017-08-26 Sat>
 ** Maalouf Les Désorientés <2017-09-26 Tue>
@@ -738,6 +760,8 @@ wrensilva.com
 ** Ernaux L'autre fille <2024-06-23 Sun>
 ** Magris Instantáneas <2025-02-11 Tue>
 ** Beard SPQR <2025-04-27 Sun>
+** Tesson Récits dáventures <2025-05-29 Thu>
+** Lamartine Grazziela <2025-06-13 Fri>
 * Info Cancún
 ** [[https://www.youtube.com/watch?v=HfY71R1U4_Q][Operación del filtro de alberca]]
 ** Piscina nueva tiene ~4500 litros de agua 4.5m de diámetro y 90cm de profundidad
