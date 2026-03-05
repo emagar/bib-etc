@@ -816,6 +816,9 @@ Revolución <2025-11-17 Mon>
 ** MUTIS La muerte del estratega <2025-09-12 Fri>
 ** AGUSTIN La panza del Tepozteco <2025-09-16 Tue>
 ** EVERETT Los números <2025-10-08 Wed>
+** COOPER The Last of the Mohicans <2025-12-20 Sat>
+** MELVILLE Benito Cereno <2026-02-03 Tue>
+** NOREK Les guerriers de l'hiver <2026-03-01 Sun>
 * Info Cancún
 ** [[https://www.youtube.com/watch?v=HfY71R1U4_Q][Operación del filtro de alberca]]
 ** Piscina nueva tiene ~4500 litros de agua 4.5m de diámetro y 90cm de profundidad
